@@ -1,0 +1,46 @@
+[DEFAULT]
+depends   = base/libpaper; base/librsvg; base/cairo; base/fribidi; base/sdl
+            base/sdl-image; base/sdl-mixer; base/sdl-ttf; base/sdl-pango
+            sdk/polyol
+
+[Activity]
+implement = tuxpaint
+name      = Tux Paint
+summary   = Drawing program designed for young children
+description = Tux Paint is a free, award-winning drawing program for children
+            ages 3 to 12 (for example, preschool and K-6). It combines an
+            easy-to-use interface, fun sound effects, and an encouraging
+            cartoon mascot who guides children as they use the program.
+license   = GPLv2
+homepage  = http://www.tuxpaint.org/
+category  = Education; Art
+icon      = activity-icon
+
+version   = 0.9.22
+stability = stable
+
+requires  = %(depends)s
+exec      = activity/tuxpaint
+mime_types = image/bmp;image/gif;image/jpeg;image/png;image/tiff
+
+# activity.info original options
+activity_version = 5
+bundle_id = org.tuxpaint
+
+[Application]
+binding   = TUXPAINT_DATA_PREFIX share/tuxpaint
+            TUXPAINT_LOCALEDIR share/locale
+            TUXPAINT_MAGIC_PREFIX lib/tuxpaint/plugins
+exec      = bin/tuxpaint --nolockfile
+
+[Archive]
+arch      = any
+
+[Build]
+requires  = %(depends)s; base/pkg-config; base/make; base/gcc-c; base/gperf
+make      = make PREFIX=%(PREFIX)s SUGAR=1 OPTFLAGS="%(CFLAGS)s"
+install   = make PREFIX=%(PREFIX)s SUGAR=1 DESTDIR=%(DESTDIR)s install
+
+[Source]
+exclude   = CVS; *.patch; *.o; /build; obj/*.c; *.mo; /tuxpaint; *.tar.*;
+            /tuxpaint-stamps**; lockfile.dat

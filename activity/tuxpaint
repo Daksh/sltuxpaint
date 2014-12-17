@@ -1,0 +1,6 @@
+#!/bin/sh
+export LD_LIBRARY_PATH=lib:$LD_LIBRARY_PATH
+export TUXPAINT_DATA_PREFIX=share/tuxpaint
+export TUXPAINT_LOCALEDIR=share/locale
+export TUXPAINT_MAGIC_PREFIX=lib/tuxpaint/plugins
+exec bin/tuxpaint --nolockfile "$@"
