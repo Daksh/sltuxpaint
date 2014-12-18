@@ -102,6 +102,10 @@
 #define TPAINT_AMASK 0x000000ff
 #endif
 
+typedef unsigned char Bytef; 
+typedef unsigned long int uLong;
+typedef uLong uLongf;
+
 static unsigned draw_colors(unsigned action);
 
 /* hide all scale-related values here */
