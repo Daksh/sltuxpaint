@@ -80,10 +80,12 @@ PNG:=$(if $(PNG),$(PNG),$(call linktest,-lpng12,))
 FRIBIDI_LIB:=$(shell $(PKG_CONFIG) --libs fribidi)
 FRIBIDI_CFLAGS:=$(shell $(PKG_CONFIG) --cflags fribidi)
 
+COMMON_LIB=-lm -lz
+
 windows_ARCH_LINKS:=-lintl $(PNG) -lz -lwinspool -lshlwapi $(FRIBIDI_LIB)
 osx_ARCH_LINKS:=$(PAPER_LIB) $(FRIBIDI_LIB)
 beos_ARCH_LINKS:="-lintl $(PNG) -lz -lbe -lnetwork -liconv $(FRIBIDI_LIB) $(PAPER_LIB) -lstdc++"
-linux_ARCH_LINKS:=$(PAPER_LIB) $(FRIBIDI_LIB)
+linux_ARCH_LINKS:=$(PNG) $(FRIBIDI_LIB) $(PAPER_LIB) $(COMMON_LIB)
 ARCH_LINKS:=$($(OS)_ARCH_LINKS)
 
 windows_ARCH_HEADERS:=src/win32_print.h
