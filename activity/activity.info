@@ -24,7 +24,7 @@ exec      = activity/tuxpaint
 mime_types = image/bmp;image/gif;image/jpeg;image/png;image/tiff
 
 # activity.info original options
-activity_version = 5
+activity_version = 7
 bundle_id = org.tuxpaint
 
 [Application]
