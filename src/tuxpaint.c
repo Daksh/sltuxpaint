@@ -102,9 +102,6 @@
 #define TPAINT_AMASK 0x000000ff
 #endif
 
-#define Bytef unsigned char
-#define uLongf unsigned long
-
 static unsigned draw_colors(unsigned action);
 
 /* hide all scale-related values here */
@@ -454,6 +451,7 @@ extern WrapperData macosx;
 #include "sounds.h"
 #include "tip_tux.h"
 #include "great.h"
+#include <zlib.h>
 
 #include "im.h"
 
