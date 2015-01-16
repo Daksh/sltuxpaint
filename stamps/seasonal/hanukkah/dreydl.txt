@@ -1,0 +1,26 @@
+A dreydl.
+af.utf8='n dreidel
+ast.utf8=Una peonza.
+ca.utf8=Un dreidel.
+da.utf8=En dreidel.
+de.utf8=Ein Kreisel.
+el.utf8=Σβούρα με τέσσερις πλευρές.
+en_GB.utf8=A dreydl.
+es.utf8=Un trompo.
+eu.utf8=Dreydl-a
+fr.utf8=Une toupie dreidel.
+gu.utf8=ડ્રાયડલ.
+he.utf8=סביבון
+it.utf8=Una specie di trottola ebraica detta dreidel.
+ja.utf8=ハヌカのこまあそび(ドレイドル)
+ka.utf8=ბზრიალა, ციბრუტი.
+km.utf8=ឌ្រីដេល
+nb.utf8=En dreidel – en jødisk snurrebass.
+nn.utf8=Ein dreidel – ein jødisk snurrebass.
+pt_BR.utf8=Um pião sevivon.
+pt_PT.utf8=Um dreydl.
+ru.utf8=Хануккальный волчок (дрейдл).
+sv.utf8=En drejdel.
+uk.utf8=Дрейдл (чотирикутна дзига).
+zh_CN.utf8=骰子
+zh_TW.utf8=四面骰子

@@ -1,0 +1,22 @@
+An adhesive bandage.
+ast.utf8=Una tirita.
+ca.utf8=Una tireta.
+da.utf8=Et plaster.
+el.utf8=Αυτοκόλλητος επίδεσμος.
+en_GB.utf8=An adhesive bandage.
+es.utf8=Una curita.
+eu.utf8=Benda
+fr.utf8=Un pansement adhésif.
+gu.utf8=ગુંદર પટ્ટી.
+he.utf8=אגד מידבק
+it.utf8=Un cerotto.
+ja.utf8=バンドエイド
+ka.utf8=წებოვანი სახვევი.
+nn.utf8=Eit plaster.
+pt_BR.utf8=Um band-aid.
+pt_PT.utf8=Um autocolante.
+ru.utf8=Лейкопластырь.
+sk.utf8=Leukoplast.
+sv.utf8=Ett plåster.
+uk.utf8=Лейкопластир.
+zh_TW.utf8=OK 繃。

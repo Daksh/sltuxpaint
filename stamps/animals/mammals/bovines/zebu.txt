@@ -1,0 +1,24 @@
+A zebu.
+af.utf8='n Zebu.
+ast.utf8=Un cebú.
+ca.utf8=Un zebú.
+da.utf8=En zebu.
+de.utf8=Ein Zebu.
+el.utf8=Βόδι της Ασίας.
+en_GB.utf8=A zebu.
+es.utf8=Un cebú.
+eu.utf8=Zebua
+fr.utf8=Un zébu.
+gu.utf8=ઝીબ્યૂ.
+it.utf8=Uno zebù.
+ja.utf8=コブウシ
+ka.utf8=ზებუ.
+nn.utf8=Ein sebu – ein pukkelokse.
+pt_BR.utf8=Um boi zebu.
+pt_PT.utf8=Um zebu.
+ru.utf8=Зебу.
+sk.utf8=Zebu.
+sv.utf8=En sebu.
+uk.utf8=Зебу, індійський горбатий бик.
+zh_CN.utf8=犁牛。
+zh_TW.utf8=瘤牛。

@@ -1,0 +1,25 @@
+A closed padlock.
+af.utf8='n Geslote slot.
+ast.utf8=Un candáu zarráu.
+ca.utf8=Un cadenat tancat.
+da.utf8=En låst hængelås.
+de.utf8=Ein abgeschlossenes Vorhängeschloss.
+el.utf8=Κλειστό λουκέτο.
+en_GB.utf8=A closed padlock.
+es.utf8=Un candado cerrado.
+eu.utf8=Giltzarrapo itxia
+fr.utf8=Un cadenas fermé.
+gu.utf8=બંધ તાળું.
+he.utf8=מנעול סגור
+it.utf8=Un lucchetto chiuso.
+ja.utf8=なんきんじょう を しめたところ
+ka.utf8=დახურული საკეტი.
+nn.utf8=Ein låst hengelås.
+pt_BR.utf8=Um cadeado fechado.
+pt_PT.utf8=Um cadeado fechado.
+ru.utf8=Закрытый висячий замок.
+sk.utf8=Zamknutá kládka.
+sv.utf8=Ett låst hänglås.
+uk.utf8=Закритий висячий замок.
+zh_CN.utf8=已关闭的挂锁。
+zh_TW.utf8=關上的鎖。

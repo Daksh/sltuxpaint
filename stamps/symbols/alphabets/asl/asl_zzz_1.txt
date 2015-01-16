@@ -1,0 +1,27 @@
+The sign for the number 1 in American Sign Language.
+af.utf8=Die syfer 1 in Amerikaanse gebaretaal.
+ast.utf8=El númberu 1 nel llinguax de señes americanu.
+ca.utf8=El signe pel nombre 1 en el llenguatge de signes americà.
+da.utf8=Tegnet for tallet 1 i amerikansk tegnsprog.
+de.utf8=Die Zahl 1 in der Amerikanischen Gebärdensprache.
+el.utf8=Το σύμβολο για τον αριθμό 1  στην Αμερικάνικη νοηματική.
+en_GB.utf8=The sign for the number 1 in American Sign Language.
+es.utf8=El número 1 en el lenguaje de señas americano.
+eu.utf8=1 zenbakiaren zeinua ameriketako gorren hizkuntan
+fr.utf8=Le chiffre 1 en langage des signes américain.
+gu.utf8=અમેરિકન સંજ્ઞા ભાષામાં અક્ષર 1 ની સંજ્ઞા.
+it.utf8=Il segno corrispondente al numero 1 nel linguaggio dei segni americano.
+ja.utf8=すうじの「1」を あらわす アメリカの しゅわ
+ka.utf8=ნიშანი ციფრისთვის 1 ამერიკულ ნიშნების ენაში.
+km.utf8=សញ្ញា​អក្សរ 1 ជា​ភាសា​សញ្ញា​អាមេរិក ។
+nb.utf8=Tegnet for tallet 1 i det amerikanske tegnspråket.
+nn.utf8=Teiknet for talet 1 i det amerikanske teiknspråket.
+pt_BR.utf8=O gesto para número 1 na Linguagem Americana de Sinais.
+pt_PT.utf8=A marca para o número 1 no idioma Americano.
+ru.utf8=Знак для цифры 1 в американском языке жестов.
+sk.utf8=Znak pre číslo 1 v americkej znakovej reči.
+sl.utf8=Znak za črko 1 v znakovnem jeziku
+sv.utf8=Tecknet för siffran 1 i det amerikanska teckenspråket.
+uk.utf8=Знак для цифри 1 на американській мові знаків.
+zh_CN.utf8=美国手语中数字１的标示。
+zh_TW.utf8=美國手語的數字 1

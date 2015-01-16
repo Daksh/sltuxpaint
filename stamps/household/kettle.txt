@@ -1,0 +1,27 @@
+An electric kettle.
+af.utf8='n elektriese ketel
+ast.utf8=Un termu lléctricu.
+ca.utf8=Un escalfador d'aigua elèctric.
+da.utf8=En elektrisk kedel.
+de.utf8=Ein Wasserkocher.
+el.utf8=Βραστήρας.
+en_GB.utf8=An electric kettle.
+es.utf8=Una caldera eléctrica.
+eu.utf8=Kafea egitekoa
+fr.utf8=Une bouilloire électrique.
+gu.utf8=ઇલેકટ્રિક કીટલી.
+he.utf8=קומקום חשמלי 
+it.utf8=Un bollitore elettrico.
+ja.utf8=でんきポット
+ka.utf8=ელექტროქვაბი.
+km.utf8=កំសៀវ​អាគ្គីសនី
+nb.utf8=En tekoker.
+nn.utf8=Ein tekokar.
+pt_BR.utf8=Uma cafeteira.
+pt_PT.utf8=Uma chaleira eléctrica.
+ru.utf8=Электрический чайник.
+sk.utf8=Elektrická kanvica.
+sv.utf8=En elektrisk vattenkokare.
+uk.utf8=Електричний чайник.
+zh_CN.utf8=电壶。
+zh_TW.utf8=電水壺

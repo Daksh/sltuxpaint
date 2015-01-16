@@ -1,0 +1,26 @@
+A pigeon.
+af.utf8='n Duif.
+ast.utf8=Una palomba.
+ca.utf8=Un colom.
+da.utf8=En due.
+de.utf8=Eine Taube.
+el.utf8=Περιστέρι.
+en_GB.utf8=A pigeon.
+es.utf8=Una paloma.
+eu.utf8=XXXXXXXXXXXXXX
+fr.utf8=Un pigeon.
+gu.utf8=કબૂતર.
+he.utf8=יונה
+it.utf8=Un piccione.
+ja.utf8=ハト
+ka.utf8=მტრედი.
+nn.utf8=Ei due.
+pt_BR.utf8=Um pombo.
+pt_PT.utf8=Um pombo.
+ru.utf8=Голубь.
+sk.utf8=Holub.
+sl.utf8=Golob
+sv.utf8=En duva.
+uk.utf8=Голуб.
+zh_CN.utf8=一只鸽子。
+zh_TW.utf8=鴿子。

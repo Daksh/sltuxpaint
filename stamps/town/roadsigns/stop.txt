@@ -1,0 +1,21 @@
+A “Stop” sign. Stop here, then go when it’s your turn.
+ast.utf8=Una señal de Stop. Para equí, pasa cuando te toque.
+ca.utf8=Una senyal d'"Stop". Pareu en la marca, després avanceu quan us toqui.
+da.utf8=Et stoptegn. Stop her, gå videre når det er din tur.
+el.utf8=Πινακίδα «STOP». Σταμάτα εδώ και ξεκίνα όταν έρθει η σειρά σου.
+en_GB.utf8=A “Stop” sign. Stop here, then go when it’s your turn.
+es.utf8=Una señal de “Pare”. Detente aquí, luego sigue cuando sea tu turno.
+eu.utf8=Stop seinalea. Itxaron egin behar duzu.
+fr.utf8=Un signal "Stop". Tu t'arrêtes, puis tu avances lorsque c'est ton tour.
+gu.utf8="ઉભા રહો" નિશાની. અહીં ઉભા રહો, પછી જ્યારે તમારે વારો આવે ત્યારે જાઓ.
+it.utf8=Un segnale di 'Stop'. Fermati e aspetta il tuo turno per ripartire.
+ja.utf8=「とまれ」の ひょうしき。いったん とまって、よくみて すすもう。
+ka.utf8=ნიშანი «შეჩერდი». შეჩერდი და დაელოდე შენს ჯერს.
+nn.utf8=Eit stoppskilt. Stopp framfor skiltet, og køyr når det er din tur.
+pt_BR.utf8=Uma placa de "Pare". Pare aqui e espere a sua vez de ir.
+pt_PT.utf8=Um sinal STOP. Tens que parar. Só depois é que podes curvar.
+ru.utf8=Знак "Стоп". Вначеле остановись, затем проезжай.
+sk.utf8=Značka „Stop”. Zastav a choď, až keď na teba príde rad.
+sv.utf8=En “Stopp”-skylt. Stanna här, gå sedan när det är din tur.
+uk.utf8=Знак «Стоп». Спочатку спинись, потім проїжджай.
+zh_TW.utf8=停車號誌，看到此號誌要停車，該你走的時候才走。

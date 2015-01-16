@@ -1,0 +1,27 @@
+“Give Way” means you have to let other people go first.
+af.utf8=“Toegee” beteken jy moet ander mense eerste laat gaan. 
+ast.utf8=“Ceda'l pasu” significa que tienes de dexar pasar al otru primero.
+ca.utf8=Una senyal de "Cediu el pas".
+da.utf8=»Giv plads« betyder at du må lade andre gå først.
+de.utf8=Vorfahrt beachten!
+el.utf8="Δώσε προτεραιότητα" σημαίνει να  επέτρεψεις στους άλλους ανθρώπους να προχωρήσουν πρώτοι. 
+en_GB.utf8=‘Give Way’ means you have to let other people go first.
+es.utf8=“Ceda el paso” significa que debes dejar pasar al otro primero.
+eu.utf8=Eman besteei bidea
+fr.utf8=Ce panneau signifie que tu dois laisser passer les autres personnes.
+gu.utf8=“રસ્તો આપવો” એટલે કે તમારે બીજા લોકોને પહેલાં જવા દેવા જોઇએ.
+he.utf8=לתת זכות קדימה אומר שאתה צריך לתת לאנשים אחרים, עבור הראשון
+it.utf8="Give Way" significa dare la precedenza, cioè lasciar passare per primi gli altri.
+ja.utf8=この ひょうしきがあるところでは みちを ゆずりましょう。
+ka.utf8=ნიშანი «დაუთმეთ გზა» ნუშნავს, რომ ჯერ სხვები უნდა გაატაროთ.
+km.utf8=“ផ្ដល់​ផ្លូវ” មានន័យ​ថា​អ្នក​ត្រូវ​អនុញ្ញាត​ឲ្យ​អ្នក​ផ្សេង​ទៅ​មុន
+nb.utf8=«Vikeplikt» betyr at du må la andre passere først.
+nn.utf8=«Vikeplikt» tyder at du må la andre passera først.
+pt_BR.utf8="Dê a preferência" significa que você deve deixar os outros irem primeiro.
+pt_PT.utf8=“Aguarde” significa que tens de deixar outras pessoas irem primeiro.
+ru.utf8=Знак «Уступите дорогу» означает, что надо сначала пропустить других.
+sk.utf8=Značka „Daj prednosť v jazde” znamená, že musíš počkať, kým prejdú ostatní.
+sv.utf8="Lämna företräde" betyder att du måste låta andra gå först.
+uk.utf8=Знаком «Поступитеся дорогою» означає, що треба спочатку пропустити інших.
+zh_CN.utf8=“让路”意思是你得让别人先走。
+zh_TW.utf8='讓路'表示你要讓其他人跑第一

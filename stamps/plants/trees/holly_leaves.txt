@@ -1,0 +1,26 @@
+Holly leaves are shiny and have prickles!
+af.utf8=Holly-blare is blink en het stekels!
+ast.utf8=¡Les fueyes de carrascu rellumen y tienen pinchos!
+ca.utf8=Boix grèvol.
+da.utf8=Hellige blade skinner og har prikker!
+de.utf8=Stechpalmenblätter sind glänzend und haben Dornen!
+el.utf8=Τα φύλλα λιιόπρινου γυαλίζουν και έχουν αγκάθι
+en_GB.utf8=Holly leaves are shiny and have prickles!
+es.utf8=¡Las hojas de acebo son brillantes y tienen púas!
+eu.utf8=Gorosti hostoak
+fr.utf8=Les feuilles de houx sont brillantes et ont des piquants !
+gu.utf8=પવિત્ર પાંદડાઓ પ્રકાશિત હોય છે અને જોડે વળેલું પાનું હોય છે.
+it.utf8=Le foglie di agrifoglio sono lucide e pungono!
+ja.utf8=ヒイラギの　はっぱ。ピカピカしていて とげが あるよ！
+ka.utf8=ბაძგის ფოთლები ბრჭყვიალა და ეკლებიანია!
+km.utf8=ស្លឹក​ហូលី គឺ​ភ្លឺ និង​មាន​បន្លា
+nb.utf8=En kristtorn har blanke blader med torner.
+nn.utf8=Ein kristtorn har blanke blad med tornar.
+pt_BR.utf8=As folhas de Natal são brilhantes e possuem espinhos!
+pt_PT.utf8=As folhas do azevinho são brilhantes e têm espinhos.
+ru.utf8=Листья падуба - блестящие и с шипами!
+sk.utf8=Listy cesmíny svietia, ale majú aj pichliače!
+sv.utf8=Järneksblad är glansiga och är prickiga!
+uk.utf8=Листи гостролиста блискучі та мають колючки!
+zh_CN.utf8=冬青树叶发亮并且有刺！
+zh_TW.utf8=冬青樹的葉子有光澤而且有刺!

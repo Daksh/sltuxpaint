@@ -1,0 +1,25 @@
+This gun last saw service during World War 2.
+af.utf8=Hierdie kannon is in die 2e Wêreldoorlog laas gebruik.
+ast.utf8=Esti arma usóse por vez postrera na Segunda Guerra Mundial.
+ca.utf8=Aquest tanc va servir per darrera vegada durant la segona guerra mundial.
+da.utf8=Denne pistol var sidst i tjeneste under 2. verdenskrig.
+de.utf8=Ein Maschinengewehr aus dem zweiten Weltkrieg.
+el.utf8=Αυτό το τάνκ προσέφερε υπηρεσίες κατά τη διάρκεια του 2ου Παγκόσμιου πολέμου.
+en_GB.utf8=This gun last saw service during World War 2.
+es.utf8=Esta arma sirvió por última vez durante la Segunda Guerra Mundial.
+eu.utf8=Bigarren mundu gerra saskoiko tankea
+fr.utf8=Ce canon a servi durant la deuxième guerre mondiale.
+gu.utf8=આ બંદૂકને છેલ્લે વિશ્વ યુધ્ધ ૨ દરમિયાન સેવામાં લેવાઇ હતી.
+he.utf8=זה הנשק האחרון ראה שירות במלחמת העולם 2
+it.utf8=Questa arma è stata usata per l'ultima volta durante la Seconda Guerra Mondiale.
+ja.utf8=せんそう （だいにじ　せかいたいせん） でつかわれた　ほうだい
+ka.utf8=ეს იარაღი ბოლოს II მსოფლიო ომში გამოიყენეს.
+km.utf8=កាំភ្លើង​រណារ ក្នុង​សង្គ្រាម​លោក​លើក​ទី ២
+pt_BR.utf8=Esse tanque foi visto em serviço pela última vez durante a 2ª Guerra Mundial.
+pt_PT.utf8=Esta arma foi utilizada pela última vez na 2ª Grande Guerra.
+ru.utf8=Это орудие последний раз воевало во время Второй мировой войны.
+sk.utf8=Túto zbraň naposledy použili počas 2. svetovej vojny.
+sv.utf8=Denna kanon användes senast i andra världskriget.
+uk.utf8=Ця гармата останній раз служила протягом другої світової війни.
+zh_CN.utf8=这支枪最后一次服役是在二战期间。
+zh_TW.utf8=服役於二次世界大戰的槍

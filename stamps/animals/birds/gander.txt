@@ -1,0 +1,27 @@
+A gander.
+af.utf8='n mannetjiegans
+ast.utf8=Un gansu machu.
+ca.utf8=Una oca.
+da.utf8=En gase.
+de.utf8=Ein Gänserich.
+el.utf8=Αρσενική χήνα.
+en_GB.utf8=A gander.
+es.utf8=Un ganso macho.
+eu.utf8=Antzara
+fr.utf8=Un jars.
+gu.utf8=હંસ.
+he.utf8=להציץ
+it.utf8=Un papero.
+ja.utf8=ガン
+ka.utf8=მამალი ბატი.
+km.utf8=ក្ងាន​ឈ្មោល
+nb.utf8=En gasse – en hanngås.
+nn.utf8=Ein gasse – ei hanngås.
+pt_BR.utf8=Um ganso.
+pt_PT.utf8=Um ganso.
+ru.utf8=Гусак.
+sk.utf8=Gunár.
+sv.utf8=En gås.
+uk.utf8=Гусак.
+zh_CN.utf8=雄鹅。
+zh_TW.utf8=鵝

@@ -1,0 +1,27 @@
+A UK post box. Put your letter in here!
+af.utf8='n Posbus. Sit jou brief hierin!
+ast.utf8=Un buzón de correos inglés. ¡Echa la to carta equí!
+ca.utf8=Una bústia anglesa. Poseu-hi la carta!
+da.utf8=En UK postkasse. Læg dine breve heri!
+de.utf8=Ein Briefkasten aus England. Wirf deinen Brief hier ein!
+el.utf8=Βρετανικό κουτί αλληλογραφίας. Τοποθέτησε το γράμμα εδώ!
+en_GB.utf8=A UK post box. Put your letter in here!
+es.utf8=Un buzón de correos inglés. ¡Pon tu carta aquí!
+eu.utf8=Erresuma Batuko posta-kutxa. Sartu gutuna hemen!
+fr.utf8=Une boîte aux lettres anglaise. Mettez-y votre lettre !
+gu.utf8=યુકેનું પોસ્ટ બોક્સ. તમારો પત્ર અહીં નાખો!
+he.utf8=בריטניה תיבת דואר. שים את המכתב כאן!
+it.utf8=Una casella per la posta inglese. Imbuca qui la tua lettera!
+ja.utf8=イギリスの　ゆうびんポスト。ここにてがみをいれます！
+ka.utf8=ბრიტანული საფოსტო ყუთი. გაგზავნეთ წერილები!
+km.utf8=ប្រអប់​សំបុត្រ​ចក្រភព​អង់គ្លេស ។ ដាក់​សំបុត្រ​របស់​អ្នក​នៅ​ក្នុង​វា​ទៅ !
+nb.utf8=En britisk postboks.
+nn.utf8=Ein britisk postboks.
+pt_BR.utf8=Uma caixa de correio inglesa. Ponha sua carta nela!
+pt_PT.utf8=Caixa de correio do Reino Unido. Põe as letras aqui!
+ru.utf8=Британский почтовый ящик. Клади письмо сюда!
+sk.utf8=Anglická poštová schránka. Svoj list vhoď sem!
+sv.utf8=En engelsk postlåda. Lägg ditt brev här!
+uk.utf8=Британська поштова скринька. Кинь сюди свій лист!
+zh_CN.utf8=英国邮箱。放你的信到这。
+zh_TW.utf8=英國郵筒：把你的信丟進來!

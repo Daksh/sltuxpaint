@@ -1,0 +1,24 @@
+An inukshuk (or inuksuk), a landmark made of stones. It was used as a milestone or directional marker by the Inuit of the Canadian Artic.
+af.utf8='n Inoeksjoek, 'n merkpunt van klippe. Dit is as merkpunt of rigtingwyser gebruik deur die Inuit in die Kanadese Arktiese streek.
+ast.utf8=Un inukshuk (o inuksuk), un moxón fechu de piedra. Usábase como moxón o indicador de direición polos Inuit del árticu canadiense.
+ca.utf8=Un inukshuk (o inuksuk), una fita direccional de pedres emprada antigament pels Inuit de l'àrtic canadenc.
+da.utf8=En inukshuk (eller inuksuk), et kendemærke af sten. Den blev brugt som afstandsmåler eller retningsmåler af inuitterne i Canada.
+de.utf8=Ein inukshuk (oder inuksuk), ein Wegezeichen aus Stein. Benutzt von den Inuit in der Kanadischen Arktis.
+el.utf8=Ιnukshuk (ή inuksuk), ένα διατηρητέο κτίριο φτιαγμένο από πέτρες. Χρησιμοποιήθηκε ως κύριο σημείο ή κατευθυντήριο σημείο από τους Inuit του αρτικού Καναδά.
+en_GB.utf8=An inukshuk (or inuksuk), a landmark made of stones. It was used as a milestone or directional marker by the Inuit of the Canadian Artic.
+es.utf8=Un inukshuk (o inuksuk), un mojón hecho de piedra. Era usado como mojón o indicación de dirección por los Inuit del ártico canadiense.
+eu.utf8=Inukshuk-a harriz egindako marka da. Kanadako artikoko inuitek norabidea adierazteko edo mojoi gisa erabiltzen zuten.
+fr.utf8=Un inukshuk (ou inuksuk) est un assemblage de pierres. Il était utilisé comme signal ou indicateur de direction par les Inuits de l'Arctique canadien.
+gu.utf8=ઇનુશુક (અથવા ઇનુસુક), પથ્થરનું સીમાચિહ્ન. તે માઇલસ્ટોન અથવા દિશાસૂચક તરીકે કેનેડિઅન આર્કિટિકનાં ઇનુઇટ વડે ઉપયોગ થયેલ હતો.
+it.utf8=Un inukshuk (o inuksuk) è un ammasso di pietre che veniva utilizzato come pietra miliare o come punto di riferimento dagli Inuit dell'Artide canadese.
+ja.utf8=カナダの いちばんきたに すんでいる イヌイットの いしでつくった みちしるべ。「イヌクシュク」と よばれて います。
+ka.utf8=ინკუშუკი (ან ინკუსუკი) - ქვების ორიენტირი. კანადური არქტიკის ინუიტები (ესკიმოსები) მიმართულებისა და მანძილის მისანიშნებლად იყენებდნენ.
+km.utf8=An inukshuk (or inuksuk), a landmark made of stones. It was used as a milestone or directional marker by the Inuit of the Canadian Artic.
+nn.utf8=Ein inuksuk – ein varde brukt av inuittane som landemerke.
+pt_BR.utf8=Um inukshuk (ou inuksuk), um monumento feito de pedras. Ele foi usado com um marco de posição ou de direção pelos Inuit do ártico canadense.
+pt_PT.utf8=Um inukshuk (or inuksuk), uma marca feita de pedras. Foi usado como marcador de kilometros ou de indicação no Ártico Canadiano.
+ru.utf8=Инукшук - ориентир, сложенный из камней. Используется в качестве указателя расстояния или направления инуитами (эскимосами) Канадской Арктики.
+sv.utf8=En inukshuk (eller inuksuk) är ett landmärke av sten. Det användes som en milstolpe eller riktningsmarkör av inuiterna i norra Kanada.
+uk.utf8=Інукшук (inukshuk) — орієнтир, зроблений з каменів. Він використовувався інуїтами з арктичної Канади у якості віхи чи напрямного знаку.
+zh_CN.utf8=inukshuk，石头路标，被加拿大北极的因纽特人当作里程碑。
+zh_TW.utf8=印努克豎刻，是一種石頭作成的標識。在加拿大北方的因紐特人用來作為里程碑或是方向的指標。

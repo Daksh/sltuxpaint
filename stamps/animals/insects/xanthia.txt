@@ -1,0 +1,25 @@
+A xanthia.
+af.utf8='n xantia
+ast.utf8=Una caparina.
+ca.utf8=Una xàntia.
+da.utf8=En xanthia.
+de.utf8=Ein Bleich-Gelbeulen-Schmetterling.
+el.utf8=Πεταλουδίτσα (xanthia).
+en_GB.utf8=A xanthia.
+es.utf8=Una mariposa.
+eu.utf8=Sitsa
+fr.utf8=Une xanthie.
+gu.utf8=જીવડું.
+it.utf8=Una farfalla notturna.
+ja.utf8=ガ
+ka.utf8=ქსანთია.
+km.utf8=មេអំបៅ​លឿង
+nb.utf8=En sommerfugl av arten «blekt gulfly».
+nn.utf8=Ein sommarfugl av arten «bleikt gulfly».
+pt_BR.utf8=Uma mariposa.
+pt_PT.utf8=Um xanthia.
+ru.utf8=Капюшонница.
+sk.utf8=Motýľ zlatokrídľovec.
+sv.utf8=En gulvingfly.
+uk.utf8=Совка (нічниця) золотиста малинова.
+zh_TW.utf8=xanthia

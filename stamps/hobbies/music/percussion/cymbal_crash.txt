@@ -1,0 +1,27 @@
+A crash cymbal.
+af.utf8='n simbaal
+ast.utf8=Un platiellu.
+ca.utf8=Un plateret.
+da.utf8=Et larmende bækken.
+de.utf8=Ein Schlagzeug-Becken.
+el.utf8=Κύμβαλο.
+en_GB.utf8=A crash cymbal.
+es.utf8=Un platillo crash.
+eu.utf8=Erritmoa
+fr.utf8=Une cymbale.
+gu.utf8=કરતાલ.
+he.utf8=מצלה לקרוס
+it.utf8=Un piatto della batteria detto "crash".
+ja.utf8=シンバル
+ka.utf8=ფანფარები.
+km.utf8=A crash cymbal.
+nb.utf8=En krasjcymbal.
+nn.utf8=Ein krasjcymbal.
+pt_BR.utf8=Um címbalo.
+pt_PT.utf8=Um prato partido.
+ru.utf8=Тарелки.
+sk.utf8=Činel.
+sv.utf8=En crashcymbal.
+uk.utf8=Ударні тарілки.
+zh_CN.utf8=单面钹。
+zh_TW.utf8=雙面鈸

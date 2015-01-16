@@ -1,0 +1,27 @@
+An hippopotamus.
+af.utf8='n seekoei
+ast.utf8=Un hipopótamu.
+ca.utf8=Un hipopòtam.
+da.utf8=En flodhest.
+de.utf8=Ein Nilpferd.
+el.utf8=Ιπποπόταμος.
+en_GB.utf8=A hippopotamus
+es.utf8=Un hipopótamo.
+eu.utf8=Hipopotamoa
+fr.utf8=Un hippopotame.
+gu.utf8=હિપોપોટેમસ
+he.utf8=היפופוטם
+it.utf8=Un ippopotamo.
+ja.utf8=カバ
+ka.utf8=ჰიპოპოტამი.
+km.utf8=ដំរីទឹក
+nb.utf8=En flodhest.
+nn.utf8=Ein flodhest.
+pt_BR.utf8=Um hipopótamo.
+pt_PT.utf8=Um hipopótamo.
+ru.utf8=Бегемот (гиппопотам).
+sk.utf8=Hroch.
+sv.utf8=En flodhäst.
+uk.utf8=Гіпопотам.
+zh_CN.utf8=河马。
+zh_TW.utf8=河馬

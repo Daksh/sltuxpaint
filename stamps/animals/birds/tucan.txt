@@ -1,0 +1,27 @@
+A toucan.
+af.utf8='n toekan
+ast.utf8=Un tucán.
+ca.utf8=Un tucà.
+da.utf8=En tukan.
+de.utf8=Ein Tukan.
+el.utf8=Τουκάν-είδος πουλιού με μεγάλο πολύχρωμο ράμφος.
+en_GB.utf8=A toucan.
+es.utf8=Un tucán.
+eu.utf8=Tukana
+fr.utf8=Un toucan.
+gu.utf8=ટાઉકન.
+he.utf8=טוקן
+it.utf8=Un tucano.
+ja.utf8=オオハシ
+ka.utf8=ტუკანი.
+km.utf8=កេងកង
+nb.utf8=En tukan – en søramerikansk fugl.
+nn.utf8=Ein tukan – ein søramerikansk fugl.
+pt_BR.utf8=Um tucano.
+pt_PT.utf8=Um tucano.
+ru.utf8=Тукан.
+sk.utf8=Tukan.
+sv.utf8=En tukan.
+uk.utf8=Тукан.
+zh_CN.utf8=犀鸟。
+zh_TW.utf8=巨嘴鳥

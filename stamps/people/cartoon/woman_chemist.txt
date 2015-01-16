@@ -1,0 +1,26 @@
+A scientist.
+af.utf8='n Wetenskaplike.
+ast.utf8=Un científicu.
+ca.utf8=Una científica.
+da.utf8=En forsker.
+de.utf8=Eine Forscherin.
+el.utf8=Επιστήμονας.
+en_GB.utf8=A scientist.
+es.utf8=Un científico.
+eu.utf8=Zientzilaria
+fr.utf8=Une scientifique.
+gu.utf8=વૈજ્ઞાનિક.
+he.utf8=מדען
+it.utf8=Uno scienziato.
+ja.utf8=かがくしゃ
+ka.utf8=მეცნიერი.
+nn.utf8=Ein forskar.
+pt_BR.utf8=Um cientista.
+pt_PT.utf8=Um cientista.
+ru.utf8=Учёный.
+sk.utf8=Vedec.
+sl.utf8=Znanstvenik
+sv.utf8=Ett vetenskapsman.
+uk.utf8=Жінка-хімік (науковець).
+zh_CN.utf8=一个科学家。
+zh_TW.utf8=科學家。

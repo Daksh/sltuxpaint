@@ -1,0 +1,25 @@
+A woodlouse.
+af.utf8='n Houtluis.
+ast.utf8=Una gocha.
+ca.utf8=Una panerola o porquet de Sant Antoni.
+da.utf8=En bænkebider.
+de.utf8=Eine Laus.
+el.utf8=Ψείρα του ξύλου.
+en_GB.utf8=A woodlouse.
+es.utf8=Un bicho de la humedad.
+eu.utf8=Kokobola
+fr.utf8=Un cloporte.
+gu.utf8=લાકડાની જૂ.
+he.utf8=טחבית
+it.utf8=Un porcellino di terra.
+ja.utf8=ダンゴムシ
+ka.utf8=ნამისჭია.
+nn.utf8=Eit skrukketroll.
+pt_BR.utf8=Um tatuzinho de jardim.
+pt_PT.utf8=Um bicho de conta.
+ru.utf8=Мокрица.
+sk.utf8=Žižiavka.
+sv.utf8=En gråsugga.
+uk.utf8=Мокриця.
+zh_CN.utf8=土鳖。
+zh_TW.utf8=潮蟲。

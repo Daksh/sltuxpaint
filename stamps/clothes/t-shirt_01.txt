@@ -1,0 +1,26 @@
+A t-shirt.
+af.utf8='n T-hemp.
+ast.utf8=Una camiseta.
+ca.utf8=Una samarreta.
+da.utf8=En t-shirt.
+de.utf8=Ein T-Shirt.
+el.utf8=Μπλουζάκι.
+en_GB.utf8=A t-shirt.
+es.utf8=Una camiseta.
+eu.utf8=Kamiseta
+fr.utf8=Un tee-shirt.
+gu.utf8=ટી-શર્ટ.
+he.utf8=חולצת טי
+it.utf8=Una maglietta.
+ja.utf8=Ｔシャツ
+ka.utf8=მაისური.
+nn.utf8=Ei T-skjorte.
+pt_BR.utf8=Uma camiseta.
+pt_PT.utf8=Uma t-shirt.
+ru.utf8=Футболка.
+sk.utf8=Tričko.
+sl.utf8=Kratka majicaSrce
+sv.utf8=En t-shirt.
+uk.utf8=Футболка.
+zh_CN.utf8=T恤。
+zh_TW.utf8=T恤。

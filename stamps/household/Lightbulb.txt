@@ -1,0 +1,26 @@
+A lightbulb.
+af.utf8='n Gloeilamp.
+ast.utf8=A bombiella.
+ca.utf8=Una bombeta.
+da.utf8=En pære.
+de.utf8=Eine Glühbirne.
+el.utf8=Ηλεκτρική λάμπα.
+en_GB.utf8=A lightbulb.
+es.utf8=Una lamparita.
+eu.utf8=Bonbilla
+fr.utf8=Une ampoule électrique.
+gu.utf8=વીજળીનો ગોળો.
+he.utf8=נורית
+it.utf8=Una lampadina.
+ja.utf8=でんきゅう
+ka.utf8=ნათურა.
+nn.utf8=Ei lyspære.
+pt_BR.utf8=Uma lâmpada.
+pt_PT.utf8=Uma lâmpada eléctrica.
+ru.utf8=Лампочка.
+sk.utf8=Žiarovka.
+sl.utf8=Žarnica
+sv.utf8=En glödlampa.
+uk.utf8=Лампочка.
+zh_CN.utf8=一个灯泡。
+zh_TW.utf8=電燈泡。

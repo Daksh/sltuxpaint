@@ -1,0 +1,27 @@
+A mug.
+af.utf8='n beker
+ast.utf8=Una taza.
+ca.utf8=Una tassa.
+da.utf8=Et krus.
+de.utf8=Ein Becher.
+el.utf8=Κούπα.
+en_GB.utf8=A mug.
+es.utf8=Una jarra.
+eu.utf8=Katilua
+fr.utf8=Un gobelet.
+gu.utf8=મગ.
+he.utf8=שוטה
+it.utf8=Una tazza.
+ja.utf8=マグカップ
+ka.utf8=კათხა.
+km.utf8=កា​ទឹក
+nb.utf8=En mugge.
+nn.utf8=Ei mugge.
+pt_BR.utf8=Uma caneca.
+pt_PT.utf8=Uma caneca.
+ru.utf8=Кружка.
+sk.utf8=Hrnček.
+sv.utf8=En mugg.
+uk.utf8=Кухоль.
+zh_CN.utf8=一个杯子。
+zh_TW.utf8=大杯子

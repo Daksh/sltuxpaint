@@ -1,0 +1,21 @@
+A flower covered in dew drops.
+ast.utf8=Una flor cubierta pola rosada
+ca.utf8=Una flor coberta de rosada.
+da.utf8=En blomst med dugdråber.
+el.utf8=Λουλούδι με δροσοσταλίδες.
+en_GB.utf8=A flower covered in dew drops.
+es.utf8=Una flor cubierta con gotas de rocío.
+eu.utf8=Loretxo bustia
+fr.utf8=Une fleur recouverte de gouttes de rosée
+gu.utf8=ઝાકળનાં ટીપાં સાથેનું ફૂલ.
+it.utf8=Un fiore ricoperto da goccioline di rugiada.
+ja.utf8=つゆに おおわれた はな
+ka.utf8=ცვრით დაფარული ყვავილი.
+nn.utf8=Ein blome med doggdråpar.
+pt_BR.utf8=Uma flor coberta de orvalho.
+pt_PT.utf8=Uma flor coberta de orvalho.
+ru.utf8=Цветок с каплями росы.
+sk.utf8=Kvet s kvapkami rosy.
+sv.utf8=En blomma täckt av daggdroppar.
+uk.utf8=Квітка з краплями роси.
+zh_TW.utf8=一朵布滿了露水的花朵。

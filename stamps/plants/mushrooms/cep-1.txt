@@ -1,0 +1,21 @@
+A cep.
+ast.utf8=Una seta.
+ca.utf8=Un cep.
+da.utf8=En Karl Johan.
+el.utf8=Μανιτάρι.
+en_GB.utf8=A cep.
+es.utf8=Un hongo.
+eu.utf8=A cep
+fr.utf8=Un cèpe.
+gu.utf8=સેપ.
+it.utf8=Un fungo porcino.
+ja.utf8=キノコのなかま 「ヤマドリタケ」
+ka.utf8=თეთრი სოკო.
+nn.utf8=Ein steinsopp.
+pt_BR.utf8=Um cogumelo porcini.
+pt_PT.utf8=Um cepo.
+ru.utf8=Белый гриб.
+sk.utf8=Dubák.
+sv.utf8=En karljohanssvamp.
+uk.utf8=Білий гриб.
+zh_TW.utf8=蘑菇。

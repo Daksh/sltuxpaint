@@ -1,0 +1,22 @@
+A butterflyfish.
+ast.utf8=Un pexe caparina.
+ca.utf8=Un peix papallona.
+da.utf8=En pincetfisk.
+el.utf8=Πεταλουδόψαρο.
+en_GB.utf8=A butterflyfish.
+es.utf8=Un pez mariposa.
+eu.utf8=Arrain-tximeleta
+fr.utf8=Un poisson-papillon.
+gu.utf8=પતંગિયામાછલી.
+he.utf8=פרפר דג.
+it.utf8=Un pesce farfalla.
+ja.utf8=チョウチョウウオ
+ka.utf8=თევზპეპელა.
+nn.utf8=Ein sommarfuglfisk.
+pt_BR.utf8=Uma peixe-borboleta.
+pt_PT.utf8=Um peixe borboleta.
+ru.utf8=Рыба-бабочка.
+sk.utf8=Svetlozelená pruhovaná ryba klipka.
+sv.utf8=En flygfisk.
+uk.utf8=Риба-метелик.
+zh_TW.utf8=蝴蝶魚。

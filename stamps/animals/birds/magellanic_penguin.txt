@@ -1,0 +1,27 @@
+A Magellanic penguin.
+af.utf8='n Magellaanse pikkewyn
+ast.utf8=Un pingüín de Magallanes.
+ca.utf8=Un pingüí de Magallanes.
+da.utf8=En magellanpingvin.
+de.utf8=Ein Magellanpinguin.
+el.utf8=Πιγκουίνος του Μαγγελάνου.
+en_GB.utf8=A Magellanic penguin.
+es.utf8=Un pingüino Magellan.
+eu.utf8=Magallanesko pinguinoa
+fr.utf8=Un manchot Magellan.
+gu.utf8=મેગેલઆનિક પેંગ્વિન.
+he.utf8=מגלן פינגווין
+it.utf8=Un pinguino di Magellano.
+ja.utf8=マゼランペンギン
+ka.utf8=მაგელანის პინგვინი.
+km.utf8=ផិនឃ្វីនរកមើល
+nb.utf8=En magellanpingvin.
+nn.utf8=Ein magellanpingvin.
+pt_BR.utf8=Um pingüim-de-magalhães.
+pt_PT.utf8=Um pinguim magalânico.
+ru.utf8=Магелланов пингвин.
+sk.utf8=Magellanov tučniak.
+sv.utf8=En magellanpingvin.
+uk.utf8=Маґеланський пінгвін.
+zh_CN.utf8=麦哲伦海峡企鹅
+zh_TW.utf8=麥哲倫企鵝

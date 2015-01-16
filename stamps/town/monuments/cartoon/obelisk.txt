@@ -1,0 +1,26 @@
+An obelisk.
+af.utf8='n Obelisk.
+ast.utf8=Un obeliscu.
+ca.utf8=Un obelisc.
+da.utf8=En obelisk.
+de.utf8=Ein Obelisk.
+el.utf8=Οβελίσκος.
+en_GB.utf8=An obelisk.
+es.utf8=Un obelisco.
+eu.utf8=Obeliskoa
+fr.utf8=Un obélisque.
+gu.utf8=સ્મારક સ્થંભ.
+he.utf8=אובליסק
+it.utf8=Un obelisco.
+ja.utf8=「オベリスク」　さきが とがった しかくい いしの はしら
+ka.utf8=ობელისკი.
+nn.utf8=Ein obelisk.
+pt_BR.utf8=Um obelisco.
+pt_PT.utf8=Um obelisco.
+ru.utf8=Обелиск.
+sk.utf8=Obelisk.
+sl.utf8=Obelisk
+sv.utf8=En obelisk.
+uk.utf8=Обеліск.
+zh_CN.utf8=方尖石塔。
+zh_TW.utf8=方尖碑。

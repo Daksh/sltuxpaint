@@ -1,0 +1,25 @@
+A mine.
+af.utf8='n Myn.
+ast.utf8=Una mina.
+ca.utf8=Una mina.
+da.utf8=En mine.
+de.utf8=Ein Bergwerk.
+el.utf8=Ορυχείο.
+en_GB.utf8=A mine.
+es.utf8=Una mina.
+eu.utf8=Meategia
+fr.utf8=Une mine.
+gu.utf8=ખાણ.
+he.utf8=מוקש
+it.utf8=Una miniera.
+ja.utf8=こうざん
+ka.utf8=შახტა.
+nn.utf8=Ei gruve.
+pt_BR.utf8=Uma mina.
+pt_PT.utf8=Uma mina.
+ru.utf8=Шахта.
+sk.utf8=Baňa.
+sv.utf8=En gruva.
+uk.utf8=Шахта.
+zh_CN.utf8=一个地雷。
+zh_TW.utf8=礦坑。

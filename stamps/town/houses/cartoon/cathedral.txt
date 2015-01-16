@@ -1,0 +1,26 @@
+Cathedral.
+af.utf8=Katedraal.
+ast.utf8=Una catedral.
+ca.utf8=Una catedral.
+da.utf8=Katedral.
+de.utf8=Kathedrale.
+el.utf8=Καθεδρικός ναός.
+en_GB.utf8=Cathedral.
+es.utf8=Catedral.
+eu.utf8=Katedralea
+fr.utf8=Une cathédrale
+gu.utf8=કેથડ્રેન્ડલ.
+he.utf8=קתדרלה
+it.utf8=Cattedrale
+ja.utf8=だいせいどう
+ka.utf8=კათედრალი.
+nn.utf8=Ein katedral.
+pt_BR.utf8=Uma catedral.
+pt_PT.utf8=Catedral.
+ru.utf8=Собор.
+sk.utf8=Kostol.
+sl.utf8=Katedrala
+sv.utf8=Katedral.
+uk.utf8=Кафедральний собор.
+zh_CN.utf8=大教堂。
+zh_TW.utf8=教堂。

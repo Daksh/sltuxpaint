@@ -1,0 +1,21 @@
+A plant of common lavender.
+ast.utf8=Una planta de llavanda común
+ca.utf8=Una planta de espígol.
+da.utf8=En almindelig lavendelplante.
+el.utf8=Φυτό λεβάντα η κοινή.
+en_GB.utf8=A plant of common lavender.
+es.utf8=Una planta de lavanda.
+eu.utf8=Izpiliku landarea
+fr.utf8=De la lavande.
+gu.utf8=સામાન્ય લવન્ડર છોડ.
+it.utf8=Una pianta di lavanda
+ja.utf8=ラベンダー
+ka.utf8=ჩვეულებრივი ლავანდის ნაყოფი.
+nn.utf8=Ei lavendelplante.
+pt_BR.utf8=Um ramo de alfazendas.
+pt_PT.utf8=Uma planta de lavanda.
+ru.utf8=Лаванда.
+sk.utf8=Obyčajná levanduľa.
+sv.utf8=En planta av vanlig lavendel.
+uk.utf8=Лаванда.
+zh_TW.utf8=一般常見的薰衣草。

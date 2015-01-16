@@ -1,0 +1,21 @@
+A stripey fish.
+ast.utf8=Un pexe Stripey.
+ca.utf8=Un peix ratllat.
+da.utf8=En »stripey«.
+el.utf8=Ψάρι με ρίγες.
+en_GB.utf8=A stripey fish.
+es.utf8=Un pez rayado.
+eu.utf8=Arrain marraduna
+fr.utf8=Un poisson avec des rayures.
+gu.utf8=પટ્ટીવાળી માછલી.
+it.utf8=Un pesce a strisce.
+ja.utf8=しましまの さかな
+ka.utf8=ზოლიანი თევზი.
+nn.utf8=Ein stripete fisk.
+pt_BR.utf8=Um peixe listrado.
+pt_PT.utf8=Um peixe com riscas.
+ru.utf8=Микрокант (малошип) полосатый.
+sk.utf8=Pruhovaná ryba
+sv.utf8=En randig fisk.
+uk.utf8=Мікрокант (малошип) смугастий.
+zh_TW.utf8=條紋魚。

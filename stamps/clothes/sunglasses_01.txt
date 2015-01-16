@@ -1,0 +1,26 @@
+A pair of sunglasses.
+af.utf8='n Sonbril
+ast.utf8=Unes gafes de sol.
+ca.utf8=Unes ulleres de sol.
+da.utf8=Et par solbriller.
+de.utf8=Eine Sonnenbrille.
+el.utf8=Γυαλιά ηλίου.
+en_GB.utf8=A pair of sunglasses.
+es.utf8=Un par de lentes de sol.
+eu.utf8=Eguzkitarako betaurrekoak
+fr.utf8=Des lunettes de soleil.
+gu.utf8=ચશ્માની જોડી.
+he.utf8=זוג משקפי שמש
+it.utf8=Un paio di occhiali da sole.
+ja.utf8=サングラス
+ka.utf8=მზის სათვალეები.
+nn.utf8=Solbriller.
+pt_BR.utf8=Um par de óculos escuros.
+pt_PT.utf8=Um par de óculos de sol.
+ru.utf8=Солнечные очки.
+sk.utf8=Slnečné okuliare.
+sl.utf8=Sončna očala
+sv.utf8=Ett par solglasögon.
+uk.utf8=Сонцезахисні окуляри.
+zh_CN.utf8=一副太阳镜。
+zh_TW.utf8=一副太陽眼鏡。

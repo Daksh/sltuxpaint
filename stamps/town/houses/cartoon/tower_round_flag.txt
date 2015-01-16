@@ -1,0 +1,25 @@
+A round tower with a pink flag.
+af.utf8='n Ronde toring met pienk vlag.
+ast.utf8=Una torre redonda con una bandera rosa.
+ca.utf8=Una torre rodona amb una bandera rosa.
+da.utf8=Et rundt tårn med et lyserødt flag.
+de.utf8=Ein runder Turm mit einer Flagge.
+el.utf8=Στρογγυλός πύργος με κόκκινη σημαία.
+en_GB.utf8=A round tower with a pink flag.
+es.utf8=Una torre circular con una bandera rosada.
+eu.utf8=Dorre biribila, bandera arrosa eta guzti
+fr.utf8=Une tour ronde avec un drapeau rose.
+gu.utf8=ગુલાબી ધ્વજ સાથેનો ગોળ મિનારો.
+he.utf8=להתעגל מגדל ורוד עם דגל
+it.utf8=Una torre rotonda con una bandiera rosa.
+ja.utf8=ピンクの はた の まるい とう
+ka.utf8=მრგვალი კოშკი ვარდისფერი დროშით.
+nn.utf8=Eit rundt tårn med eit rosa flagg.
+pt_BR.utf8=Uma torre arredondada com uma bandeira rosa.
+pt_PT.utf8=Uma torre circular com uma bandeira rosa.
+ru.utf8=Круглая башня с розовым флагом.
+sk.utf8=Okrúhla veža s ružovou zástavou.
+sv.utf8=Ett runt torn med en rosa flagga.
+uk.utf8=Кругла башта з рожевим прапором.
+zh_CN.utf8=插了一面粉色旗帜的圆形城堡。
+zh_TW.utf8=圓塔上插著粉紅色的旗子。

@@ -1,0 +1,27 @@
+A blackbird.
+af.utf8='n Blackbird.
+ast.utf8=Un ñerbatu.
+ca.utf8=Una merla.
+da.utf8=En solsort.
+de.utf8=Eine Amsel.
+el.utf8=Μαυροπούλι.
+en_GB.utf8=A blackbird.
+es.utf8=Un mirlo.
+eu.utf8=Txori beltza
+fr.utf8=Un merle.
+gu.utf8=બ્લેકબર્ડ.
+he.utf8=שחרור
+it.utf8=Un merlo.
+ja.utf8=クロウタドリ
+ka.utf8=შავი შაშვი.
+km.utf8=បក្សី​ខ្មៅ
+nb.utf8=En svarttrost.
+nn.utf8=Ein svarttrost.
+pt_BR.utf8=Um melro-preto.
+pt_PT.utf8=Um melro.
+ru.utf8=Чёрный дрозд.
+sk.utf8=Drozd.
+sv.utf8=En koltrast.
+uk.utf8=Чорний дрізд.
+zh_CN.utf8=黑鸟。
+zh_TW.utf8=黑鸝

@@ -1,0 +1,25 @@
+A lighthouse.
+af.utf8='n Vuurtoring.
+ast.utf8=Un faru.
+ca.utf8=Un far.
+da.utf8=Et fyrtårn.
+de.utf8=Ein Leuchtturm.
+el.utf8=Φάρος.
+en_GB.utf8=A lighthouse.
+es.utf8=Un faro.
+eu.utf8=Itsas-argia
+fr.utf8=Un phare.
+gu.utf8=દીવાદાંડી.
+he.utf8=מגדלור
+it.utf8=Un faro.
+ja.utf8=とうだい
+ka.utf8=შუქურა.
+nn.utf8=Eit fyrtårn.
+pt_BR.utf8=Um farol.
+pt_PT.utf8=Um farol.
+ru.utf8=Маяк.
+sk.utf8=Maják pre lode.
+sv.utf8=Ett fyrtorn.
+uk.utf8=Маяк.
+zh_CN.utf8=一个灯塔。
+zh_TW.utf8=燈塔。

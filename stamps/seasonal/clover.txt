@@ -1,0 +1,23 @@
+A four leaf clover is said to bring good luck!
+ast.utf8=¡Los tréboles de cuatro fueyes dan bona suerte!
+ca.utf8=Dels trèvols de quatre fulles es diu que porten bona sort!
+da.utf8=En firkløver siges at bringe lykke!
+el.utf8=Τετράφυλλο τριφύλλι, λέγεται ότι φέρνει τύχη!
+en_GB.utf8=A four leaf clover is said to bring good luck!
+es.utf8=¡Un trébol de cuatro hojas trae buena suerte!
+eu.utf8=Lau orriko hirustak, zorte ona ei dakar!
+fr.utf8=On dit qu'un trèfle à quatre feuille porte chance !
+gu.utf8=ચાર પત્તાનું ઘાસ જે સારું નસીબ લાવતું કહેવાય છે!
+he.utf8=ארבע עלה תלתן הוא אמר להביא מזל טוב!
+it.utf8=Un quadrifoglio ti porta fortuna! 
+ja.utf8=よつばのクローバーは しあわせを　よびます！
+ka.utf8=ამბობენ, ოთხფურცლიან სამყურას ბედნიერება მოაქვსო!
+nn.utf8=Ein firkløver vert i folketrua sett på som ein lykkebringar.
+pt_BR.utf8=Um trevo de quatro folhas. Dizem que traz boa sorte!
+pt_PT.utf8=Diz-se que um trevo de quatro folhas dá sorte.
+ru.utf8=Клевер с четырьмя листочками приносит удачу!
+sk.utf8=Hovorí sa, že štvorlístok nosí šťastie!
+sv.utf8=Det sägs att ett fyrklöver ger tur!
+uk.utf8=Конюшина з чотирма листочками приносить удачу!
+zh_CN.utf8=四叶草，据说带来好运。
+zh_TW.utf8=四片葉子的苜蓿可以招來好運!

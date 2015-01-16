@@ -1,0 +1,26 @@
+An ant.
+af.utf8='n Mier.
+ast.utf8=Una formiga.
+ca.utf8=Una formiga.
+da.utf8=En myre.
+de.utf8=Eine Ameise.
+el.utf8=Μυρμήγκι.
+en_GB.utf8=An ant.
+es.utf8=Una hormiga.
+eu.utf8=Txinurria
+fr.utf8=Une fourmi.
+gu.utf8=કીડી.
+he.utf8=נמלי
+it.utf8=Una formica.
+ja.utf8=アリ
+ka.utf8=ჭიანჭველა.
+nn.utf8=Ein maur.
+pt_BR.utf8=Uma formiga.
+pt_PT.utf8=Uma formiga.
+ru.utf8=Муравей.
+sk.utf8=Mravec.
+sl.utf8=Mravlja
+sv.utf8=En myra.
+uk.utf8=Мурашка.
+zh_CN.utf8=蚂蚁。
+zh_TW.utf8=螞蟻。

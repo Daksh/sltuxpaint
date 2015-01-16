@@ -1,0 +1,22 @@
+An eggplant with fruit.
+ast.utf8=Una berenxena.
+ca.utf8=Una alberginiera amb un parell d'albergínies.
+da.utf8=En aubergine med frugt.
+el.utf8=Μελιτζάνα με φρούτο.
+en_GB.utf8=An aubergine with fruit.
+es.utf8=Una berenjena con frutos.
+eu.utf8=Alberjinia landarea
+fr.utf8=Une aubergine.
+gu.utf8=રીંગણ સાથેનો છોડ.
+he.utf8=חצילים
+it.utf8=Una pianta di melanzane.
+ja.utf8=ナスが みのった ところ
+ka.utf8=ბადრიჯანი ხილთან.
+nn.utf8=Ei eggplante med frukt (aubergine).
+pt_BR.utf8=Uma berinjela no pé.
+pt_PT.utf8=Uma beringela com fruto.
+ru.utf8=Баклажан с плодами.
+sk.utf8=Baklažán s plodmi.
+sv.utf8=En äggplanta med frukt.
+uk.utf8=Баклажан з плодами.
+zh_TW.utf8=茄子。

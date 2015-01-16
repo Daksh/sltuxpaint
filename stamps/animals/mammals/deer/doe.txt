@@ -1,0 +1,27 @@
+A doe.
+af.utf8='n bokooi
+ast.utf8=Un venáu fema.
+ca.utf8=Una cérvola.
+da.utf8=En då.
+de.utf8=Eine Ricke.
+el.utf8=Ελαφίνα.
+en_GB.utf8=A doe.
+es.utf8=Un ciervo hembra.
+eu.utf8=Orein emea
+fr.utf8=Une biche.
+gu.utf8=હરણી.
+he.utf8=צביה
+it.utf8=Un cervo.
+ja.utf8=メジカ
+ka.utf8=შველი.
+km.utf8=ក្ដាន់​ញី
+nb.utf8=Et dådyr.
+nn.utf8=Eit dådyr.
+pt_BR.utf8=Uma corça (fêmea do veado).
+pt_PT.utf8=Uma lebre.
+ru.utf8=Олениха.
+sk.utf8=Srnka.
+sv.utf8=En hjort.
+uk.utf8=Олениця.
+zh_CN.utf8=母鹿。
+zh_TW.utf8=母鹿

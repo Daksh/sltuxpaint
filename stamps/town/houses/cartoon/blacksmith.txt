@@ -1,0 +1,26 @@
+The blacksmith shop.
+af.utf8='n Smitwinkel.
+ast.utf8=Una ferrería.
+ca.utf8=Una armeria de l'edat mitjana.
+da.utf8=Grovsmedbutikken.
+de.utf8=Eine Schmiede.
+el.utf8=Το εργαστήριο του σιδερά.
+en_GB.utf8=The blacksmith shop.
+es.utf8=La herrería.
+eu.utf8=Errementaritza
+fr.utf8=L'atelier du forgeron.
+gu.utf8=લુહારની દુકાન.
+he.utf8=נפח חנות
+it.utf8=La fucina del fabbro.
+ja.utf8=かじやさん の おみせ
+ka.utf8=მჭედლის მაღაზია.
+nn.utf8=Ei smie.
+pt_BR.utf8=Uma loja de ferreiro.
+pt_PT.utf8=A loja blacksmith.
+ru.utf8=Кузница.
+sk.utf8=Kováčska dielňa.
+sl.utf8=Kovačnica
+sv.utf8=En smedja.
+uk.utf8=Крамниця коваля.
+zh_CN.utf8=铁匠铺。
+zh_TW.utf8=打鐵舖。

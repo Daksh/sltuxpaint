@@ -1,0 +1,25 @@
+A statue.
+af.utf8='n Standbeeld.
+ast.utf8=Una estatua.
+ca.utf8=Una estàtua.
+da.utf8=En statue.
+de.utf8=Ein Statue.
+el.utf8=Άγαλμα.
+en_GB.utf8=A statue.
+es.utf8=Una estatua.
+eu.utf8=Estatua
+fr.utf8=Une statue.
+gu.utf8=મૂર્તિ.
+he.utf8=פסל
+it.utf8=Una statua.
+ja.utf8=ぞう
+ka.utf8=ძეგლი.
+nn.utf8=Ein statue.
+pt_BR.utf8=Uma estátua.
+pt_PT.utf8=Uma estátua.
+ru.utf8=Статуя.
+sk.utf8=Socha.
+sv.utf8=En staty.
+uk.utf8=Статуя.
+zh_CN.utf8=雕像。
+zh_TW.utf8=雕像。

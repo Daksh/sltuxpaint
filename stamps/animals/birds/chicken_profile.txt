@@ -1,0 +1,5 @@
+A chicken.
+da.utf8=En kylling.
+fr.utf8=Un poulet.
+ka.utf8=წიწილა.
+nn.utf8=Ein kylling.

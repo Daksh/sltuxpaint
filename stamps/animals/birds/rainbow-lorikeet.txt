@@ -1,0 +1,21 @@
+A rainbow lorikeet.
+ast.utf8=Lloru arcu la vieya.
+ca.utf8=Un lloro de cap blau.
+da.utf8=En regnbuedværgpapegøje.
+el.utf8=Παπαγάλος Λόρικιτ-ουράνιο τόξο: Ένας έντονα χρωματισμένος παπαγάλος
+en_GB.utf8=A rainbow lorikeet.
+es.utf8=Un loro arcoiris.
+eu.utf8=Ostadarraren koloreak dituen lorotxoa
+fr.utf8=Un Lori Arc-en-ciel.
+gu.utf8=મેઘધનુષી લોરિકીટ.
+it.utf8=Un pappagallo multicolore.
+ja.utf8=ゴシキセイガイインコ
+ka.utf8=ცისარტყელა თუთიყუში.
+nn.utf8=Ein regnbogelori (ein papegøye).
+pt_BR.utf8=Um loriquito multicolorido.
+pt_PT.utf8=Um periquito arco-íris.
+ru.utf8=Многоцветный лорикет.
+sk.utf8=Indonézsky dúhový papagáj.
+sv.utf8=En regnbågslori.
+uk.utf8=Барвистий папужка лорі.
+zh_TW.utf8=彩虹吸蜜鸚鵡(五彩鸚鵡)。

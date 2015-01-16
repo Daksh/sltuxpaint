@@ -1,0 +1,27 @@
+The sign for the letter Y in American Sign Language.
+af.utf8=Die letter Y in Amerikaanse gebaretaal.
+ast.utf8=La lletra Y nel llinguax de señes americanu.
+ca.utf8=El signe per la lletra Y en el llenguatge de signes americà.
+da.utf8=Tegnet for bogstavet Y i amerikansk tegnsprog.
+de.utf8=Der Buchstabe Y in der Amerikanischen Gebärdensprache.
+el.utf8=Το σύμβολο για το γράμμα Y  στην Αμερικάνικη νοηματική.
+en_GB.utf8=The sign for the letter Y in American Sign Language.
+es.utf8=La letra Y en el lenguaje de señas americano.
+eu.utf8=Y letraren zeinua ameriketako gorren hizkuntan
+fr.utf8=La lettre Y en langage des signes américain.
+gu.utf8=અમેરિકન સંજ્ઞા ભાષામાં અક્ષર Y ની સંજ્ઞા.
+it.utf8=Il segno corrispondente alla lettera Y nel linguaggio dei segni americano.
+ja.utf8=「Y」の もじを あらわす アメリカの しゅわ
+ka.utf8=ნიშანი ასოსთვის Y ამერიკულ ნიშნების ენაში.
+km.utf8=សញ្ញា​អក្សរ Y ជា​ភាសា​សញ្ញា​អាមេរិក ។
+nb.utf8=Tegnet for bokstaven «Y» i det amerikanske tegnspråket.
+nn.utf8=Teiknet for bokstaven «Y» i det amerikanske teiknspråket.
+pt_BR.utf8=O gesto para a letra Y na Linguagem Americana de Sinais.
+pt_PT.utf8=A marca para a letra Y no idioma Americano.
+ru.utf8=Знак для буквы Y в американском языке жестов.
+sk.utf8=Znak pre písmeno Y v americkej znakovej reči.
+sl.utf8=Znak za črko Y v znakovnem jeziku
+sv.utf8=Tecknet för bokstaven Y i det amerikanska teckenspråket.
+uk.utf8=Знак для латинської літери Y на американській мові знаків.
+zh_CN.utf8=美国手语中字母Ｙ的标示。
+zh_TW.utf8=美國手語的字母 Y

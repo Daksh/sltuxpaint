@@ -1,0 +1,27 @@
+The letter o with an umlaut.
+af.utf8=die letter o met 'n umlaut
+ast.utf8=La lletra o con diéresis.
+ca.utf8=La lletra o amb una dièresi.
+da.utf8=Bogstavet o med umlaut.
+de.utf8=Der Buchstabe Ö.
+el.utf8=Το γράμμα o με ούμλαουτ.
+en_GB.utf8=The letter o with an umlaut.
+es.utf8=La letra o con umlaut del idioma alemán.
+eu.utf8=o letra dieresi eta guzti
+fr.utf8=La lettre o avec un tréma.
+gu.utf8=અમલોટ સાથેનો અક્ષર o.
+it.utf8=La lettera o con la umlaut.
+ja.utf8=ウムラウトがついた アルファベットの "o"
+ka.utf8=ასო o უმლაუტით.
+km.utf8=អក្សរ o ជា​ស្រះ
+nb.utf8=Bokstaven «o» med trema/tødler.
+nn.utf8=Bokstaven «o» med trema/tødlar.
+pt_BR.utf8=A letra o com trema.
+pt_PT.utf8=A letra o com trema.
+ru.utf8=Буква o с умляутом.
+sk.utf8=Písmeno o s dvoma bodkami.
+sl.utf8=Črka o s preglasom
+sv.utf8=Bokstaven ö.
+uk.utf8=Латинська літера o з умляутом.
+zh_CN.utf8=元音变音的字母ｏ。
+zh_TW.utf8=字母 o 上面有二點

@@ -1,0 +1,24 @@
+A european bear.
+ast.utf8=Un osu européu.
+ca.utf8=Un ós bru.
+da.utf8=En brun bjørn.
+el.utf8=Αρκούδα Ευρώπης.
+en_GB.utf8=A european bear.
+es.utf8=Un oso europeo.
+eu.utf8=Hartz europarra
+fr.utf8=Un ours originaire d'Europe.
+gu.utf8=યુરોપીઅન રીંછ.
+he.utf8=דוב אירופית
+it.utf8=Un orso europeo.
+ja.utf8=ヨーロッパグマ
+ka.utf8=მურა დათვი.
+nn.utf8=Ein europeisk bjørn.
+pt_BR.utf8=Um urso cinzento.
+pt_PT.utf8=Um urso europeu.
+ru.utf8=Бурый медведь.
+sk.utf8=Pivo.
+sl.utf8=Rjavi medved
+sv.utf8=En europeisk björn.
+uk.utf8=Бурий ведмідь.
+zh_CN.utf8=欧洲熊。
+zh_TW.utf8=歐洲熊。

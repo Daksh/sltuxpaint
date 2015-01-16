@@ -1,0 +1,25 @@
+A christmas pudding is eaten on Christmas Day in England.
+af.utf8='n Kerspoeding word op Kersdag geëet in Engeland.
+ast.utf8=Un flan navidiegu típicu del día de Navidá n'Inglaterra.
+ca.utf8=Un pastís de nadal.
+da.utf8=En julebudding spises på juledag i England.
+de.utf8=Ein Weihnachtspudding aus England.
+el.utf8=Χριστουγεννιάτικη πουτίγκα που τρώγεται την ημέρα των Χριστουγέννων στην Αγγλία.
+en_GB.utf8=A christmas pudding is eaten on Christmas Day in England.
+es.utf8=El budín de Navidad se come el día de Navidad en Inglaterra.
+eu.utf8=Inglaterran Gabon Egunean gabon-pudina jaten da.
+fr.utf8=En Angleterre, on mange à Noël le pudding de Noël.
+gu.utf8=ક્રિસમસ પુડીંગ ઇંગ્લેન્ડમાં ક્રિસમસનાં દિવસે ખવાય છે.
+he.utf8=פשטידה חג המולד הוא אכול על חג המולד באנגליה
+it.utf8=Un dolce di Natale che viene mangiato il giorno di Natale in Inghilterra.
+ja.utf8=「クリスマス プディング」 イギリスで クリスマスのひに たべます
+ka.utf8=საშობაო პუდინგს ინგლისში შობის დღეს მიირთმევენ.
+nn.utf8=Plumpudding vert eten første juledag i England.
+pt_BR.utf8=Um pudim de Natal comido no dia de Natal na Inglaterra.
+pt_PT.utf8=Um pudim de que se come no dia de Natal na Inglaterra.
+ru.utf8=Рождественский пудинг едят на Рождество в Англии.
+sk.utf8=Tradičný koláč, tzv. „vianočný pudding,“ ktorý jedia v Anglicku na Vianoce.
+sv.utf8=En julpudding äts på juldagen i England.
+uk.utf8=Різдвяний пудинг з’їдений на Різдво в Англії.
+zh_CN.utf8=在英国圣诞节吃的圣诞布丁。
+zh_TW.utf8=英格蘭在聖誔節當天吃聖誔布丁。

@@ -1,0 +1,23 @@
+An iris.
+ast.utf8=Un lliriu.
+ca.utf8=Un lliri.
+da.utf8=En iris.
+el.utf8=Ίριδα.
+en_GB.utf8=An iris.
+es.utf8=Un lirio.
+eu.utf8=Lirioa
+fr.utf8=Un iris.
+gu.utf8=આંખનો ડોળો.
+he.utf8=איריס
+it.utf8=Un iris.
+ja.utf8=アイリスの はな
+ka.utf8=ზამბახი.
+nn.utf8=Ein iris.
+pt_BR.utf8=Uma íris.
+pt_PT.utf8=Uma íris.
+ru.utf8=Ирис.
+sk.utf8=Iris.
+sl.utf8=Perunika
+sv.utf8=En iris.
+uk.utf8=Ірис.
+zh_TW.utf8=蝴蝶蘭

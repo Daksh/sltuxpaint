@@ -1,0 +1,27 @@
+The letter a with an umlaut.
+af.utf8=die letter a met 'n umlaut
+ast.utf8=La lletra a con diéresis.
+ca.utf8=La lletra a amb una dièresi.
+da.utf8=Bogstavet a med umlaut.
+de.utf8=Der Buchstabe ä.
+el.utf8=Το γράμμα a με ούμλαουτ.
+en_GB.utf8=The letter a with an umlaut.
+es.utf8=La letra a con umlaut del idioma alemán.
+eu.utf8=a letra dieresi eta guzti
+fr.utf8=La lettre a avec un tréma.
+gu.utf8=અમલોટ સાથેનો અક્ષર a.
+it.utf8=La lettera a con la umlaut.
+ja.utf8=ウムラウトがついた アルファベットの "a"
+ka.utf8=ასო a უმლაუტით.
+km.utf8=អក្សរ a ជា​ស្រះ
+nb.utf8=Bokstaven «a» med trema/tødler.
+nn.utf8=Bokstaven «a» med trema/tødlar.
+pt_BR.utf8=A letra a com trema.
+pt_PT.utf8=A letra a com trema.
+ru.utf8=Буква a с умляутом.
+sk.utf8=Písmeno ä.
+sl.utf8=Črka a s preglasom
+sv.utf8=Bokstaven ä.
+uk.utf8=Латинська літера a з умляутом.
+zh_CN.utf8=元音变音的字母ａ。
+zh_TW.utf8=字母 a 上面有二點

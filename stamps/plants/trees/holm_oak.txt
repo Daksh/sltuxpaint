@@ -1,0 +1,21 @@
+A holm oak.
+ast.utf8=Una encina.
+ca.utf8=Una alzina.
+da.utf8=En steneg.
+el.utf8=Βελανιδιά.
+en_GB.utf8=A holm oak.
+es.utf8=Una encina.
+eu.utf8=Artea
+fr.utf8=Un  chêne-vert.
+gu.utf8=ટાપુનું ઓક.
+it.utf8=Un leccio.
+ja.utf8=セイヨウヒイラギガシ
+ka.utf8=მარადმწვანე მუხა.
+nn.utf8=Ei steineik.
+pt_BR.utf8=Um carvalho.
+pt_PT.utf8=Um azinheiro.
+ru.utf8=Каменный дуб.
+sk.utf8=Cezmínový dub.
+sv.utf8=En stenek.
+uk.utf8=Кам’яний дуб.
+zh_TW.utf8=橡樹。

@@ -1,0 +1,26 @@
+A medieval city.
+af.utf8='n Middeleeuse stad.
+ast.utf8=Una ciudá del medievu.
+ca.utf8=Una ciutat medieval.
+da.utf8=En middelalderby.
+de.utf8=Eine mittelalterliche Stadt.
+el.utf8=Μεσαιωνική πόλη.
+en_GB.utf8=A medieval city.
+es.utf8=Una ciudad medieval.
+eu.utf8=Erdi aroko herria
+fr.utf8=Une cité médiévale.
+gu.utf8=મધ્યકાલીન શહેર.
+he.utf8=של ימי הביניים בעיר
+it.utf8=Una città medievale.
+ja.utf8=ヨーロッパの むかしの まち
+ka.utf8=შუა საუკუნეების ქალაქი.
+nn.utf8=Ein middelalderby.
+pt_BR.utf8=Uma cidade medieval.
+pt_PT.utf8=Uma cidade medieval.
+ru.utf8=Средневековый город.
+sk.utf8=Stredoveké mesto.
+sl.utf8=Srednjeveško mesto
+sv.utf8=En medeltida stad.
+uk.utf8=Середньовічне місто.
+zh_CN.utf8=中世纪的城市。
+zh_TW.utf8=一個中世紀的城市。

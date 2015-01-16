@@ -1,0 +1,26 @@
+A kiwifruit.
+af.utf8='n Kiwivrug.
+ast.utf8=Un kiwi.
+ca.utf8=Un kiwi.
+da.utf8=En kiwifrugt.
+de.utf8=Eine Kiwi.
+el.utf8=Ακτινίδιο.
+en_GB.utf8=A kiwifruit.
+es.utf8=Un kiwi.
+eu.utf8=Kiwia
+fr.utf8=Un kiwi.
+gu.utf8=કીવીફ્રુટ.
+he.utf8=קיווי
+it.utf8=Un kiwi.
+ja.utf8=キウイフルーツ
+ka.utf8=კივი.
+nn.utf8=Ein kiwi.
+pt_BR.utf8=Um kiwi.
+pt_PT.utf8=Um kiwi.
+ru.utf8=Киви.
+sk.utf8=Kiwi.
+sl.utf8=Kivi
+sv.utf8=En kiwifrukt.
+uk.utf8=Плід ківі.
+zh_CN.utf8=猕猴桃。
+zh_TW.utf8=奇異果。

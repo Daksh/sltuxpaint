@@ -1,0 +1,26 @@
+A windmill.
+af.utf8='n Windmeul.
+ast.utf8=Un molín de vientu.
+ca.utf8=Un molí de vent.
+da.utf8=En vindmølle.
+de.utf8=Eine Windmühle.
+el.utf8=Ανεμόμυλος.
+en_GB.utf8=A windmill.
+es.utf8=Un molino de viento.
+eu.utf8=Haize errota
+fr.utf8=Un moulin à vent.
+gu.utf8=પવનચક્કી.
+he.utf8=טחנת רוח
+it.utf8=Un mulino a vento.
+ja.utf8=ふうしゃ
+ka.utf8=ქარის წისქვილი.
+nn.utf8=Ei vindmølle.
+pt_BR.utf8=Um moinho de vento.
+pt_PT.utf8=Um cata-vento.
+ru.utf8=Ветряная мельница.
+sk.utf8=Veterný mlyn.
+sl.utf8=Mlin na veter
+sv.utf8=En väderkvarn.
+uk.utf8=Вітряний млин.
+zh_CN.utf8=风车。
+zh_TW.utf8=風車

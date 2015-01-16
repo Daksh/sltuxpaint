@@ -1,0 +1,25 @@
+A watch tower.
+af.utf8='n Wagtoring.
+ast.utf8=Una torre de vixilancia.
+ca.utf8=Una torre de guaita.
+da.utf8=Et udkigstårn.
+de.utf8=Ein Beobachtungsturm.
+el.utf8=Παρατηρητήριο.
+en_GB.utf8=A watch tower.
+es.utf8=Una torre de vigilancia.
+eu.utf8=Begiratzeko dorrea
+fr.utf8=Une tour de guet.
+gu.utf8=ઘડિયાળનો મિનારો.
+he.utf8=מגדל שמירה
+it.utf8=Una torre da avvistamento.
+ja.utf8=みはりだい
+ka.utf8=სათვალთვალო კოშკი.
+nn.utf8=Eit vakttårn.
+pt_BR.utf8=Uma torre de observação.
+pt_PT.utf8=Uma torre de vigia.
+ru.utf8=Наблюдательная вышка.
+sk.utf8=Rozhľadňa.
+sv.utf8=Ett vakttorn.
+uk.utf8=Сторожова вежа.
+zh_CN.utf8=了望塔。
+zh_TW.utf8=瞭望塔。

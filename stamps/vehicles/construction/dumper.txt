@@ -1,0 +1,25 @@
+A dumper. It carries its load in the front.
+af.utf8='n Stortwa.  Hy dra sy vrag voorop.
+ast.utf8=Un dumper. Carreta la carga delantre.
+ca.utf8=Un dúmper. Porta la càrrega al davant.
+da.utf8=En dumper. Læsses foran.
+de.utf8=Ein Muldenkipper.
+el.utf8=Εκφορτωτής. Κρατάει το φορτίο του μπροστά.
+en_GB.utf8=A dump truck. It carries its load in the front.
+es.utf8=Una volcadora. Lleva su carga delante.
+eu.utf8=Dunperra. Zamak aurrean dakartza.
+fr.utf8=Un chargeur. Il transporte sa charge devant lui.
+gu.utf8=કચરો નાખનાર. એ આગળનાં ભાગ વડે ભાર વહન કરે છે.
+he.utf8=משאית פריקה. היא מבצעת את הטעינה בחזית ..
+it.utf8=Un autoribaltabile. Trasporta il suo carico davanti.
+ja.utf8=にもつを　もちあげる　くるま　「ショベルカー」
+ka.utf8=სატვირთო მანქანა წინა მისაბმელით.
+nn.utf8=Ei motorisert tippvogn.
+pt_BR.utf8=Um trator damper. Ele carrega sua carga na frente.
+pt_PT.utf8=Um dumper. Carrega a carga na frente.
+ru.utf8=Самосвал с кузовом спереди.
+sk.utf8=Bager. Svoj náklad vezie vpredu.
+sv.utf8=En tippvagn. Den har sin last i fram.
+uk.utf8=Самоскид. Він перевозить вантаж попереду себе.
+zh_CN.utf8=垃圾倾倒车。它的负载在前面。
+zh_TW.utf8=一台堆土車，他從前面裝卸東西。

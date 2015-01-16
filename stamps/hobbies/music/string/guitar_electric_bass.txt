@@ -1,0 +1,26 @@
+An electric bass guitar.
+af.utf8='n elektriese baskitaar
+ast.utf8=Un baxu lléctricu.
+ca.utf8=Un baix elèctric.
+da.utf8=En elektrisk basguitar.
+de.utf8=Eine elektrische Bassgitarre.
+el.utf8=Ηλεκτρική κιθάρα μπάσο.
+en_GB.utf8=An electric bass guitar.
+es.utf8=Un bajo eléctrico.
+eu.utf8=Baxu elektrikoa.
+fr.utf8=Une guitare électrique à basses.
+gu.utf8=ઇલેકટ્રિક બાસ ગિટાર.
+it.utf8=Un basso elettrico.
+ja.utf8=エレキベース
+ka.utf8=ელექტრო ბას-გიტარა
+km.utf8=ហ្គីតា​បាស់
+nb.utf8=En elektrisk bassgitar.
+nn.utf8=Ein elektrisk bassgitar.
+pt_BR.utf8=Um baixo.
+pt_PT.utf8=Uma guitarra baixo eléctrica.
+ru.utf8=Электро-бас-гитара.
+sk.utf8=Elektrická basgitara.
+sv.utf8=En elektrisk basgitarr.
+uk.utf8=Електрична бас-гітара.
+zh_CN.utf8=低音电吉他。
+zh_TW.utf8=電子低音吉他

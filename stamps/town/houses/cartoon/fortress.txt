@@ -1,0 +1,25 @@
+A fortress.
+af.utf8='n Sterk fort.
+ast.utf8=Una fortaleza
+ca.utf8=Una fortalesa.
+da.utf8=En fæstning.
+de.utf8=Eine Festung.
+el.utf8=Φρούριο.
+en_GB.utf8=A fortress.
+es.utf8=Una fortaleza.
+eu.utf8=Gaztelua
+fr.utf8=Une forteresse.
+gu.utf8=ગઢ.
+he.utf8=מבצר
+it.utf8=Una fortezza.
+ja.utf8=ようさい
+ka.utf8=ციხე-სიმაგრე.
+nn.utf8=Ein festning.
+pt_BR.utf8=Uma fortaleza.
+pt_PT.utf8=Uma fortaleza.
+ru.utf8=Крепость.
+sk.utf8=Pevnosť.
+sv.utf8=En fästning.
+uk.utf8=Фортеця.
+zh_CN.utf8=堡垒。
+zh_TW.utf8=堡壘。

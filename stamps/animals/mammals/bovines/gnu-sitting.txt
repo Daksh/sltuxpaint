@@ -1,0 +1,22 @@
+A sitting gnu.
+ast.utf8=Un ñu sentáu.
+ca.utf8=Un nyu assegut.
+da.utf8=Siddende gnu.
+el.utf8=Γκνου που κάθεται
+en_GB.utf8=A sitting gnu.
+es.utf8=Un ñu sentado.
+eu.utf8=Ñua eserita
+fr.utf8=Un gnou couché.
+gu.utf8=બેઠેલું સાબર.
+he.utf8=יושב גנו
+it.utf8=Uno gnu seduto.
+ja.utf8=すわっている ヌー
+ka.utf8=დამჯდარი გნუ.
+nn.utf8=Ein gnu som sit.
+pt_BR.utf8=Um Gnu sentado.
+pt_PT.utf8=Um gnu sentado.
+ru.utf8=Сидящая гну.
+sk.utf8=Sediaci pakôň.
+sv.utf8=En sittande gnu.
+uk.utf8=Сидяча антилопа Гну.
+zh_TW.utf8=坐著的牛羚。

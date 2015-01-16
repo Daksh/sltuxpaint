@@ -1,0 +1,25 @@
+Roast turkey is traditionally eaten on Thanksgiving in the United States, and on Christmas Day in the UK.
+af.utf8=Gebraaide kalkoen word tradisioneel op Thanksgiving in die Verenigde State geëet, en op Kersdag in die VK.
+ast.utf8=Asáu turcu, tradicional comida n'Aición de Gracies nos Estoas Xuníos y en Navidá nel Reinu Xuníu.
+ca.utf8=Un gall dindi rostit.
+da.utf8=Stegt kalkun spises traditionelt på Thanksgiving Day (helligdag) i USA, og på juledag i Storbritannien.
+de.utf8=Der Truthahn wird in den USA am Erntedankfest und in Großbritannien zu Weihnachten gegessen:
+el.utf8=Η ψητή γαλοπούλα παραδοσιακά τρώγεται την Ημέρα των Ευχαριστιών στις Ηνωμένες Πολιτείες, και την ημέρα των Χρστουγέννων στο ΗΒ.
+en_GB.utf8=Roast turkey is traditionally eaten on Thanksgiving in the United States, and on Christmas Day in the UK.
+es.utf8=El pavo al horno se come tradicionalmente en el "Día de Acción de Gracias" en los Estados Unidos y en Navidad en el Reino Unido.
+eu.utf8=Indioilar errea, Estatu Batuetan domusantu egunean eta Britainia Handian gabon egunean jaten dena.
+fr.utf8=Traditionnellement, on mange la dinde rôtie le jour du Thanksgiving aux États-Unis, et le jour de Noël au Royaume-Uni.
+gu.utf8=શેકેલી ટર્કીએ પરંપરાગત રીતે યુનાઇટેડ સ્ટેટ્સમાં થેન્કસગીવીંગ દિવસે અને યુકેમાં ક્રિસમસનાં દિવસે ખવાય છે.
+he.utf8=הודו צלוי מסורתי הוא אכול על חג ההודיה בארה"ב, ועל חג המולד באנגליה.
+it.utf8=Il tacchino arrosto è il pasto tipico del giorno del Ringraziamento, negli Stati Uniti, e del giorno di Natale in Inghilterra.
+ja.utf8=しちめんちょう の まるやき。 アメリカでは かんしゃさい の ひに たべて、イギリスでは クリスマス の ひに たべます。
+ka.utf8=შემწვარი ინდაური ტრადიციული კერძია მადლიერების დღეს და შობას შეერთებულ შტატებსა და დიდ ბრიტანეთში.
+nn.utf8=Ein et tradisjonelt kalkunsteik på hausttakkefesten (Thanksgiving) i USA, og på første juledag i England.
+pt_BR.utf8=O peru assado é comido tradicionalmente no Dia de Ação de Graças nos Estados Unidos e no Natal em outras partes do mundo (como no Brasil).
+pt_PT.utf8=O perú assado é tradicionalmente comido no Dia de Acção de Graças nos Estados Unidos e no dia de Natal no Reino Unido.
+ru.utf8=Жареная индейка - традиционное блюдо на День Благодарения в Соединённых Штатах и на Рождество в Великобритании.
+sk.utf8=Pečený moriak je tradičným jedlom na Deň vďakyvzdania v Spojených štátoch a na Štedrý deň v Anglicku.
+sv.utf8=Helstekt kalkon äts traditionellt på Thanksgiving i Amerika och på juldagen i England.
+uk.utf8=Смаженого індика традиційно їдять на День Подяки у Сполучених Штатах, а на Різдво у Великобританії.
+zh_CN.utf8=烤鸡在美国是感恩节的传统食物而在英国是圣诞节的传统食物，
+zh_TW.utf8=烤火雞是美國過感恩節時的傳統食物，也是英國在聖誔節的傳統食物。

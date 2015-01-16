@@ -1,0 +1,27 @@
+A yack.
+af.utf8='n yak
+ast.utf8=Un yac.
+ca.utf8=Un iac.
+da.utf8=En yakokse.
+de.utf8=Ein Yak.
+el.utf8=Βουβάλι.
+en_GB.utf8=A yack.
+es.utf8=Un yak.
+eu.utf8=Yaka
+fr.utf8=Un yack.
+gu.utf8=યાક.
+he.utf8=יאק
+it.utf8=Un bue tibetano.
+ja.utf8=ヤク
+ka.utf8=იაკი.
+km.utf8=គោ​ចាមរី
+nb.utf8=En jakokse.
+nn.utf8=Ein jakokse.
+pt_BR.utf8=Um iaque.
+pt_PT.utf8=Um iaque.
+ru.utf8=Як.
+sk.utf8=Divý jak.
+sv.utf8=En jak.
+uk.utf8=Як (тібетський бик).
+zh_CN.utf8=废话。
+zh_TW.utf8=yack

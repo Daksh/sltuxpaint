@@ -1,0 +1,25 @@
+A cup of espresso coffee.
+af.utf8='n Koppie espresso.
+ast.utf8=Una taza de café.
+ca.utf8=Una tassa de café.
+da.utf8=En kop espresso-kaffe.
+de.utf8=Eine Tasse Espressokaffee
+el.utf8=Ένα φλυτζάνι καφέ εσπρέσσο.
+en_GB.utf8=A cup of espresso coffee.
+es.utf8=Una taza de café expreso.
+eu.utf8=Kafe espreso kikara
+fr.utf8=Une tasse de café expresso.
+gu.utf8=એસ્પ્રેસો કોફીનો કપ.
+he.utf8=ספל קפה אספרסו
+it.utf8=Una tazzina di caffè espresso.
+ja.utf8=エスプレッソ　コーヒー
+ka.utf8=ფინჯანი ესპრესსო.
+nn.utf8=Ein kopp espressokaffi.
+pt_BR.utf8=Uma xícara de café expresso.
+pt_PT.utf8=Uma chávena de café expresso.
+ru.utf8=Чашечка кофе эспрессо.
+sk.utf8=Šálka espressa.
+sv.utf8=En kopp espressokaffe.
+uk.utf8=Чашка кави еспрессо.
+zh_CN.utf8=一杯浓咖啡。
+zh_TW.utf8=一杯濃縮咖啡。

@@ -1,0 +1,25 @@
+A cherimoya fruit.
+af.utf8='n Tjerimojavrug.
+ast.utf8=Una chirimoya.
+ca.utf8=Una xirimoia.
+da.utf8=En cherimoya.
+de.utf8=Ein Zimtapfel.
+el.utf8=Φρούτο cherimoya (εσπεριδοειδές φρούτο της Νότιας Αμερικής).
+en_GB.utf8=A cherimoya fruit.
+es.utf8=Una chirimoya.
+eu.utf8=Txirimoia
+fr.utf8=Une anone.
+gu.utf8=ચેરીમોયા ફળ.
+he.utf8=אנונת הכלאיים (Anona atemoya)
+it.utf8=Un frutto di cherimoya.
+ja.utf8=くだもの 「チェリモヤ」
+ka.utf8=ჩერიმოია.
+nn.utf8=Ei cherimoya-frukt.
+pt_BR.utf8=Uma cherimólia.
+pt_PT.utf8=Uma fruta cherimoya.
+ru.utf8=Черимойя.
+sk.utf8=Papája.
+sv.utf8=En kiramojafrukt.
+uk.utf8=Плід черимойя.
+zh_CN.utf8=番荔枝。
+zh_TW.utf8=鳳梨釋迦。

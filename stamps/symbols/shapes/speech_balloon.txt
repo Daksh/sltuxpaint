@@ -1,0 +1,27 @@
+A speech balloon.
+af.utf8='n praatwolkie
+ast.utf8=Un globu que representa lo que se diz.
+ca.utf8=Un globus de parla.
+da.utf8=En taleballon.
+de.utf8=Eine Sprechblase.
+el.utf8=Συννεφάκι για την εμφάνιση ομιλίας.
+en_GB.utf8=A speech balloon.
+es.utf8=Un globo que representa algo dicho.
+eu.utf8=Globoa
+fr.utf8=Un phylactère pour les paroles.
+gu.utf8=બોલતું બલૂન.
+he.utf8=נאום בלון
+it.utf8=Un fumetto... che parla!
+ja.utf8=ふきだし
+ka.utf8=საუბრის ბუშტი.
+km.utf8=បាឡុង​សំដី
+nb.utf8=En snakkeboble.
+nn.utf8=Ei snakkeboble.
+pt_BR.utf8=Um balão (de fala).
+pt_PT.utf8=Um balão discursista.
+ru.utf8=Выноска для речи.
+sk.utf8=Bublina pre reč postavy.
+sv.utf8=En talballong.
+uk.utf8=Мовна хмарка.
+zh_CN.utf8=一只会说画的热气球。
+zh_TW.utf8=說話的圓圈

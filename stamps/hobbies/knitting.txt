@@ -1,0 +1,25 @@
+Knitting.
+af.utf8=Brei.
+ast.utf8=Puntu.
+ca.utf8=Un cabdell de llana amb dues agulles de fer mitja.
+da.utf8=Strikning.
+de.utf8=Stricken.
+el.utf8=Πλέξιμο.
+en_GB.utf8=Knitting.
+es.utf8=Tejer.
+eu.utf8=Mataza
+fr.utf8=Pour tricoter.
+gu.utf8=ગૂંથણી.
+he.utf8=סריגה
+it.utf8=Lavoro a maglia.
+ja.utf8=あみもの
+ka.utf8=ქსოვა.
+nn.utf8=Strikketøy.
+pt_BR.utf8=Um novelo para tricô.
+pt_PT.utf8=Uma malha.
+ru.utf8=Вязание.
+sk.utf8=Potreby na štrikovanie.
+sv.utf8=Stickning.
+uk.utf8=В’язання.
+zh_CN.utf8=编织品。
+zh_TW.utf8=編織毛線。

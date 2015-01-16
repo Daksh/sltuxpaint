@@ -1,0 +1,22 @@
+A bolted lettuce.
+ast.utf8=Un cogollu de llechuga.
+ca.utf8=Un enciam que ha pujat.
+da.utf8=Et salathoved i frø.
+el.utf8=Μαρούλι που έχει βγάλει σπόρους.
+en_GB.utf8=A bolted lettuce.
+es.utf8=Una planta de lechuga.
+eu.utf8=Letxuga 
+fr.utf8=Une laitue qui a levé.
+gu.utf8=બાંધેલી ભાજી.
+he.utf8=ראש חסה
+it.utf8=Una lattuga che è cresciuta troppo!
+ja.utf8=レタスの なかま
+ka.utf8=სალათის კონა.
+nn.utf8=Ein overmoden salat.
+pt_BR.utf8=Um pé de alface.
+pt_PT.utf8=Uma alface escura.
+ru.utf8=Пучок салата.
+sk.utf8=Vysoký šalát.
+sv.utf8=Ett salladshuvud.
+uk.utf8=Пучок салату.
+zh_TW.utf8=豎立的萵苣。

@@ -1,0 +1,26 @@
+A gate.
+af.utf8='n Hek.
+ast.utf8=El cai.
+ca.utf8=La porta del castell.
+da.utf8=En port.
+de.utf8=Ein Tor.
+el.utf8=Πύλη.
+en_GB.utf8=A gate.
+es.utf8=El portón de un castillo.
+eu.utf8=Atea
+fr.utf8=Une porte.
+gu.utf8=દરવાજો.
+he.utf8=שער
+it.utf8=Un portone.
+ja.utf8=おしろの もん
+ka.utf8=კარიბჭე.
+nn.utf8=Ein port.
+pt_BR.utf8=Um portão.
+pt_PT.utf8=Um portão.
+ru.utf8=Ворота.
+sk.utf8=Hradná brána.
+sl.utf8=Vrata
+sv.utf8=En port.
+uk.utf8=Ворота.
+zh_CN.utf8=大门。
+zh_TW.utf8=城門。

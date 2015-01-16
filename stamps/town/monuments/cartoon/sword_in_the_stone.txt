@@ -1,0 +1,25 @@
+A sword in the stone.
+af.utf8='n Swaard in 'n klip.
+ast.utf8=Una espada nuna piedra.
+ca.utf8=Una espasa clavada a la pedra.
+da.utf8=Et sværd i stenen.
+de.utf8=Ein Schwert im Stein.
+el.utf8=Ξίφος μέσα στη πέτρα.
+en_GB.utf8=A sword in the stone.
+es.utf8=Una espada en la piedra.
+eu.utf8=Ezpata harrian
+fr.utf8=Une épée plantée dans un rocher.
+gu.utf8=પથ્થરમાં તલવાર.
+he.utf8=חרב של אבן
+it.utf8=Una spada nella roccia.
+ja.utf8=いしに ささった つるぎ
+ka.utf8=მახვილი ქვაში.
+nn.utf8=Eit sverd i ein stein.
+pt_BR.utf8=Uma espada na pedra.
+pt_PT.utf8=Uma espada numa pedra.
+ru.utf8=Меч в камне.
+sk.utf8=Meč v skale.
+sv.utf8=Ett svärd i stenen.
+uk.utf8=Меч в камені.
+zh_CN.utf8=石头里的一把剑。
+zh_TW.utf8=石中劍。

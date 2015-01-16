@@ -1,0 +1,21 @@
+A woman dancing in a ball gown.
+ast.utf8=Una muyer baillando.
+ca.utf8=Una dona vestida de ball.
+da.utf8=En dansende kvinde i balkjole.
+el.utf8=Γυναίκα που χορεύει με βραδινό φόρεμα χορού.
+en_GB.utf8=A woman dancing in a ball gown.
+es.utf8=Una mujer bailando en un vestido de fiesta.
+eu.utf8=Emakumea dantzan
+fr.utf8=Une jeune femme en robe de bal.
+gu.utf8=બૉલ ગાઉનમાં નાચતી સ્ત્રી.
+it.utf8=Una donna che balla in abito da sera.
+ja.utf8=やかいふくを　きて おどる おんなの ひと
+ka.utf8=მოცეკვავე ქალი.
+nn.utf8=Ei dansande kvinne med ballkjole.
+pt_BR.utf8=Uma mulher dançando em um vestido de gala.
+pt_PT.utf8=Uma senhora a dançar no salão.
+ru.utf8=Танцующая женщина в бальном платье.
+sk.utf8=Žena, ktorá tancuje v plesových šatách.
+sv.utf8=En kvinna som dansar i en balklänning.
+uk.utf8=Танцююча жінка в бальній сукні.
+zh_TW.utf8=穿著正式禮服跳舞的女人。

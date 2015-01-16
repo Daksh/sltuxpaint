@@ -1,0 +1,22 @@
+A pickup truck.
+ast.utf8=Una camioneta.
+ca.utf8=Una camioneta. Un "pickup"
+da.utf8=En pickup.
+el.utf8=Αγροτικό αυτοκίνητο.
+en_GB.utf8=A pickup truck.
+es.utf8=Una camioneta pickup.
+eu.utf8=Pickup kamioia
+fr.utf8=Un véhicule utilitaire.
+gu.utf8=ટ્રક.
+he.utf8=טנדר
+it.utf8=Un veicolo pickup.
+ja.utf8=けいトラック
+ka.utf8=პიკაპი.
+nn.utf8=Ein varebil.
+pt_BR.utf8=Uma caminhonete.
+pt_PT.utf8=Um jipe.
+ru.utf8=Пикап.
+sk.utf8=Dodávka.
+sv.utf8=En liten lastbil.
+uk.utf8=Пікап.
+zh_TW.utf8=小卡車。

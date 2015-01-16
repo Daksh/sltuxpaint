@@ -1,0 +1,25 @@
+The baby of a gnu.
+af.utf8=Die baba van 'n gnu.
+ast.utf8=Un bebé ñu.
+ca.utf8=Un bebé nyu.
+da.utf8=En gnubaby.
+de.utf8=Ein kleines Gnu.
+el.utf8=Το μωρό ενός γκνου.
+en_GB.utf8=The baby of a gnu.
+es.utf8=Un cachorro de ñu.
+eu.utf8=Ñu kumea
+fr.utf8=Un bébé gnou.
+gu.utf8=સાબરનું બચ્ચું.
+he.utf8=תינוק של הגנו
+it.utf8=Un cucciolo di gnu
+ja.utf8=ヌー の あかちゃん
+ka.utf8=პაწია გნუ.
+nn.utf8=Ein gnubaby.
+pt_BR.utf8=Um filhote de gnu.
+pt_PT.utf8=Um gnu bebé.
+ru.utf8=Маленькая гну
+sk.utf8=Mláďa pakoňa.
+sv.utf8=Bebisen för en gnu.
+uk.utf8=Маля антилопи Гну.
+zh_CN.utf8=角马的孩子。
+zh_TW.utf8=小牛羚。

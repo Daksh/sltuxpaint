@@ -1,0 +1,25 @@
+A university.
+af.utf8='n Universiteit.
+ast.utf8=Una universidá.
+ca.utf8=Les ruïnes d'una universitat antiga.
+da.utf8=Et universitet.
+de.utf8=Ein Tempel.
+el.utf8=Πανεπιστήμιο.
+en_GB.utf8=A university.
+es.utf8=Una universidad.
+eu.utf8=Unibertsitatea
+fr.utf8=Une université.
+gu.utf8=યુનિવર્સીટી
+he.utf8=באוניברסיטה
+it.utf8=Una università.
+ja.utf8=だいがく
+ka.utf8=უნივერსიტეტი.
+nn.utf8=Eit universitet.
+pt_BR.utf8=Uma universidade.
+pt_PT.utf8=Uma universidade.
+ru.utf8=Университет.
+sk.utf8=Vysoká škola.
+sv.utf8=Ett universitet.
+uk.utf8=Університет.
+zh_CN.utf8=大学
+zh_TW.utf8=大學殿堂。

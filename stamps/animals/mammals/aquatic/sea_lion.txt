@@ -1,0 +1,27 @@
+A sea lion.
+af.utf8='n seeleeu
+ast.utf8=Un lleón marín.
+ca.utf8=Un otàrid.
+da.utf8=En søløve.
+de.utf8=Ein Seelöwe.
+el.utf8=Φώκια.
+en_GB.utf8=A sea lion.
+es.utf8=Un león marino.
+eu.utf8=Itsas-lehoia
+fr.utf8=Une otarie.
+gu.utf8=જળ ઘોડો.
+he.utf8=ארי הים
+it.utf8=Un'otaria.
+ja.utf8=アシカ
+ka.utf8=ზღვის ლომი.
+km.utf8=តោ​សមុទ្រ
+nb.utf8=En sjøløve.
+nn.utf8=Ei sjøløve.
+pt_BR.utf8=Um leão marinho.
+pt_PT.utf8=Um leão marinho.
+ru.utf8=Морской лев.
+sk.utf8=Tuleň.
+sv.utf8=Ett sjölejon.
+uk.utf8=Морський лев.
+zh_CN.utf8=一只海豹。
+zh_TW.utf8=海獅

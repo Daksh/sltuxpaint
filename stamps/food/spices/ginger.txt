@@ -1,0 +1,26 @@
+A ginger 'root'.
+af.utf8='n Gemmerwortel.
+ast.utf8=Un raigón de xenxibre.
+ca.utf8=Una arrel de gingebre.
+da.utf8=En ingefærrod.
+de.utf8=Ein Inwerwurzel.
+el.utf8="Ρίζα" από τζιντζερ.
+en_GB.utf8=A ginger 'root'.
+es.utf8=Una raíz de jengibre.
+eu.utf8=Gengibrea
+fr.utf8=Une racine de gimgembre.
+gu.utf8=આદુનું મૂળ.
+he.utf8=זנגויל שורש
+it.utf8=Una radice di zenzero.
+ja.utf8=ショウガ
+ka.utf8=ჯანჯაფილის 'ფესვი'.
+nn.utf8=Ei ingefærrot.
+pt_BR.utf8=Uma raiz de gengibre.
+pt_PT.utf8=Uma raiz de gengibre.
+ru.utf8=Имбирный корень.
+sk.utf8=Zázvor.
+sl.utf8=Gorilla
+sv.utf8=En ingefärsrot.
+uk.utf8=Корінь імбиру.
+zh_CN.utf8=生姜根。
+zh_TW.utf8=老薑。

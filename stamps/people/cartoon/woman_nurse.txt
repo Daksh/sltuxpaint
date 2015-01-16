@@ -1,0 +1,26 @@
+A nurse.
+af.utf8='n Verpleegster.
+ast.utf8=Una enfermera.
+ca.utf8=Una infermera.
+da.utf8=En sygeplejeske.
+de.utf8=Eine Krankenschwester.
+el.utf8=Νοσοκόμα.
+en_GB.utf8=A nurse.
+es.utf8=Una enfermera.
+eu.utf8=Erizaina
+fr.utf8=Une infirmière.
+gu.utf8=નર્સ.
+he.utf8=\tאחות
+it.utf8=Un'infermiera.
+ja.utf8=かんごふさん
+ka.utf8=ძიძა.
+nn.utf8=Ein sjukepleiar.
+pt_BR.utf8=Uma enfermeira.
+pt_PT.utf8=Uma enfermeira.
+ru.utf8=Медсестра.
+sk.utf8=Zdravotná sestrička.
+sl.utf8=Medicinska sestra
+sv.utf8=En sjuksköterska.
+uk.utf8=Медична сестра.
+zh_CN.utf8=一个护士。
+zh_TW.utf8=護士。

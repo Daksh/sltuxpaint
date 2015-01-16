@@ -1,0 +1,27 @@
+The sign for the letter U in American Sign Language.
+af.utf8=Die letter U in Amerikaanse gebaretaal.
+ast.utf8=La lletra U nel llinguax de señes americanu.
+ca.utf8=El signe per la lletra U en el llenguatge de signes americà.
+da.utf8=Tegnet for bogstavet U i amerikansk tegnsprog.
+de.utf8=Der Buchstabe U in der Amerikanischen Gebärdensprache.
+el.utf8=Το σύμβολο για το γράμμα U  στην Αμερικάνικη νοηματική.
+en_GB.utf8=The sign for the letter U in American Sign Language.
+es.utf8=La letra U en el lenguaje de señas americano.
+eu.utf8=U letraren zeinua ameriketako gorren hizkuntan
+fr.utf8=La lettre U en langage des signes américain.
+gu.utf8=અમેરિકન સંજ્ઞા ભાષામાં અક્ષર U ની સંજ્ઞા.
+it.utf8=Il segno corrispondente alla lettera U nel linguaggio dei segni americano.
+ja.utf8=「U」の もじを あらわす アメリカの しゅわ
+ka.utf8=ნიშანი ასოსთვის U ამერიკულ ნიშნების ენაში.
+km.utf8=សញ្ញា​អក្សរ U ជា​ភាសា​សញ្ញា​អាមេរិក ។
+nb.utf8=Tegnet for bokstaven «U» i det amerikanske tegnspråket.
+nn.utf8=Teiknet for bokstaven «U» i det amerikanske teiknspråket.
+pt_BR.utf8=O gesto para a letra U na Linguagem Americana de Sinais.
+pt_PT.utf8=A marca para a letra U no idioma Americano.
+ru.utf8=Знак для буквы U в американском языке жестов.
+sk.utf8=Znak pre písmeno U v americkej znakovej reči.
+sl.utf8=Znak za črko U v znakovnem jeziku
+sv.utf8=Tecknet för bokstaven U i det amerikanska teckenspråket.
+uk.utf8=Знак для латинської літери U на американській мові знаків.
+zh_CN.utf8=美国手语中字母Ｕ的标示。
+zh_TW.utf8=美國手語的字母 U

@@ -1,0 +1,27 @@
+The sign for the letter A in American Sign Language.
+af.utf8=Die letter A in Amerikaanse gebaretaal.
+ast.utf8=La lletra A nel linguax de señes americanu.
+ca.utf8=El signe per la lletra A en el llenguatge de signes americà.
+da.utf8=Tegnet for bogstavet A i amerikansk tegnsprog.
+de.utf8=Der Buchstabe A in der Amerikanischen Gebärdensprache.
+el.utf8=Το σύμβολο για το γράμμα A στην Αμερικάνικη νοηματική.
+en_GB.utf8=The sign for the letter A in American Sign Language.
+es.utf8=La letra A en el lenguaje de señas americano.
+eu.utf8=A letraren zeinua ameriketako gorren hizkuntan
+fr.utf8=La lettre A en langage des signes américain.
+gu.utf8=અમેરિકન સંજ્ઞા ભાષામાં અક્ષર A ની સંજ્ઞા.
+it.utf8=Il segno corrispondente alla lettera A nel linguaggio dei segni americano.
+ja.utf8=「A」の もじを あらわす アメリカの しゅわ
+ka.utf8=ნიშანი ასოსთვის A ამერიკულ ნიშნების ენაში.
+km.utf8=សញ្ញា​អក្សរ A ជា​ភាសា​សញ្ញា​អាមេរិក ។
+nb.utf8=Tegnet for bokstaven «A» i det amerikanske tegnspråket.
+nn.utf8=Teiknet for bokstaven «A» i det amerikanske teiknspråket.
+pt_BR.utf8=O gesto para a letra A na Linguagem Americana de Sinais.
+pt_PT.utf8=A marca para a letra A no idioma Americano.
+ru.utf8=Знак для буквы A в американском языке жестов.
+sk.utf8=Znak pre písmeno A v americkej znakovej reči.
+sl.utf8=Znak za črko A v znakovnem jeziku
+sv.utf8=Tecknet för bokstaven A i det amerikanska teckenspråket.
+uk.utf8=Знак для латинської літери A на американській мові знаків.
+zh_CN.utf8=美国手语中字母Ａ的标示。
+zh_TW.utf8=美國手語的字母 A

@@ -1,0 +1,23 @@
+A wooden toy from Germany called a "Räuchermännchen".
+af.utf8='n Houtspeelding uit Duitsland genaamd 'n Räuchermännchen.
+ast.utf8=Un xuguete xermanu nomáu "Räuchermännchen".
+ca.utf8=Un ninot de fusta alemany anomenat "Räuchermännchen".
+da.utf8=Trælegetøj fra Tyskland kaldet en »Räuchermann«.
+de.utf8=Ein Räuchermännchen.
+el.utf8=Ξύλινο παιχνίδι από τη γερμανία που ονομάζεται "Räuchermännchen"
+en_GB.utf8=A wooden toy from Germany called a "Räuchermännchen".
+es.utf8=Un juguete alemán de madera llamado "Räuchermännchen".
+eu.utf8=Alemaniako egurrezko jostailua, "Räuchermännchen" izenekoa.
+fr.utf8=Un jouet en bois allemand appelé "Räuchermännchen".
+gu.utf8=જર્મનીનું "રાઉચેર્મન્ચેન" કહેવાતું લાકડાનું રમકડું.
+it.utf8=Un giocattolo tedesco in legno che si chiama "Räuchermännchen".
+ja.utf8=ドイツから きた きの おもちゃ　「ライヒェルにんぎょう」
+ka.utf8=გერმანული ხის თოჯინა სახელწოდებით «რაუხენმენხენი».
+nn.utf8=Ein treleke frå Tyskland som heiter «Räuchermännchen».
+pt_BR.utf8=Um brinquedo de Natal alemão chamado "Räuchermännchen".
+pt_PT.utf8=Um brinquedo de madeira na Alemanha, chamado de "Räuchermännchen".
+ru.utf8="Курильщик" - деревянная игрушка из Германии.
+sk.utf8=Drevený deduško  „Räuchermännchen“ (čítaj rojchermenchen)
+sv.utf8=En träleksak från Tyskland som kallas "Räuchermännchen".
+uk.utf8=Дерев’яна іграшка з Німеччини називається «Ройхерменхен» (нім. Räuchermännchen)
+zh_TW.utf8=來自德國的木製玩具，叫做「Räuchermännchen」(意指抽煙的男性)。

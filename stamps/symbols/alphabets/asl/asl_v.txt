@@ -1,0 +1,27 @@
+The sign for the letter V in American Sign Language.
+af.utf8=Die letter V in Amerikaanse gebaretaal.
+ast.utf8=La lletra V nel llinguax de señes americanu.
+ca.utf8=El signe per la lletra V en el llenguatge de signes americà.
+da.utf8=Tegnet for bogstavet V i amerikansk tegnsprog.
+de.utf8=Der Buchstabe V in der Amerikanischen Gebärdensprache.
+el.utf8=Το σύμβολο για το γράμμα V  στην Αμερικάνικη νοηματική.
+en_GB.utf8=The sign for the letter V in American Sign Language.
+es.utf8=La letra V en el lenguaje de señas americano.
+eu.utf8=V letraren zeinua ameriketako gorren hizkuntan
+fr.utf8=La lettre V en langage des signes américain.
+gu.utf8=અમેરિકન સંજ્ઞા ભાષામાં અક્ષર V ની સંજ્ઞા.
+it.utf8=Il segno corrispondente alla lettera V nel linguaggio dei segni americano.
+ja.utf8=「V」の もじを あらわす アメリカの しゅわ
+ka.utf8=ნიშანი ასოსთვის V ამერიკულ ნიშნების ენაში.
+km.utf8=សញ្ញា​អក្សរ V ជា​ភាសា​សញ្ញា​អាមេរិក ។
+nb.utf8=Tegnet for bokstaven «V» i det amerikanske tegnspråket.
+nn.utf8=Teiknet for bokstaven «V» i det amerikanske teiknspråket.
+pt_BR.utf8=O gesto para a letra V na Linguagem Americana de Sinais.
+pt_PT.utf8=A marca para a letra V no idioma Americano.
+ru.utf8=Знак для буквы V в американском языке жестов.
+sk.utf8=Znak pre písmeno V v americkej znakovej reči.
+sl.utf8=Znak za črko V v znakovnem jeziku
+sv.utf8=Tecknet för bokstaven V i det amerikanska teckenspråket.
+uk.utf8=Знак для латинської літери V на американській мові знаків.
+zh_CN.utf8=美国手语中字母Ｖ的标示。
+zh_TW.utf8=美國手語的字母 V

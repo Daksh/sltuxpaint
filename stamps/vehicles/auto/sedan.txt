@@ -1,0 +1,22 @@
+A sedan car.
+ast.utf8=Un coche.
+ca.utf8=Un sedan.
+da.utf8=En sedan.
+el.utf8=Κλειστό αυτοκίνητο.
+en_GB.utf8=A sedan car.
+es.utf8=Un auto tipo sedán.
+eu.utf8=Autoa
+fr.utf8=Une conduite intérieure.
+gu.utf8=સવારી કાર.
+he.utf8=מכונית סגורה
+it.utf8=Un'auto berlina.
+ja.utf8=セダンしゃ
+ka.utf8=სედანი.
+nn.utf8=Ein sedan.
+pt_BR.utf8=Um carro sedã.
+pt_PT.utf8=Um carro sedan.
+ru.utf8=Седан.
+sk.utf8=Sedan (auto).
+sv.utf8=En bil.
+uk.utf8=Авто-седан.
+zh_TW.utf8=轎車。

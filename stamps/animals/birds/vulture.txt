@@ -1,0 +1,27 @@
+A vulture.
+af.utf8='n aasvoël
+ast.utf8=Una utre.
+ca.utf8=Un voltor.
+da.utf8=En grib.
+de.utf8=Ein Geier.
+el.utf8=Γίπας.
+en_GB.utf8=A vulture.
+es.utf8=Un buitre.
+eu.utf8=Saia
+fr.utf8=Un vautour.
+gu.utf8=ગીધ.
+he.utf8=עיט
+it.utf8=Un avvoltoio.
+ja.utf8=ハゲワシ
+ka.utf8=სვავი.
+km.utf8=ត្មាត
+nb.utf8=En gribb.
+nn.utf8=Ein gribb.
+pt_BR.utf8=Um abutre.
+pt_PT.utf8=Um abutre.
+ru.utf8=Гриф.
+sk.utf8=Sup.
+sv.utf8=En gam.
+uk.utf8=Стерв’ятник.
+zh_CN.utf8=秃鹰。
+zh_TW.utf8=禿鷹

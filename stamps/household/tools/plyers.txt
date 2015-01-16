@@ -1,0 +1,27 @@
+A pair of pliers.
+af.utf8='n tang
+ast.utf8=Unes alicates.
+ca.utf8=Unes alicates.
+da.utf8=En spids tang.
+de.utf8=Eine Zange.
+el.utf8=Πένσα.
+en_GB.utf8=A pair of pliers.
+es.utf8=Un alicate.
+eu.utf8=Aliketak
+fr.utf8=Une paire de pinces.
+gu.utf8=સાધનોની જોડી.
+he.utf8=זוג צבת
+it.utf8=Una pinza.
+ja.utf8=ペンチ
+ka.utf8=ბრტყელტუჩა.
+km.utf8=ដង្កាប់
+nb.utf8=En tang.
+nn.utf8=Ei tang.
+pt_BR.utf8=Um alicade de bico fino.
+pt_PT.utf8=Um par de alicates.
+ru.utf8=Плоскогубцы.
+sk.utf8=Kliešte - kombinačky.
+sv.utf8=En tång.
+uk.utf8=Плоскогубці.
+zh_CN.utf8=一个老虎钳。
+zh_TW.utf8=一對鉗子

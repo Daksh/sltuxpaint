@@ -1,0 +1,25 @@
+A birch at winter.
+af.utf8='n Berkeboom in winter.
+ast.utf8=Un abeduriu n'iviernu.
+ca.utf8=Un bedoll a l'hivern.
+da.utf8=En birk om vinteren.
+de.utf8=Eine Birke im Winter.
+el.utf8=Σημύδα το χειμώνα.
+en_GB.utf8=A birch at winter.
+es.utf8=Un abedul en invierno.
+eu.utf8=Urkia neguan
+fr.utf8=Un bouleau en hiver.
+gu.utf8=શિયાળામાં બિર્ચ.
+he.utf8=שדר בשעה החורף
+it.utf8=Una betulla in inverno.
+ja.utf8=ふゆの カバのき
+ka.utf8=არყის ხე ზამთარში.
+nn.utf8=Ei bjørk om vinteren.
+pt_BR.utf8=Um vidoeiro no inverno.
+pt_PT.utf8=Um vidoeiro no Inverno.
+ru.utf8=Берёза зимой.
+sk.utf8=Breza v zime.
+sv.utf8=En björn på vintern.
+uk.utf8=Береза зимою.
+zh_CN.utf8=冬季的白桦树。
+zh_TW.utf8=冬天的白樺樹。

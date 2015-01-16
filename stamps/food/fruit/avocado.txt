@@ -1,0 +1,25 @@
+An avocado fruit.
+af.utf8='n Avokado.
+ast.utf8=Un aguacate.
+ca.utf8=Un alvocat.
+da.utf8=En avocadofrugt.
+de.utf8=Eine Avocado
+el.utf8=Αβοκάντο.
+en_GB.utf8=An avocado fruit.
+es.utf8=Un aguacate o palta.
+eu.utf8=Ahuakatea
+fr.utf8=Un avocat.
+gu.utf8=જમરૂખ ફળ.
+he.utf8=אבוקדו
+it.utf8=Un avocado.
+ja.utf8=くだもの 「アボカド」
+ka.utf8=ავოკადო.
+nn.utf8=Ein avokado.
+pt_BR.utf8=Um abacate.
+pt_PT.utf8=Um abacate.
+ru.utf8=Авокадо.
+sk.utf8=Avokádo.
+sv.utf8=En avokadofrukt.
+uk.utf8=Плід авокадо.
+zh_CN.utf8=鳄梨。
+zh_TW.utf8=水果鱷梨。

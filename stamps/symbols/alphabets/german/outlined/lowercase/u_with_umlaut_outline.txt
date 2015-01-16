@@ -1,0 +1,27 @@
+The letter u with an umlaut.
+af.utf8=die letter u met 'n umlaut
+ast.utf8=La lletra u con diéresis.
+ca.utf8=La lletra u amb una dièresi.
+da.utf8=Bogstavet u med umlaut.
+de.utf8=Der Buchstabe ü.
+el.utf8=Το γράμμα u με ούμλαουτ.
+en_GB.utf8=The letter u with an umlaut.
+es.utf8=La letra u con umlaut del idioma alemán.
+eu.utf8=u letra dieresi eta guzti
+fr.utf8=La lettre u avec un tréma.
+gu.utf8=અમલોટ સાથેનો અક્ષર u.
+it.utf8=La lettera u con la umlaut.
+ja.utf8=ウムラウトがついた アルファベットの "u"
+ka.utf8=ასო u უმლაუტით.
+km.utf8=អក្សរ u ជា​ស្រះ
+nb.utf8=Bokstaven «u» med trema/tødler.
+nn.utf8=Bokstaven «u» med trema/tødlar.
+pt_BR.utf8=A letra u com trema.
+pt_PT.utf8=A letra u com trema.
+ru.utf8=Буква u с умляутом.
+sk.utf8=Písmeno u s dvoma bodkami.
+sl.utf8=Črka u s preglasom
+sv.utf8=Bokstaven ü (tyskt y).
+uk.utf8=Латинська літера u з умляутом.
+zh_CN.utf8=元音变音的字母ｕ。
+zh_TW.utf8=字母 u 上面有二點

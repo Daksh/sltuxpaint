@@ -1,0 +1,24 @@
+Two wild boars.
+af.utf8=Twee wilde varke.
+ast.utf8=Do xabariles xabaces.
+ca.utf8=Dos porcs senglars.
+da.utf8=To vildsvin.
+de.utf8=Wildschwein mit Frischling.
+el.utf8=Δύο αγριογούρουνα.
+en_GB.utf8=Two wild boars.
+es.utf8=Dos jabalíes salvajes.
+eu.utf8=Basurde bi
+fr.utf8=Deux sangliers.
+gu.utf8=બે જંગલી ડુક્કરો.
+it.utf8=Due cinghiali selvatici.
+ja.utf8=やせいの イノシシ
+ka.utf8=ორი ტახი (გარეული ღორი).
+nn.utf8=To villsvin.
+pt_BR.utf8=Dois javalis.
+pt_PT.utf8=Dois javalis furiosos.
+ru.utf8=Два диких кабана.
+sk.utf8=Dva diviaky.
+sv.utf8=Två vildsvin.
+uk.utf8=Два дикі кабани.
+zh_CN.utf8=两只野猪。
+zh_TW.utf8=兩隻野豬。

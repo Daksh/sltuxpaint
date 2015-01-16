@@ -1,0 +1,27 @@
+The sign for the letter W in American Sign Language.
+af.utf8=Die letter W in Amerikaanse gebaretaal.
+ast.utf8=La lletra W nel llinguax de señes americanu.
+ca.utf8=El signe per la lletra W en el llenguatge de signes americà.
+da.utf8=Tegnet for bogstavet W i amerikansk tegnsprog.
+de.utf8=Der Buchstabe W in der Amerikanischen Gebärdensprache.
+el.utf8=Το σύμβολο για το γράμμα W  στην Αμερικάνικη νοηματική.
+en_GB.utf8=The sign for the letter W in American Sign Language.
+es.utf8=La letra W en el lenguaje de señas americano.
+eu.utf8=W letraren zeinua ameriketako gorren hizkuntan
+fr.utf8=La lettre W en langage des signes américain.
+gu.utf8=અમેરિકન સંજ્ઞા ભાષામાં અક્ષર W ની સંજ્ઞા.
+it.utf8=Il segno corrispondente alla lettera W nel linguaggio dei segni americano.
+ja.utf8=「W」の もじを あらわす アメリカの しゅわ
+ka.utf8=ნიშანი ასოსთვის W ამერიკულ ნიშნების ენაში.
+km.utf8=សញ្ញា​អក្សរ W ជា​ភាសា​សញ្ញា​អាមេរិក ។
+nb.utf8=Tegnet for bokstaven «W» i det amerikanske tegnspråket.
+nn.utf8=Teiknet for bokstaven «W» i det amerikanske teiknspråket.
+pt_BR.utf8=O gesto para a letra W na Linguagem Americana de Sinais.
+pt_PT.utf8=A marca para a letra W no idioma Americano.
+ru.utf8=Знак для буквы W в американском языке жестов.
+sk.utf8=Znak pre písmeno W v americkej znakovej reči.
+sl.utf8=Znak za črko W v znakovnem jeziku
+sv.utf8=Tecknet för bokstaven W i det amerikanska teckenspråket.
+uk.utf8=Знак для латинської літери W на американській мові знаків.
+zh_CN.utf8=美国手语中字母中Ｗ的标示。
+zh_TW.utf8=美國手語的字母 W

@@ -1,0 +1,23 @@
+A scarecrow.
+ast.utf8=Un espantayu.
+ca.utf8=Un espantaocells.
+da.utf8=Et fugleskræmsel.
+el.utf8=Σκιάχτρο.
+en_GB.utf8=A scarecrow.
+es.utf8=Un espantapájaros.
+eu.utf8=Txorimaloa
+fr.utf8=Un épouvantail.
+gu.utf8=ચાડિયો.
+he.utf8=דחליל 
+it.utf8=Uno spaventapasseri.
+ja.utf8=かかし
+ka.utf8=საფრთხობელა.
+nn.utf8=Eit fugleskremsel.
+pt_BR.utf8=Um espantalho.
+pt_PT.utf8=Um espantalho.
+ru.utf8=Чучело.
+sk.utf8=Šašo.
+sl.utf8=Pričje strašilo
+sv.utf8=En fågelskrämma.
+uk.utf8=Опудало.
+zh_TW.utf8=稻草人。

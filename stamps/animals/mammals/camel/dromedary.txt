@@ -1,0 +1,27 @@
+A dromedary.
+af.utf8='n kameel (dromedaris)
+ast.utf8=Un dromedariu.
+ca.utf8=Un dromedari.
+da.utf8=En dromedar.
+de.utf8=Ein Dromedar.
+el.utf8=Δρομάδα καμήλα.
+en_GB.utf8=A dromedary.
+es.utf8=Un dromedario.
+eu.utf8=Dromedarioa
+fr.utf8=Un dromadaire.
+gu.utf8=ડ્રોમેડરી.
+he.utf8=גמל
+it.utf8=Un dromedario.
+ja.utf8=ヒトコブラクダ
+ka.utf8=დრომადერი.
+km.utf8=អូដ្ឋ​មាន​បូក​មួយ
+nb.utf8=En dromedar.
+nn.utf8=Ein dromedar.
+pt_BR.utf8=Um dromedário.
+pt_PT.utf8=Um dromedário.
+ru.utf8=Дромадер (одногорбый верблюд).
+sk.utf8=Ťava s jedným hrbom.
+sv.utf8=En dromedar.
+uk.utf8=Дромадер (одногорбий верблюд).
+zh_CN.utf8=单峰骆驼。
+zh_TW.utf8=單峰駱駝

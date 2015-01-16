@@ -1,0 +1,27 @@
+A pink tricycle.
+af.utf8='n pienk driewiel
+ast.utf8=Un triciclu rosa.
+ca.utf8=Un tricicle rosa.
+da.utf8=En lyserød trehjulet cykel.
+de.utf8=Ein rosa Dreirad.
+el.utf8=Ροζ τρίκυκλο.
+en_GB.utf8=A pink tricycle.
+es.utf8=Un triciclo rosado.
+eu.utf8=Triziklo arrosa
+fr.utf8=Un tricycle rose.
+gu.utf8=ગુલાબી ત્રણ પૈડાવાળી સાયકલ.
+he.utf8=תלת אופן ורוד
+it.utf8=Un triciclo rosa.
+ja.utf8=ピンクいろの さんりんしゃ
+ka.utf8=ვარდისფერი სამთვალა ველოსიპედი.
+km.utf8=រទេះ​កង់បី​ពណ៌​ស៊ីជម្ពូរ
+nb.utf8=En rosa trehjulssykkel.
+nn.utf8=Ein rosa trehjulssykkel.
+pt_BR.utf8=Um triciclo rosa.
+pt_PT.utf8=Um triciclo cor-de-rosa.
+ru.utf8=Розовый трёхколёсный велосипед.
+sk.utf8=Ružová trojkolka.
+sv.utf8=En rosa trehjuling.
+uk.utf8=Рожевий триколісний велосипед.
+zh_CN.utf8=一辆粉红的三轮车。
+zh_TW.utf8=粉紅色的三輪車

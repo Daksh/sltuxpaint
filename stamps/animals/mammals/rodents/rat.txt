@@ -1,0 +1,26 @@
+A rat.
+af.utf8='n Rot.
+ast.utf8=Una rata.
+ca.utf8=Una rateta.
+da.utf8=En rotte.
+de.utf8=Eine Ratte.
+el.utf8=Αρουραίος.
+en_GB.utf8=A rat.
+es.utf8=Una rata.
+eu.utf8=Arratoia
+fr.utf8=Un rat.
+gu.utf8=ઉંદર.
+he.utf8=עכברוש
+it.utf8=Un topo.
+ja.utf8=ネズミ
+ka.utf8=ვირთხა.
+nn.utf8=Ei rotte.
+pt_BR.utf8=Um rato.
+pt_PT.utf8=Uma ratazana.
+ru.utf8=Крыса.
+sk.utf8=Potkan.
+sl.utf8=Podgana
+sv.utf8=En råtta.
+uk.utf8=Пацюк.
+zh_CN.utf8=一只老鼠。
+zh_TW.utf8=小老鼠。

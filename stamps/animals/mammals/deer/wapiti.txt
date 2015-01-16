@@ -1,0 +1,25 @@
+A wapiti.
+af.utf8='n Wapiti.
+ast.utf8=Un wapiti o venáu blancu.
+ca.utf8=Un wapiti.
+da.utf8=En wapiti.
+de.utf8=Ein Wapitihirsch.
+el.utf8=Ελάφι Καναδά.
+en_GB.utf8=A wapiti.
+es.utf8=Un wapiti o ciervo blanco.
+eu.utf8=Watipia
+fr.utf8=Un wapiti.
+gu.utf8=મોટું હરણ.
+he.utf8=אייל קנדי (שם מדעי: Cervus canadensis)
+it.utf8=Uno wapiti.
+ja.utf8=アメリカに すむ シカのなかま 「ワピチ」
+ka.utf8=ვაპიტი.
+nn.utf8=Ein hjort.
+pt_BR.utf8=Uma rena uapiti. 
+pt_PT.utf8=Um veado americano.
+ru.utf8=Вапити.
+sk.utf8=Jeleň wapiti.
+sv.utf8=En vapitihjort.
+uk.utf8=Канадський олень.
+zh_CN.utf8=麋鹿。
+zh_TW.utf8=美洲赤鹿。

@@ -1,0 +1,23 @@
+﻿A volleyball.
+ast.utf8=Un balón de volleyball.
+ca.utf8=Una pilota de voleibol.
+da.utf8=En volleybold.
+el.utf8=Μπάλα του βόλεϊ.
+en_GB.utf8=﻿A volleyball.
+es.utf8=Una pelota de Volley.
+eu.utf8=Boleibolean aritzeko pilota
+fr.utf8=Un ballon de volleyball.
+gu.utf8=વોલીબોલ.
+he.utf8=כדורעף
+it.utf8=Un pallone da pallavolo.
+ja.utf8=バレーボールの ボール
+ka.utf8=ფრენბურთი.
+nn.utf8=Ein volleyball.
+pt_BR.utf8=Uma bola de vôlei.
+pt_PT.utf8=Uma bola de voleibol.
+ru.utf8=Волейбольный мяч.
+sk.utf8=﻿Volejbalová lopta.
+sl.utf8=Žoga za odbojko
+sv.utf8=En volleyboll.
+uk.utf8=Волейбольний м’яч.
+zh_TW.utf8=排球

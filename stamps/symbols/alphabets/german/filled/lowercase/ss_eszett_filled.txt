@@ -1,0 +1,26 @@
+The German letter sz or sharp s.
+af.utf8=die Duitse letter sz of skerp s
+ast.utf8=La lletra sz o s aguda.
+ca.utf8=La lletra alemana "sz".
+da.utf8=Det tyske bogstav sz eller dobbelt s.
+de.utf8=Der deutsche Buchstabe ß oder das scharfe s.
+el.utf8=Το γερμανικό γράμμα sz ή  οξύηχο s.
+en_GB.utf8=The German letter sz or sharp s.
+es.utf8=La letra sz o s aguda del idioma alemán.
+eu.utf8=Alemanen letra
+fr.utf8=La lettre allemande sz ou s pointu.
+gu.utf8=જર્મન અક્ષર sz અથવા તીણો s.
+it.utf8=La lettera tedesca sz o s dura.
+ja.utf8=ドイツごの もじ。 「エスツェット（SZ)」
+ka.utf8=გერმანული ასო "ესცეტი".
+km.utf8=តួអក្សរ​អាល្លឺម៉ង់ sz ឬ s សូរ្យ​តូច
+nb.utf8=Den tysken bokstaven «sz» eller «skarp s».
+nn.utf8=Den tysken bokstaven «sz» eller «skarp s».
+pt_BR.utf8=A letra alemã sz.
+pt_PT.utf8=A letra Alemã sz.
+ru.utf8=Немецкая буква "эсцет".
+sk.utf8=Nemecké ostré s.
+sv.utf8=Den tyska bokstaven sz eller skarpt s.
+uk.utf8=Німецька літера sz або гостре s.
+zh_CN.utf8=德国字母ｓｚ或尖ｓ。
+zh_TW.utf8=德文字母 sz 或 s.

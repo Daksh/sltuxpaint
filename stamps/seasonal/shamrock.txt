@@ -1,0 +1,24 @@
+A shamrock is a symbol of St Patrick's Day.
+af.utf8='n Klawerblaar is die simbool van St Patrick's Dag.
+ast.utf8=Un trébole, símbolu del día de San Patriciu.
+ca.utf8=El trèvol és un dels símbols d'Irlanda.
+da.utf8=Et trebladet hvidkløver er symbol for Sankt Patricks dag.
+de.utf8=Ein Kleeblatt.
+el.utf8=Το τριφύλλι αποτελεί σύμβολο της ημέρας του Αγίου Πατρίκιου (Εθνικό σύμβολο της Ιρλανδίας)
+en_GB.utf8=A shamrock is a symbol of St Patrick's Day.
+es.utf8=El trébol, uno de los símbolos del Día de San Patricio.
+eu.utf8=Hirusta da Saint Patrick egunaren sinboloa
+fr.utf8=Le trèfle est le symbole de la Saint-Patrick
+gu.utf8=શેમરોક એ સેન્ટ પેટ્રિક દિવસની નિશાની છે.
+it.utf8=Il trifoglio è il simbolo del giorno di S. Patrizio.
+ja.utf8=クローバー　セント・パトリック・デーの おまつりの シンボル
+ka.utf8=სამყურა წმ. პატრიკის დღის სიმბოლოა.
+nn.utf8=Ein treblada kvitkløvar er eit symbol brukt på Irlands nasjonaldag, St. Patricks dag.
+pt_BR.utf8=Um trevo é um símbolo do dia de São Patrick.
+pt_PT.utf8=Um trevo que é um símbolo do dia de St Patrick's.
+ru.utf8=Трилистник - символ дня святого Патрика.
+sk.utf8=Trojlístok je symbolom dňa svätého Patrika, ochráncu Írska.
+sv.utf8=Ett fyrkläver är en symbol för St Patricks Day.
+uk.utf8=Трилисник — символ дня святого Патріка.
+zh_CN.utf8=一只三叶草，是圣帕特里克节的象征。
+zh_TW.utf8=酢漿草是聖派翠克日的象徵。

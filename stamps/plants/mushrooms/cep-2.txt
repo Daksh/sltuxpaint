@@ -1,0 +1,21 @@
+It's a cep, or they are two ceps?
+ast.utf8=Una seta, ¿o son dos?
+ca.utf8=És un cep o dos?
+da.utf8=Det er en Karl Johan, eller de er to Karl Johan'er?
+el.utf8=Είναι ένα ή δύο μανιτάρια;
+en_GB.utf8=It's a cep, or they are two ceps?
+es.utf8=¿Es un hongo o son dos?
+eu.utf8=Ontto bakarra da, edo bi al dira?
+fr.utf8=Il y a un cèpe, ou bien deux cèpes ?
+gu.utf8=તે સેપ છે, અથવા તે બે સેપ્સ છે?
+it.utf8=È un fungo porcino o sono due?
+ja.utf8=キノコが １ぽん。それとも２ほん？
+ka.utf8=ეს თეთრი სოკოა, თუ სულაც ორია?
+nn.utf8=Ein steinsopp. Eller to?
+pt_BR.utf8=É um cogumelo? Ou será que são dois?
+pt_PT.utf8=É um ou dois cepos?
+ru.utf8=Это один белый гриб или два?
+sk.utf8=Je to jeden dubák, alebo sú dva?
+sv.utf8=Det är en svamp eller är det två svampar?
+uk.utf8=Це один білий гриб чи може два?
+zh_TW.utf8=這是一朵還是二朵蘑菇？

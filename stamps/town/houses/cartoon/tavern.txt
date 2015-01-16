@@ -1,0 +1,26 @@
+A tavern.
+af.utf8='n Taverne.
+ast.utf8=Un chigre.
+ca.utf8=Una taverna.
+da.utf8=Et værtshus.
+de.utf8=Ein Wirtshaus.
+el.utf8=Πανδοχείο.
+en_GB.utf8=A tavern.
+es.utf8=Una taberna.
+eu.utf8=Taberna
+fr.utf8=Une taverne.
+gu.utf8=વીશી.
+he.utf8=פונדק
+it.utf8=Un'osteria.
+ja.utf8=さかば
+ka.utf8=ტავერნა.
+nn.utf8=Eit vertshus.
+pt_BR.utf8=Uma taberna.
+pt_PT.utf8=Uma taberna.
+ru.utf8=Таверна.
+sk.utf8=Hostinec.
+sl.utf8=Taverna
+sv.utf8=Ett värdshus.
+uk.utf8=Шинок.
+zh_CN.utf8=酒馆。
+zh_TW.utf8=小酒館。

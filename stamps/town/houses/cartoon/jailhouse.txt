@@ -1,0 +1,26 @@
+A jailhouse.
+af.utf8='n Tronk.
+ast.utf8=Un cárcel.
+ca.utf8=Una presó.
+da.utf8=Et fængsel.
+de.utf8=Ein Gefängnis.
+el.utf8=Φυλακή.
+en_GB.utf8=A jail.
+es.utf8=Una cárcel.
+eu.utf8=Gartzela
+fr.utf8=Une prison.
+gu.utf8=જેલ.
+he.utf8=לבית כלא
+it.utf8=Una prigione.
+ja.utf8=ろうや
+ka.utf8=საპყრობილე, სატუსაღო.
+nn.utf8=Eit fengsel.
+pt_BR.utf8=Uma cadeia.
+pt_PT.utf8=Uma cadeia.
+ru.utf8=Тюрьма.
+sk.utf8=Väznica.
+sl.utf8=Zapor
+sv.utf8=Ett fängelse.
+uk.utf8=В’язниця.
+zh_CN.utf8=监狱。
+zh_TW.utf8=監獄。

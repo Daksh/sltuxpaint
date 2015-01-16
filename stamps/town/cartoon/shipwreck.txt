@@ -1,0 +1,26 @@
+A shipwreck.
+af.utf8='n Skeepswrak.
+ast.utf8=Un naufraxu.
+ca.utf8=Un vaixell naufragat.
+da.utf8=Et skibsvrag.
+de.utf8=Ein Schiffswrack.
+el.utf8=Ναυάγιο.
+en_GB.utf8=A shipwreck.
+es.utf8=Un naufragio.
+eu.utf8=Itsasontzi hondoratua
+fr.utf8=Un navire naufragé.
+gu.utf8=તૂટેલું જહાજ.
+he.utf8=טביעת אנייה
+it.utf8=Un relitto.
+ja.utf8=なんぱせん
+ka.utf8=გემის ნამსხვრევები.
+nn.utf8=Eit skipsvrak.
+pt_BR.utf8=Um navio naufragado.
+pt_PT.utf8=Um navio naufragado.
+ru.utf8=Обломки корабля.
+sk.utf8=Vrak lode.
+sl.utf8=Brodolom
+sv.utf8=En skeppsvrak.
+uk.utf8=Корабельна аварія.
+zh_CN.utf8=一艘沉船。
+zh_TW.utf8=船難。

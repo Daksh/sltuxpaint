@@ -1,0 +1,27 @@
+A baby sheep (a lamb).
+af.utf8='n baba skapie ('n lammetjie)
+ast.utf8=Una oveyina (un corderu).
+ca.utf8=Un anyell.
+da.utf8=Et babyfår (et lam).
+de.utf8=Ein Lamm.
+el.utf8=Πρόβατο μωρό (αρνί). 
+en_GB.utf8=A baby sheep (a lamb).
+es.utf8=Una oveja bebé (un cordero).
+eu.utf8=Bildots txikia
+fr.utf8=Un bébé mouton (un agneau).
+gu.utf8=બાળ ઘેટું (ગાડરું).
+he.utf8=תינוקת כבשים (כבש).
+it.utf8=Una pecora baby (un agnellino).
+ja.utf8=こひつじ
+ka.utf8=პაწია ცხვარი (ბატკანი).
+km.utf8=កូន​ចៀម
+nb.utf8=Et lam (en barnesau).
+nn.utf8=Eit lam (ein barnesau).
+pt_BR.utf8=Uma ovelha bebê (um cordeiro).
+pt_PT.utf8=Uma ovelha bebé (cordeiro).
+ru.utf8=Ягнёнок (детёныш овцы).
+sk.utf8=Jahniatko alebo baránok.
+sv.utf8=Ett bäbisfår (ett lamm).
+uk.utf8=Маленька вівця (ягня).
+zh_CN.utf8=小羊羔。
+zh_TW.utf8=羔羊

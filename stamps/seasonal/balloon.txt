@@ -1,0 +1,26 @@
+A balloon!
+af.utf8='n Ballon!
+ast.utf8=¡Un globu!
+ca.utf8=Un globus.
+da.utf8=En ballon!
+de.utf8=Ein Ballon!
+el.utf8=Αερόστατο!
+en_GB.utf8=A balloon!
+es.utf8=¡Un globo!
+eu.utf8=Globoa
+fr.utf8=Un ballon !
+gu.utf8=ફુગ્ગો!
+he.utf8=בלון!
+it.utf8=Una mongolfiera!
+ja.utf8=ふうせん
+ka.utf8=ბუშტი!
+nn.utf8=Ein ballong!
+pt_BR.utf8=Um balão.
+pt_PT.utf8=Um balão!
+ru.utf8=Шарик.
+sk.utf8=Balón.
+sl.utf8=Balon
+sv.utf8=En ballong!
+uk.utf8=Повітряна кулька.
+zh_CN.utf8=气球！
+zh_TW.utf8=氣球。

@@ -1,0 +1,23 @@
+Some flowers.
+ast.utf8=Delles flores.
+ca.utf8=Unes flors.
+da.utf8=Nogle blomster.
+el.utf8=Λουλούδια.
+en_GB.utf8=Some flowers.
+es.utf8=Algunas flores.
+eu.utf8=Loreak
+fr.utf8=Des fleurs.
+gu.utf8=થોડાંક ફૂલો.
+he.utf8=פורח
+it.utf8=Alcuni fiori.
+ja.utf8=はな
+ka.utf8=ყვავილები.
+nn.utf8=Nokre blomar.
+pt_BR.utf8=Algumas flores.
+pt_PT.utf8=Algumas flores.
+ru.utf8=Цветы.
+sk.utf8=Zopár kvetov.
+sl.utf8=Rože
+sv.utf8=Några blommor.
+uk.utf8=Якісь квіти.
+zh_TW.utf8=花朵。

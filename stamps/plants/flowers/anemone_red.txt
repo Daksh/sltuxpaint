@@ -1,0 +1,25 @@
+A red and white anemone flower.
+af.utf8='n Rooi en wit anemoonblom.
+ast.utf8=Una anémona colorada y blanca.
+ca.utf8=Una anèmona vermella i blanca.
+da.utf8=En rød og hvid anemone.
+de.utf8=Eine rotweiße Anemone.
+el.utf8=Κόκκινη και άσπρη ανεμόνη.
+en_GB.utf8=A red and white anemone flower.
+es.utf8=Una flor de anémona roja y blanca.
+eu.utf8=Anemona lore zuri-gorria
+fr.utf8=Une anémone rouge et blanche.
+gu.utf8=લાલ અને સફેદ વગડાઉ ફૂલ.
+he.utf8=בצבע אדום ולבן כלנית פרחים.
+it.utf8=Un fiore di anemone bianco e rosso.
+ja.utf8=あかと しろの アネモネの はな
+ka.utf8=წითელი და თეთრი ანემონი.
+nn.utf8=Ei raud og kvit symre.
+pt_BR.utf8=Uma flor anêmona vermelha e branca.
+pt_PT.utf8=Uma anémona vermelha e branca.
+ru.utf8=Красно-белый анемон или ветреница.
+sk.utf8=Červeno-biely narcis.
+sv.utf8=En röd och vit anemonblomma.
+uk.utf8=Червона і біла квітка анемони.
+zh_CN.utf8=一朵红白相间的牡丹花。
+zh_TW.utf8=紅白色的秋牡丹。

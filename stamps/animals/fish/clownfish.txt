@@ -1,0 +1,21 @@
+A clownfish.
+ast.utf8=Un pexe payasu.
+ca.utf8=Un peix pallasso.
+da.utf8=En klovnefisk.
+el.utf8=Ψάρι κλόουν.
+en_GB.utf8=A clownfish.
+es.utf8=Un pez payaso.
+eu.utf8=Pailaso arraina 
+fr.utf8=Un poisson-clown.
+gu.utf8=ક્લાઉનમાછલી.
+it.utf8=Un pesce pagliaccio.
+ja.utf8=カクレクマノミ
+ka.utf8=თევზი კლოუნი.
+nn.utf8=Ein klovnefisk.
+pt_BR.utf8=Um peixe-palhaço.
+pt_PT.utf8=Um peixe palhaço.
+ru.utf8=Рыба-клоун.
+sk.utf8=Modro-čierna pruhovaná ryba, ktorá sa volá klaun.
+sv.utf8=En clownfisk.
+uk.utf8=Риба-клоун.
+zh_TW.utf8=小丑魚

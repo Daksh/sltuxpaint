@@ -1,0 +1,27 @@
+An electric guitar.
+af.utf8='n elektriese kitaar
+ast.utf8=Una guitarra lléctrica.
+ca.utf8=Una guitarra elèctrica.
+da.utf8=En elektrisk guitar.
+de.utf8=Eine elektrische Gitarre.
+el.utf8=Ηλεκτρική κιθάρα.
+en_GB.utf8=An electric guitar.
+es.utf8=Una guitarra eléctrica.
+eu.utf8=Kitarra elektrikoa
+fr.utf8=Une guitare électrique.
+gu.utf8=ઇલેકટ્રિક ગિટાર.
+he.utf8=גיטרה חשמלית
+it.utf8=Una chitarra elettrica.
+ja.utf8=エレキギター
+ka.utf8=ელექტროგიტარა.
+km.utf8=ហ្គីតា
+nb.utf8=En elektrisk gitar.
+nn.utf8=Ein elektrisk gitar.
+pt_BR.utf8=Uma guitarra.
+pt_PT.utf8=Uma guitarra eléctrica.
+ru.utf8=Электрогитара.
+sk.utf8=Elektrická gitara.
+sv.utf8=En elektrisk gitarr.
+uk.utf8=Електрогітара.
+zh_CN.utf8=电吉他。
+zh_TW.utf8=電子吉他

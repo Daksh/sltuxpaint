@@ -1,0 +1,27 @@
+A double decker bus.
+af.utf8='n dubbeldekkerbus
+ast.utf8=Un autobús de dos pisos.
+ca.utf8=Un autobús de dos pisos.
+da.utf8=En toetagers bus.
+de.utf8=Ein Doppeldeckerbus.
+el.utf8=Ένα διόροφο λεωφορείο.
+en_GB.utf8=A double decker bus.
+es.utf8=Un ómnibus de dos pisos.
+eu.utf8=Pisu biko autobusa
+fr.utf8=Un bus à double étage
+gu.utf8=બે માળની બસ.
+he.utf8=אוטובוס קומתיים
+it.utf8=Un autobus a due piani.
+ja.utf8=２かいだてバス
+ka.utf8=ორსართულიანი ავტობუსი.
+km.utf8=រថយន្ដ​ក្រុង​ពីរ​ជាន់
+nb.utf8=En toetasjes buss.
+nn.utf8=Ein toetasjes buss.
+pt_BR.utf8=Um ônibus de dois andares.
+pt_PT.utf8=Um autocarro de dois pisos.
+ru.utf8=Двухэтажный автобус.
+sk.utf8=Londýnsky poschodový autobus.
+sv.utf8=En dubbeldäckare.
+uk.utf8=Двохповерховий автобус.
+zh_CN.utf8=双层公共汽车
+zh_TW.utf8=雙層巴士

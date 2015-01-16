@@ -1,0 +1,23 @@
+A lit candle.
+ast.utf8=Una vela.
+ca.utf8=Una espelma encesa.
+da.utf8=Et tændt lys.
+el.utf8=Αναμμένο κερί.
+en_GB.utf8=A lit candle.
+es.utf8=Una vela encendida.
+eu.utf8=Kandela-argia
+fr.utf8=Une chandelle allumée.
+gu.utf8=મીણબત્તી.
+he.utf8=נר
+it.utf8=Una candela accesa.
+ja.utf8=ひが ついた ろうそく!
+ka.utf8=ანთებული სანთელი.
+nn.utf8=Eit tent stearinlys.
+pt_BR.utf8=Uma vela acesa.
+pt_PT.utf8=Uma vela.
+ru.utf8=Горящая свеча.
+sk.utf8=Horiaca sviečka.
+sl.utf8=Prižgana sveča
+sv.utf8=Ett tänt ljus.
+uk.utf8=Запалена свічка.
+zh_TW.utf8=點亮的蠟燭。

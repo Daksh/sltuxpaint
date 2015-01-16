@@ -1,0 +1,23 @@
+A yellow flower.
+ast.utf8=Una flor mariella.
+ca.utf8=Una flor groga.
+da.utf8=En gul blomst.
+el.utf8=Κίτρινο λουλούδι.
+en_GB.utf8=A yellow flower.
+es.utf8=Una flor amarilla.
+eu.utf8=Lore horia
+fr.utf8=Une fleur jaune.
+gu.utf8=પીળું ફૂલ.
+he.utf8=פרח צהוב.
+it.utf8=Un fiore giallo.
+ja.utf8=きいろい はな
+ka.utf8=იაკი.
+nn.utf8=Ein gul blome.
+pt_BR.utf8=Uma flor amarela.
+pt_PT.utf8=Uma flor amarela.
+ru.utf8=Жёлтый цветок.
+sk.utf8=Žltý kvietok.
+sl.utf8=Rumena roža
+sv.utf8=En gul blomma.
+uk.utf8=Жовта квітка.
+zh_TW.utf8=黃色的花。

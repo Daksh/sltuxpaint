@@ -1,0 +1,25 @@
+A square tower.
+af.utf8='n Vierkantige toring.
+ast.utf8=Una torre cuadrada.
+ca.utf8=Una torre quadrada.
+da.utf8=Et firkantet tårn.
+de.utf8=Ein quadratischer Turm.
+el.utf8=Τετράγωνος πύργος.
+en_GB.utf8=A square tower.
+es.utf8=Una torre cuadrada.
+eu.utf8=Dorre karratua
+fr.utf8=Une tour carrée.
+gu.utf8=ચોરસ મિનારો.
+he.utf8=ריבוע המגדל
+it.utf8=Una torre quadrata.
+ja.utf8=しかくい とう
+ka.utf8=კვადრატული კოშკი.
+nn.utf8=Eit firkanta tårn.
+pt_BR.utf8=Uma torre quadrada.
+pt_PT.utf8=Uma torre quadrada.
+ru.utf8=Квадратная башня.
+sk.utf8=Štvorcová veža.
+sv.utf8=Ett fyrkantigt torn.
+uk.utf8=Квадратна башта.
+zh_CN.utf8=一个方形城堡。
+zh_TW.utf8=方塔。

@@ -1,0 +1,26 @@
+A pyramid.
+af.utf8='n Piramied.
+ast.utf8=Una pirámide.
+ca.utf8=Una piràmide.
+da.utf8=En pyramide.
+de.utf8=Eine Pyramide.
+el.utf8=Πυραμίδα.
+en_GB.utf8=A pyramid.
+es.utf8=Una pirámide.
+eu.utf8=Piramidea
+fr.utf8=Une pyramide.
+gu.utf8=પિરામીડ.
+he.utf8=פירמידת
+it.utf8=Una piramide.
+ja.utf8=ピラミッド
+ka.utf8=პირამიდა.
+nn.utf8=Ein pyramide.
+pt_BR.utf8=Uma pirâmide.
+pt_PT.utf8=Uma pirâmide.
+ru.utf8=Пирамида.
+sk.utf8=Pyramída.
+sl.utf8=Piramida
+sv.utf8=En pyramid.
+uk.utf8=Піраміда.
+zh_CN.utf8=一座金字塔。
+zh_TW.utf8=金字塔。

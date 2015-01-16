@@ -1,0 +1,27 @@
+A clock face.
+af.utf8='n horlosiegesig
+ast.utf8=La esfera d'un reló.
+ca.utf8=Un rellotge.
+da.utf8=En urskive.
+de.utf8=Ein Zifferblatt.
+el.utf8=Πρόσοψη ρολογιού.
+en_GB.utf8=A clock face.
+es.utf8=La esfera de un reloj.
+eu.utf8=Erlojua
+fr.utf8=La façade d'une horloge.
+gu.utf8=ઘડિયાળનું ડાયલ.
+he.utf8=השעון הפנים
+it.utf8=Il quadrante di un orologio.
+ja.utf8=とけいの　もじばん
+ka.utf8=ციფერბლატი.
+km.utf8=មុខ​នាឡិកា
+nb.utf8=En urskive.
+nn.utf8=Ei urskive.
+pt_BR.utf8=Um relógio.
+pt_PT.utf8=Uma face do relógio.
+ru.utf8=Циферблат.
+sk.utf8=Ciferník.
+sv.utf8=En urtavla.
+uk.utf8=Циферблат годинника.
+zh_CN.utf8=钟面。
+zh_TW.utf8=鐘面

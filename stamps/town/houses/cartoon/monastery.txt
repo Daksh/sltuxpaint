@@ -1,0 +1,26 @@
+A monastery.
+af.utf8='n Abdy.
+ast.utf8=Un monasteriu.
+ca.utf8=Un monestir en ruïnes.
+da.utf8=Et kloster.
+de.utf8=Ein Kloster.
+el.utf8=Μοναστήρι.
+en_GB.utf8=A monastery.
+es.utf8=Un monasterio.
+eu.utf8=Monastegia
+fr.utf8=Un monastère.
+gu.utf8=મઠ.
+he.utf8=מנזר
+it.utf8=Un convento.
+ja.utf8=しゅうどういん
+ka.utf8=მონასტერი.
+nn.utf8=Eit kloster.
+pt_BR.utf8=Um monastério.
+pt_PT.utf8=Um mosteiro.
+ru.utf8=Монастырь.
+sk.utf8=Kláštor.
+sl.utf8=Samostan
+sv.utf8=Ett munkkloster.
+uk.utf8=Монастир.
+zh_CN.utf8=一个修道院。
+zh_TW.utf8=修道院。

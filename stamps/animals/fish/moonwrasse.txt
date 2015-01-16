@@ -1,0 +1,21 @@
+A moon wrasse.
+ast.utf8=Un pexe-lluna.
+ca.utf8=Un peix verd.
+da.utf8=En månegylte.
+el.utf8=Ψάρι Moon Wrasse.
+en_GB.utf8=A moon wrasse.
+es.utf8=Un lábrido.
+eu.utf8=Ilargi arraina
+fr.utf8=Un girelle-paon bleu-vert.
+gu.utf8=મૂન રૅસ.
+it.utf8=Un labride.
+ja.utf8=オトメベラ
+ka.utf8=მთვარის თევზი.
+nn.utf8=Ein «Thalassoma lunare» (ein slags leppefisk).
+pt_BR.utf8=Um talassoma azul.
+pt_PT.utf8=Um labro luar.
+ru.utf8=Лирохвостый губан.
+sk.utf8=Zelená ryba.
+sv.utf8=En moon wrasse.
+uk.utf8=Лірохвостий губань.
+zh_TW.utf8=新月錦魚

@@ -1,0 +1,27 @@
+The sign for the letter O in American Sign Language.
+af.utf8=Die letter O in Amerikaanse gebaretaal.
+ast.utf8=La lletra O nel llinguax de señes americanu.
+ca.utf8=El signe per la lletra O en el llenguatge de signes americà.
+da.utf8=Tegnet for bogstavet O i amerikansk tegnsprog.
+de.utf8=Der Buchstabe O in der Amerikanischen Gebärdensprache.
+el.utf8=Το σύμβολο για το γράμμα O  στην Αμερικάνικη νοηματική.
+en_GB.utf8=The sign for the letter O in American Sign Language.
+es.utf8=La letra O en el lenguaje de señas americano.
+eu.utf8=O letraren zeinua ameriketako gorren hizkuntan
+fr.utf8=La lettre O en langage des signes américain.
+gu.utf8=અમેરિકન સંજ્ઞા ભાષામાં અક્ષર O ની સંજ્ઞા.
+it.utf8=Il segno corrispondente alla lettera O nel linguaggio dei segni americano.
+ja.utf8=「O」の もじを あらわす アメリカの しゅわ
+ka.utf8=ნიშანი ასოსთვის O ამერიკულ ნიშნების ენაში.
+km.utf8=សញ្ញា​អក្សរ O ជា​ភាសា​សញ្ញា​អាមេរិក ។
+nb.utf8=Tegnet for bokstaven «O» i det amerikanske tegnspråket.
+nn.utf8=Teiknet for bokstaven «O» i det amerikanske teiknspråket.
+pt_BR.utf8=O gesto para a letra O na Linguagem Americana de Sinais.
+pt_PT.utf8=A marca para a letra O no idioma Americano.
+ru.utf8=Знак для буквы O в американском языке жестов.
+sk.utf8=Znak pre písmeno O v americkej znakovej reči.
+sl.utf8=Znak za črko O v znakovnem jeziku
+sv.utf8=Tecknet för bokstaven O i det amerikanska teckenspråket.
+uk.utf8=Знак для латинської літери O на американській мові знаків.
+zh_CN.utf8=美国手语中字母Ｏ的标示。
+zh_TW.utf8=美國手語的字母 O

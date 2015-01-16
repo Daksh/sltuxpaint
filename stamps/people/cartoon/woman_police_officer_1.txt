@@ -1,0 +1,26 @@
+A police officer.
+af.utf8='n Polisieman.
+ast.utf8=Un oficial de policía.
+ca.utf8=Una policia.
+da.utf8=En politimand.
+de.utf8=Ein Polizist.
+el.utf8=Αστυνομικός.
+en_GB.utf8=A police officer.
+es.utf8=Un oficial de policía.
+eu.utf8=Polizia
+fr.utf8=Une femme officier de police.
+gu.utf8=પોલીસ અફસર.
+he.utf8=שוטר
+it.utf8=Un poliziotto.
+ja.utf8=おまわりさん
+ka.utf8=პოლიციის ოფიცერი.
+nn.utf8=Ein politibetjent.
+pt_BR.utf8=Uma policial.
+pt_PT.utf8=Um polícia.
+ru.utf8=Полицейский.
+sk.utf8=Policajt.
+sl.utf8=Policaj
+sv.utf8=En poliskonstapel.
+uk.utf8=Поліцейський констебль.
+zh_CN.utf8=一个警察。
+zh_TW.utf8=警官。

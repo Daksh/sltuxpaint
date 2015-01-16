@@ -1,0 +1,27 @@
+A traffic cone.
+af.utf8='n verkeerskeël
+ast.utf8=Un conu de tráficu.
+ca.utf8=Un con.
+da.utf8=En trafikkegle.
+de.utf8=Ein Leitkegel zur Verkehrsführung.
+el.utf8=Κώνος κυκλοφορίας.
+en_GB.utf8=A traffic cone.
+es.utf8=Un cono de tráfico.
+eu.utf8=Konoa
+fr.utf8=Un cône pour canaliser la circulation.
+gu.utf8=ટ્રાફિક કોન.
+he.utf8=תנועה קונוס
+it.utf8=Un cono stradale.
+ja.utf8=カラーコーン（パイロン）。どうろに おく めじるし。
+ka.utf8=გზის დამცავი კონუსი.
+km.utf8=សាជី​ចរាចរ
+nb.utf8=En trafikkjegle.
+nn.utf8=Ei trafikkjegle.
+pt_BR.utf8=Um cone de trânsito.
+pt_PT.utf8=Um pino de trânsito.
+ru.utf8=Конус дорожного ограждения.
+sk.utf8=Dopravný kúžeľ.
+sv.utf8=En vägkon.
+uk.utf8=Транспортный конус.
+zh_CN.utf8=锥形交通路标。
+zh_TW.utf8=交通錐

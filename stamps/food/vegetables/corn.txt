@@ -1,0 +1,23 @@
+Sweet yellow corn.
+ast.utf8=Maíz dulce mariello.
+ca.utf8=Una panotxa de blat de moro.
+da.utf8=Søde gule majs.
+el.utf8=Γλυκό κίτρινο καλαμπόκι.
+en_GB.utf8=Sweet yellow corn.
+es.utf8=Maíz dulce y amarillo.
+eu.utf8=Arto hori goxoa
+fr.utf8=Du maïs sucré.
+gu.utf8=મીઠી પીળી મકાઇ.
+he.utf8=תירס מתוק צהוב
+it.utf8=Mais giallo e dolce.
+ja.utf8=あまい　トウモロコシ
+ka.utf8=ტკბილი ყვითელი სიმინდი.
+nn.utf8=Ein maiskolbe.
+pt_BR.utf8=Uma espiga de milho.
+pt_PT.utf8=Pipocas amarelas doces.
+ru.utf8=Сладкая жёлтая кукуруза
+sk.utf8=Sladká žltá kukurica.
+sl.utf8=Sladka koruza
+sv.utf8=En gul majskolv.
+uk.utf8=Солодка жовта кукурудза
+zh_TW.utf8=甜玉米。

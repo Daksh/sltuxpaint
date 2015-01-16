@@ -1,0 +1,26 @@
+This means something can be recycled. Don’t stick it with the regular trash!
+af.utf8=Dit beteken iets kan herwin word. Moenie dit by die gewone vullis weggooi nie!
+ast.utf8=Esto significa que l'oxetu pue ser recicláu. ¡Nun lu tires al cubu la basura!
+ca.utf8=Aquest símbol vol dir que l'objecte pot ser reciclat. No el llencis a les escombraries generals!
+da.utf8=Dette betyder at det kan genbruges. Smid det ikke ud med affaldet!
+de.utf8=Dies kann wiederverwertet werden. Nicht in den Restmüll werfen!
+el.utf8=Αυτό σημαίνει ότι κάτι μπορεί να ανακυκλωθεί. Μην το κολάς στον κάδο απορριμάτων! 
+en_GB.utf8=This means something can be recycled. Don’t stick it with the normal rubbish!
+es.utf8=Esto significa que algo puede ser reciclado. ¡No lo tires con el resto de la basura!
+eu.utf8=Zeinu honek berziklagarritasuna adierazten du. Ez nahastu zabor arruntarekin!
+fr.utf8=Cela signifie que l'objet est recyclable. Ne le jette pas dans la poubelle habituelle !
+gu.utf8=આનો અર્થ છે કે કંઇક ફરી ઉપયોગમાં લઇ શકાય તેમ છે. તેને દૈનિક કચરાપેટી જોડે ન રાખો!
+it.utf8=Questo simbolo indica che una cosa può essere riciclata. Non gettarla nella spazzatura indifferenziata!
+ja.utf8=このマークは リサイクルが できるもの という いみだよ。ふつうの ごみばこに すてないこと！
+ka.utf8=ეს ნიშნავს, რომ შესაძლებელია გადამუშავება. ნუ აურევთ მას ჩვეულებრივ ურნასთან!
+km.utf8=នេះ​មាន​ន័យ​ថា មាន​អ្វី​មួយ​អាច​ត្រូវ​បាន​ប្រើ​ឡើងវិញ ។ កុំ​តុក​វា​ក្នុងធុងសំរាម​ធម្មតា ។
+nb.utf8=Dette symbolet betyr at tingen kan gjenvinnes. Ikke kast den sammen med vanlig søppel.
+nn.utf8=Dette symbolet tyder at tingen kan gjenvinnast. Ikkje hiv han saman med vanleg boss.
+pt_BR.utf8=Esse símbolo significa que o produto é reciclável. Não jogue-o no lixo comum!
+pt_PT.utf8=Isto significa algo que pode ser reciclado. Não o deites no lixo normal.
+ru.utf8=Материал, годный для переработки. Не наклеивайте этот знак на обычный мусор!
+sk.utf8=Tento symbol znamená, že vec, na ktorej je, sa dá recyklovať. Nevyhadzuj ju do kontajnera pre obyčajné smeti!
+sv.utf8=Detta betyder att någonting kan återanvändas. Kasta det inte i soptunnan!
+uk.utf8=Це означає, що дещо може бути перероблене. Не путайте це з постійним сміттям!
+zh_CN.utf8=这意味着有些东西可以被回收。不要一直以为它是常规的垃圾。
+zh_TW.utf8=這表示某些東西可以回收，不要把他放在一般的垃圾筒!

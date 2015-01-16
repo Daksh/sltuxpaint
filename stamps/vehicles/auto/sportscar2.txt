@@ -1,0 +1,23 @@
+A sports car.
+ast.utf8=Una coche deportivu.
+ca.utf8=Un cotxe esportiu.
+da.utf8=En sportsvogn.
+el.utf8=Σπορ αμάξι.
+en_GB.utf8=A sports car.
+es.utf8=Un auto deportivo.
+eu.utf8=Lasterketetako autoa
+fr.utf8=Une voiture de course.
+gu.utf8=રમતની કાર.
+he.utf8=מכונית ספורט
+it.utf8=Un auto sportiva.
+ja.utf8=スポーツ カー
+ka.utf8=სპორტული მანქანა.
+nn.utf8=Ein sportsbil.
+pt_BR.utf8=Um carro esporte.
+pt_PT.utf8=Um carro desportivo.
+ru.utf8=Спортивный автомобиль.
+sk.utf8=Športové auto.
+sl.utf8=Športni avto
+sv.utf8=En sportbil.
+uk.utf8=Спортивне авто.
+zh_TW.utf8=賽車。

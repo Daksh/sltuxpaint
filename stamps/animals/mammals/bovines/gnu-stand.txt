@@ -1,0 +1,25 @@
+A blue gnu.
+af.utf8='n Blou gnu.
+ast.utf8=Un ñu azul.
+ca.utf8=Un nyu blau.
+da.utf8=En blå gnu.
+de.utf8=Ein blaues Gnu.
+el.utf8=Μπλε γκνου.
+en_GB.utf8=A blue gnu.
+es.utf8=Un ñu azul.
+eu.utf8=Ñu urdina
+fr.utf8=Un gnou bleu.
+gu.utf8=વાદળી સાબર.
+he.utf8=כחול גנו.
+it.utf8=Uno gnu blu
+ja.utf8=ヌー
+ka.utf8=ლურჯი გნუ.
+nn.utf8=Ein blå gnu.
+pt_BR.utf8=Um gnu azul.
+pt_PT.utf8=Um gnu azul.
+ru.utf8=Голубая гну.
+sk.utf8=Pakôň.
+sv.utf8=En blå gnu.
+uk.utf8=Блакитна антилопа Гну.
+zh_CN.utf8=蓝色角马！
+zh_TW.utf8=藍色的牛羚。

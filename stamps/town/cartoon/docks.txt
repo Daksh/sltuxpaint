@@ -1,0 +1,24 @@
+Down at the docks.
+af.utf8='n Draai by die kaai.
+ast.utf8=La parte baxo d'un cai.
+ca.utf8=Un moll.
+da.utf8=Nede ved havnen.
+de.utf8=Ein Bottssteg.
+el.utf8=Κάτω στις αποβάθρες.
+en_GB.utf8=Down at the docks.
+es.utf8=En los muelles.
+eu.utf8=Kaia
+fr.utf8=Sur l'embarcadère.
+gu.utf8=ગોદી પરની સવાર.
+it.utf8=Giù al porto.
+ja.utf8=ふなつきば
+ka.utf8=მისადგომი, ნათსაყუდელი.
+nn.utf8=Ei bryggje.
+pt_BR.utf8=Docas.
+pt_PT.utf8=Nas docas.
+ru.utf8=Пристань.
+sk.utf8=Prístav.
+sv.utf8=Nere vid hamnen.
+uk.utf8=Спуск у доки (в оригіналі «down at the docks»)
+zh_CN.utf8=码头下。
+zh_TW.utf8=碼頭。

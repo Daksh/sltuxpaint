@@ -1,0 +1,25 @@
+A round tower.
+af.utf8='n Ronde toring.
+ast.utf8=Una torre redonda.
+ca.utf8=Una torre rodona.
+da.utf8=Et rundt tårn.
+de.utf8=Ein runder Turm.
+el.utf8=Στρογγυλός πύργος.
+en_GB.utf8=A round tower.
+es.utf8=Una torre circular.
+eu.utf8=Dorre biribila
+fr.utf8=Une tour ronde.
+gu.utf8=ગોળ મિનારો.
+he.utf8=להתעגל המגדל
+it.utf8=Una torre rotonda.
+ja.utf8=まるい とう
+ka.utf8=მრგვალი კოშკი.
+nn.utf8=Eit rundt tårn.
+pt_BR.utf8=Uma torre arredondada.
+pt_PT.utf8=Uma torre circular.
+ru.utf8=Круглая башня.
+sk.utf8=Okrúhla veža.
+sv.utf8=Ett runt torn.
+uk.utf8=Кругла башта.
+zh_CN.utf8=一个圆形城堡。
+zh_TW.utf8=圓塔。

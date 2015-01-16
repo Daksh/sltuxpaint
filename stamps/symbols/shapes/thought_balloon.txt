@@ -1,0 +1,27 @@
+A thought balloon.
+af.utf8='n dinkwolkie
+ast.utf8=Un globu que representa un camientu.
+ca.utf8=Un globus de pensament.
+da.utf8=En tankeballon.
+de.utf8=Eine Sprechblase für Gedanken.
+el.utf8=Συννεφάκι για την εμφάνιση σκέψεων.
+en_GB.utf8=A thought balloon.
+es.utf8=Un globo que representa un pensamiento.
+eu.utf8=Baloia
+fr.utf8=Un phylactère pour une idée.
+gu.utf8=વિચારતું બલૂન.
+he.utf8=מחשבה אחת בלון
+it.utf8=Un fumetto... sto pensando.
+ja.utf8=ふきだし（かんがえ）
+ka.utf8=აზრის ბუშტი.
+km.utf8=ប៉ាឡុង​គំនិត
+nb.utf8=En tankeboble.
+nn.utf8=Ei tankeboble.
+pt_BR.utf8=Um balão (de pensamento).
+pt_PT.utf8=Um balão pensador.
+ru.utf8=Выноска для мыслей.
+sk.utf8=Bublina pre postavu, ktorá rozmýšľa.
+sv.utf8=En tankeballong.
+uk.utf8=Хмарка думки.
+zh_CN.utf8=思想的气球。
+zh_TW.utf8=吹氣球

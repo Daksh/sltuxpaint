@@ -1,0 +1,25 @@
+A thyme plant.
+af.utf8='n Tiemieplant.
+ast.utf8=Una planta de tomillu.
+ca.utf8=Una mata de farigola. També se'n pot dir senyorida, timó, timonet o tomell.
+da.utf8=En timianplante.
+de.utf8=Ein Thymianstrauch.
+el.utf8=Θυμάρι.
+en_GB.utf8=A thyme plant.
+es.utf8=Una planta de tomillo.
+eu.utf8=Ezkaia
+fr.utf8=Du thym.
+gu.utf8=સુગંધી છોડ.
+he.utf8=קורנית הצמח
+it.utf8=Una pianta di timo.
+ja.utf8=タイム　（スパイスの げんりょうになる しょくぶつ）
+ka.utf8=ქონდარი.
+nn.utf8=Ein timian.
+pt_BR.utf8=Uma moita de tomilho.
+pt_PT.utf8=Uma planta de tomilho.
+ru.utf8=Чабрец.
+sk.utf8=Tymian.
+sv.utf8=En timjansplanta.
+uk.utf8=Кущик чебрецю.
+zh_CN.utf8=百里香。
+zh_TW.utf8=百里香

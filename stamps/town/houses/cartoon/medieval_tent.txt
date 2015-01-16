@@ -1,0 +1,25 @@
+A medieval tent.
+af.utf8='n Middeleeuse tent.
+ast.utf8=Una tienda del medievu.
+ca.utf8=Una tenda medieval.
+da.utf8=Et middelaldertelt.
+de.utf8=Ein mittelalterliches Zelt.
+el.utf8=Μεσαιωνική σκηνή.
+en_GB.utf8=A medieval tent.
+es.utf8=Una carpa medieval.
+eu.utf8=Erdi aroko denda
+fr.utf8=Une tente médiévale.
+gu.utf8=મધ્યકાલીન તંબુ.
+he.utf8=אוהל ימי הביניים
+it.utf8=Una tenda medievale.
+ja.utf8=ヨーロッパの むかしの テント
+ka.utf8=შუა საუკუნეების კარავი.
+nn.utf8=Eit middelaldertelt.
+pt_BR.utf8=Uma tenda medieval.
+pt_PT.utf8=Uma tenda medieval.
+ru.utf8=Средневековая палатка.
+sk.utf8=Stredoveký stan.
+sv.utf8=Ett medeltida tält.
+uk.utf8=Середньовічний намет.
+zh_CN.utf8=一个原始帐篷。
+zh_TW.utf8=中世紀的帳篷。

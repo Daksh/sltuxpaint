@@ -1,0 +1,26 @@
+The Spanish letter n with a tilda.
+af.utf8=die Spaanse letter n met 'n tilde
+ast.utf8=La lletra ñ.
+ca.utf8=Una enya minúscula.
+da.utf8=Det spanske bogstav n med tilde.
+de.utf8=Der spanische Buchstabe n mit einer Tilde.
+el.utf8=Ισπανικό γράμμα n με σύμβολο ~.
+en_GB.utf8=The Spanish letter n with a tilda.
+es.utf8=La letra ñ del idioma español.
+eu.utf8=Gaztelaniaren ñ-a
+fr.utf8=La lettre espagnole n avec un tilde.
+gu.utf8=ટીલ્ડા સાથેનો સ્પેનિશ અક્ષર n.
+it.utf8=La lettera n spagnola con la tilde.
+ja.utf8=スペインごの もじ。チルダ「~」がついた n。
+ka.utf8=ესპანური ასო n ტილდით.
+km.utf8=តួអក្សរ​អេស្ប៉ាញ n ដោយ​មាន​សញ្ញា ~
+nb.utf8=Den spanske bokstaven «n» med tilde.
+nn.utf8=Den spanske bokstaven «n» med tilde.
+pt_BR.utf8=A letra espanhola n com til.
+pt_PT.utf8=A letra espanhola n com til.
+ru.utf8=Испанская буква n с тильдой.
+sk.utf8=Malé španielske písmeno n s vlnovkou.
+sv.utf8=Den spanska bokstaven ñ.
+uk.utf8=Іспанська літера n з тільдою.
+zh_CN.utf8=带蒂尔达的西班牙字母ｎ。
+zh_TW.utf8=西班牙字母 n 有一個 ~

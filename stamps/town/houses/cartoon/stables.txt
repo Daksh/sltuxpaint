@@ -1,0 +1,25 @@
+A stable.
+af.utf8='n Stal.
+ast.utf8=Una corte.
+ca.utf8=Un estable.
+da.utf8=En stald.
+de.utf8=Ein Stall.
+el.utf8=Στάβλος.
+en_GB.utf8=A stable.
+es.utf8=Un establo.
+eu.utf8=Korta
+fr.utf8=Une étable.
+gu.utf8=તબેલો.
+he.utf8=יציבה
+it.utf8=Una stalla.
+ja.utf8=うまごや
+ka.utf8=საჯინიბო.
+nn.utf8=Ein stall.
+pt_BR.utf8=Um estábulo.
+pt_PT.utf8=Um estábulo.
+ru.utf8=Конюшня.
+sk.utf8=Stajňa.
+sv.utf8=Ett stall.
+uk.utf8=Конюшня.
+zh_CN.utf8=马棚。
+zh_TW.utf8=馬廏。

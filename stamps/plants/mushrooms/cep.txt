@@ -1,0 +1,21 @@
+A red headed cep.
+ast.utf8=Una seta de cabeza colorada.
+ca.utf8=Un cep de cap roig.
+da.utf8=En rødhovede Karl Johan.
+el.utf8=Μανιτάρι με κόκκινο καπέλο.
+en_GB.utf8=A red headed cep.
+es.utf8=Un hongo de cabeza roja.
+eu.utf8=Honttoa
+fr.utf8=Un cèpe rouge.
+gu.utf8=લાલ સેપ.
+it.utf8=Una fungo con la cappella rossa.
+ja.utf8=あかい かさの キノコ
+ka.utf8=წითელთავა თეთრი სოკო.
+nn.utf8=Ein raud steinsopp.
+pt_BR.utf8=Um cogumelo porcini de chapéu avermelhado.
+pt_PT.utf8=Um cepo de cabeça vermelha.
+ru.utf8=Боровик.
+sk.utf8=Dubák.
+sv.utf8=En röd karljohansvamp.
+uk.utf8=Боровик.
+zh_TW.utf8=紅頭磨菇。

@@ -1,0 +1,27 @@
+A floor tom drum.
+af.utf8='n selfstaan tom-trom
+ast.utf8=Un tambor de pisu Tom.
+ca.utf8=Un tambor.
+da.utf8=En gulvtromme.
+de.utf8=Eine Stand-Trommel.
+el.utf8="Βαθύ" τύμπανο (floor tom).
+en_GB.utf8=A floor tom drum.
+es.utf8=Un tambor Tom de piso.
+eu.utf8=Danborra
+fr.utf8=Un tambour de batterie.
+gu.utf8=ફ્લોર ટોમ ડ્રમ.
+he.utf8=קומה תוף טום
+it.utf8=Un tamburo chiamato tom.
+ja.utf8=フロアタム
+ka.utf8=სადგამი ტამტამი.
+km.utf8=A floor tom drum.
+nb.utf8=En tom-tom-tromme.
+nn.utf8=Ei tom-tom-tromme.
+pt_BR.utf8=Um tambor.
+pt_PT.utf8=Uma bateria de chão.
+ru.utf8=Напольный том.
+sk.utf8=Bubon.
+sv.utf8=En puka.
+uk.utf8=Напільний барабан там-там.
+zh_CN.utf8=低音鼓。
+zh_TW.utf8=落地嗵鼓

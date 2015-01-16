@@ -1,0 +1,25 @@
+A fort.
+af.utf8='n Fort.
+ast.utf8=Un fuerte.
+ca.utf8=Un fortí.
+da.utf8=Et fort.
+de.utf8=Ein Fort.
+el.utf8=Οχυρό.
+en_GB.utf8=A fort.
+es.utf8=Un fuerte.
+eu.utf8=Gotorlekua
+fr.utf8=Un fort.
+gu.utf8=કિલ્લો.
+he.utf8=פורט
+it.utf8=Un fortino.
+ja.utf8=とりで
+ka.utf8=სიმაგრე.
+nn.utf8=Eit fort.
+pt_BR.utf8=Um forte.
+pt_PT.utf8=Um forte.
+ru.utf8=Форт.
+sk.utf8=Prístav.
+sv.utf8=Ett fort.
+uk.utf8=Форт.
+zh_CN.utf8=堡垒。
+zh_TW.utf8=要塞。

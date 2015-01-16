@@ -1,0 +1,25 @@
+Enter the cave.
+af.utf8=Gaan die grot binne.
+ast.utf8=Entrada a la cueva.
+ca.utf8=L'entrada d'una cova.
+da.utf8=Gå ind i hulen.
+de.utf8=Ein Höhleneingang.
+el.utf8=Μπες στη σπηλιά.
+en_GB.utf8=Enter the cave.
+es.utf8=Entrada a la cueva.
+eu.utf8=Sar zaitez kobazulora
+fr.utf8=L'entrée de la cave.
+gu.utf8=ગુફામાં દાખલ થાવ.
+he.utf8=הזן את המערות
+it.utf8=Ingresso della caverna.
+ja.utf8=ほらあなだ　はいってみよう
+ka.utf8=შედით მღვიმეში.
+nn.utf8=Ei hole.
+pt_BR.utf8=Entre na caverna.
+pt_PT.utf8=Entra na caverna.
+ru.utf8=Вход в пещеру.
+sk.utf8=Vojdi do jaskyne.
+sv.utf8=Gå in i grottan.
+uk.utf8=Вхід до печери.
+zh_CN.utf8=进洞。
+zh_TW.utf8=山洞。

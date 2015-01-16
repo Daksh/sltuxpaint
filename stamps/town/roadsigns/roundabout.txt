@@ -1,0 +1,27 @@
+Roundabout ahead! Which way will you go?
+af.utf8=Verkeersirkel voor! Waarheen moet jy gaan?
+ast.utf8=Rotonda. ¿Qué camín vas siguir?
+ca.utf8=Una rotonda! Cap a on anireu?
+da.utf8=Rundkørsel forude! Hvilken vej tager du?
+de.utf8=Kreisverkehr! Welchen Weg fährst du?
+el.utf8=Διασταύρωση κυκλικής πορείας μπροστά! Ποιο δρόμο θα ακολουθήσεις;
+en_GB.utf8=Roundabout ahead! Which way will you go?
+es.utf8=Rotonda. ¿Qué camino tomarás?
+eu.utf8=Biribilgunea aurrean. Zein norabidetan joango zara?
+fr.utf8=Un rond-point ! Où vas-tu ?
+gu.utf8=આગળ જઇ શકશો નહિ! તમે કયા રસ્તે જશો?
+he.utf8=? כיכר קדימה! איזו דרך תגרום לך ללכת
+it.utf8=Rotatoria! Da che parte hai deciso di andare?
+ja.utf8=「このさき まわりみち」 どっちにいく？
+ka.utf8=წინ წრიული მოძრაობაა! გადაწყვიტეთ საით აპირებთ წასვლას?
+km.utf8=ផ្លូវ​វាង​នៅ​ខាងមុខ ! តើ​អ្នក​ទៅ​ផ្លូវ​មួយ​ណា ?
+nb.utf8=Rundkjøring.
+nn.utf8=Rundkøyring.
+pt_BR.utf8=Uma rotatória logo a frente! Qual caminho você quer pegar?
+pt_PT.utf8=Rotunda já em frente. Qual o lado que queres ir?
+ru.utf8=Впереди пересечение с круговым движением! Выбирай, куда поехать!
+sk.utf8=Kruhový objaz! Ktorým smerom pôjdeš?
+sv.utf8=En rondell! Vilken väg vill du åka?
+uk.utf8=Об’їзд попереду! Яким шляхом Ви поїдете?
+zh_CN.utf8=迂回前进！你要走哪条路？
+zh_TW.utf8=繞圈子! 你要往哪邊去？

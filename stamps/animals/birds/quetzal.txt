@@ -1,0 +1,26 @@
+A quetzal.
+af.utf8='n quetzal van Suid-Amerika
+ast.utf8=Un quétzal.
+ca.utf8=Un quetzal.
+da.utf8=En trogon.
+de.utf8=Ein Quetzal.
+el.utf8=Πουλί Κετσάλ (quetzal) - Το εθνικό πτηνό της Γουατεμάλας.
+en_GB.utf8=A quetzal.
+es.utf8=Un quétzal.
+eu.utf8=Quetzal
+fr.utf8=Un quetzal.
+gu.utf8=ક્વેટઝાલ પંખી.
+it.utf8=Un quetzal.
+ja.utf8=カザリキヌバネドリ（ケツァール）
+ka.utf8=კეცალი.
+km.utf8=A quetzal.
+nb.utf8=En kvetsal.
+nn.utf8=Ein kvetsal.
+pt_BR.utf8=Um quetzal.
+pt_PT.utf8=Um quetzal.
+ru.utf8=Кетцаль.
+sk.utf8=Malý pestrofarebný vták.
+sv.utf8=En quetzal.
+uk.utf8=Кветцал.
+zh_CN.utf8=一只绿咬鹃。
+zh_TW.utf8=麗鵑

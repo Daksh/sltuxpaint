@@ -1,0 +1,24 @@
+A wishing well.
+af.utf8='n Wenspunt.
+ast.utf8=Un pozu de los deseos.
+ca.utf8=Un pou.
+da.utf8=En ønskebrønd.
+de.utf8=Ein Ziehbrunnen.
+el.utf8=Πηγάδι με ευχές.
+en_GB.utf8=A wishing well.
+es.utf8=Un pozo de los deseos.
+eu.utf8=Putzua
+fr.utf8=Un puits.
+gu.utf8=ઇચ્છાપૂર્તિ કૂવો.
+it.utf8=Un pozzo dei desideri.
+ja.utf8=ねがいごとの いど
+ka.utf8=სურვილების ჭა.
+nn.utf8=Ein ønskjebrønn.
+pt_BR.utf8=Um poço.
+pt_PT.utf8=Um bem haja.
+ru.utf8=Колодец желаний.
+sk.utf8=Studňa, ktorá ti splnení tvoje želania.
+sv.utf8=En önskebrunn.
+uk.utf8=Колодязь чи джерело, де загадують бажання (кидаючи монету).
+zh_CN.utf8=良好祝愿。
+zh_TW.utf8=水井。

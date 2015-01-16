@@ -1,0 +1,27 @@
+Eat your broccoli!
+af.utf8=Eet jou brokkolie!
+ast.utf8=¡Comi'l brócoli!
+ca.utf8=Menja't el bròquil!
+da.utf8=Spis din broccoli!
+de.utf8=Iss deinen Brokkoli!
+el.utf8=Φάε το μπρόκολο σου!
+en_GB.utf8=Eat your broccoli!
+es.utf8=¡Cómete tu brócoli!
+eu.utf8=Jan ezazu brokolia!
+fr.utf8=Mange ton brocoli !
+gu.utf8=તમારું બ્રોકોલી ખાવ!
+he.utf8=תאכל את ברוקולי!
+it.utf8=Mangia i broccoli !
+ja.utf8=ブロッコリーをたべよう！
+ka.utf8=ინებეთ ბროკოლი!
+km.utf8=ញ៉ាំ​ខាត់ណា
+nb.utf8=En brokkolibunt.
+nn.utf8=Ein brokkolibunt.
+pt_BR.utf8=Coma seu brócolis!
+pt_PT.utf8=Come os bróculos!
+ru.utf8=Ешь свою броколли!
+sk.utf8=Zjedz svoju brokolicu!
+sv.utf8=Ät din broccoli!
+uk.utf8=З’їжте Вашу броколі!
+zh_CN.utf8=吃椰菜！
+zh_TW.utf8=吃你的花椰菜!

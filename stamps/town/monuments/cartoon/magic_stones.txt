@@ -1,0 +1,25 @@
+Magic stones.
+af.utf8=Towerklippe.
+ast.utf8=Piedres máxiques.
+ca.utf8=Pedres màgiques.
+da.utf8=Magiske sten.
+de.utf8=Ein magischer Steinkreis.
+el.utf8=Μαγικοί λίθοι.
+en_GB.utf8=Magic stones.
+es.utf8=Piedras mágicas.
+eu.utf8=Harri magikoak
+fr.utf8=Les pierres magiques.
+gu.utf8=જાદુઇ પથ્થરો.
+he.utf8=אבני קסם
+it.utf8=Pietre magiche.
+ja.utf8=まほうの いし
+ka.utf8=მაგიური ქვები.
+nn.utf8=Magiske steinar.
+pt_BR.utf8=Monumento de pedra.
+pt_PT.utf8=Pedras mágicas.
+ru.utf8=Магические камни.
+sk.utf8=Čarovné kamene.
+sv.utf8=Magiska stenar.
+uk.utf8=Чарівні камені.
+zh_CN.utf8=魔力石。
+zh_TW.utf8=魔法石陣。

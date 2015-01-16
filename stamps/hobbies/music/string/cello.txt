@@ -1,0 +1,27 @@
+A cello.
+af.utf8='n tjello
+ast.utf8=Un violonchelu.
+ca.utf8=Un violoncel.
+da.utf8=En cello.
+de.utf8=Ein Cello.
+el.utf8=Βιολεντσέλο.
+en_GB.utf8=A cello.
+es.utf8=Un cello.
+eu.utf8=Celloa
+fr.utf8=Un violoncelle.
+gu.utf8=સેલો.
+he.utf8=צ 'לו
+it.utf8=Un violoncello.
+ja.utf8=チェロ
+ka.utf8=ვიოლონჩელო.
+km.utf8=វីយូឡុង
+nb.utf8=En cello.
+nn.utf8=Ein cello.
+pt_BR.utf8=Um violoncelo.
+pt_PT.utf8=Um violoncelo.
+ru.utf8=Виолончель.
+sk.utf8=Violončelo.
+sv.utf8=En cello.
+uk.utf8=Віолончель.
+zh_CN.utf8=大提琴。
+zh_TW.utf8=大提琴

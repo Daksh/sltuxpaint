@@ -1,0 +1,26 @@
+A vacuum cleaner.
+af.utf8='n stofsuier.
+ast.utf8=Una aspiradora.
+ca.utf8=Un aspirador.
+da.utf8=En støvsuger.
+de.utf8=Ein Staubsauger.
+el.utf8=Ηλεκτρική σκούπα.
+en_GB.utf8=A vacuum cleaner.
+es.utf8=Una aspiradora.
+eu.utf8=Xurgagailua
+fr.utf8=Un aspirateur.
+gu.utf8=વેક્યુમ ક્લિનર.
+he.utf8=שאבק
+it.utf8=Un aspirapolvere.
+ja.utf8=そうじき
+ka.utf8=მტვერსასრუტი.
+nn.utf8=Ein støvsugar.
+pt_BR.utf8=Um aspirador de pó.
+pt_PT.utf8=Um aspirador.
+ru.utf8=Пылесос.
+sk.utf8=Vysávač.
+sl.utf8=Sesalnik
+sv.utf8=En dammsugare.
+uk.utf8=Порохотяг.
+zh_CN.utf8=真空吸尘器。
+zh_TW.utf8=吸塵器。

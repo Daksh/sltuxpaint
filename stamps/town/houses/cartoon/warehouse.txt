@@ -1,0 +1,26 @@
+A warehouse.
+af.utf8='n Pakhuis.
+ast.utf8=Un almacén.
+ca.utf8=Un magatzem.
+da.utf8=Et lager.
+de.utf8=Ein Lagerhaus.
+el.utf8=Αποθήκη.
+en_GB.utf8=A warehouse.
+es.utf8=Un almacén.
+eu.utf8=Biltegia
+fr.utf8=Une quincaillerie.
+gu.utf8=વખાર.
+he.utf8=המחסן
+it.utf8=Un magazzino.
+ja.utf8=そうこ
+ka.utf8=საწყობი.
+nn.utf8=Eit lager.
+pt_BR.utf8=Um armazém.
+pt_PT.utf8=Um armazém.
+ru.utf8=Пакгауз (товарный склад).
+sk.utf8=Sklad.
+sl.utf8=Skladišče
+sv.utf8=Ett lagerhus.
+uk.utf8=Склад.
+zh_CN.utf8=仓库。
+zh_TW.utf8=倉庫。

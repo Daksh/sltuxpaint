@@ -1,0 +1,27 @@
+School ahead! Drive slowly!
+af.utf8=Skool voor! Ry stadig!
+ast.utf8=¡Zona d'escolinos! ¡Conduza sele!
+ca.utf8=Atenció, escola!
+da.utf8=Pas på skole! Kør forsigtigt!
+de.utf8=Achtung Schule! Langsam fahren!
+el.utf8=Σχολείο μπροστά!Οδήγησε αργά!
+en_GB.utf8=School ahead! Drive slowly!
+es.utf8=¡Zona escolar! ¡Conduce despacio!
+eu.utf8=Eskola hurbil. Astiro gidatu!
+fr.utf8=Attention école ! Conduis lentement !
+gu.utf8=આગળ શાળા છે! ધીમેથી ચલાવો!
+he.utf8=בית הספר קדימה! סע לאט!
+it.utf8=Attenzione, c'è una scuola! Rallentare!
+ja.utf8=「このさき つうがくろ」 ゆっくり うんてんすること！
+ka.utf8=წინ სკოლაა! შეანელე მოძრაობა!
+km.utf8=មាន​សាលា​នៅ​ខាងមុន ! ត្រូវ​បើក​យឺតៗ !
+nb.utf8=Skole i nærheten. Kjør sakte!
+nn.utf8=Skule i nærleiken. Køyr sakte!
+pt_BR.utf8=Escola à frente! Dirija devagar!
+pt_PT.utf8=Aproxima-se de uma escola. Conduza devagar.
+ru.utf8=Впереди школа! Езжайте медленней!
+sk.utf8=Škola! Jazdite opatrne!
+sv.utf8=Skola! Kör långsamt!
+uk.utf8=Школа попереду! Рухайтеся поволі!
+zh_CN.utf8=去学校！开慢点！
+zh_TW.utf8=前有學校! 減速駕駛!

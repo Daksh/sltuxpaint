@@ -1,0 +1,27 @@
+A football used in Australian Rules.
+af.utf8='n voetbal vir Australiaanse reëls
+ast.utf8=Un balón de fútbol australianu.
+ca.utf8=Una pilota de futbol australià.
+da.utf8=En fodbold til brug under australske fodboldregler.
+de.utf8=Ein Ball für das australische Fußballspiel.
+el.utf8=Μπάλα ποδοσφαίρου που χρησιμοποιείται σε κανόνες της Αυστραλίας.
+en_GB.utf8=A football used in Australian Rules.
+es.utf8=Una pelota de fútbol australiano.
+eu.utf8=Australian darabilten baloia
+fr.utf8=Un ballon de football australien.
+gu.utf8=ઓસ્ટ્રેલિયામાં વપરાતો ફુટબોલ.
+he.utf8=כדורגל השתמשו ב האוסטרלית כללים
+it.utf8=Un pallone da rugby australiano.
+ja.utf8=オーストラリアのフットボールでつかうボール
+ka.utf8=ფეხბურთი ავსტრალიური წესებით.
+km.utf8=បាល់ទាត់ ប្រើ​ក្នុង​ក្បួន​អូស្ដ្រាលី
+nb.utf8=En australsk fotball.
+nn.utf8=Ein australsk fotball.
+pt_BR.utf8=Uma bola de futebol americano.
+pt_PT.utf8=Uma bola usada nas regras Australianas.
+ru.utf8=Мяч, используемый в австралийском футболе.
+sk.utf8=Lopta na austrálsky futbal.
+sv.utf8=En fotboll som används i australisk rugby.
+uk.utf8=Футбольний м’яч за австралійськими правилами.
+zh_CN.utf8=在澳洲规则中用的足球。
+zh_TW.utf8=使用澳大利亞規則的橄欖球

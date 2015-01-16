@@ -1,0 +1,22 @@
+A coral trout.
+ast.utf8=Una trucha de coral.
+ca.utf8=Una truita corall.
+da.utf8=En leopardfisk.
+el.utf8=Πέστροφα που ζει στα κοράλια.
+en_GB.utf8=A coral trout.
+es.utf8=Una trucha de coral.
+eu.utf8=Koraletako arrankaria 
+fr.utf8=Une truite-corail.
+gu.utf8=પરવાળાની ટ્રાઉટ માછલી.
+he.utf8=אלמוג פורל
+it.utf8=Una trota corallina. 
+ja.utf8=スジアラ
+ka.utf8=მარჯნის კალმახი.
+nn.utf8=Ein korallaure.
+pt_BR.utf8=Uma garoupa leopardo.
+pt_PT.utf8=Uma truta de coral.
+ru.utf8=Коралловая форель.
+sk.utf8=Korálový kapor.
+sv.utf8=En coral trout.
+uk.utf8=Коралова форель.
+zh_TW.utf8=珊瑚鱒魚

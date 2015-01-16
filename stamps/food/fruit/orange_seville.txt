@@ -1,0 +1,25 @@
+A Seville orange, also called a bitter orange.
+af.utf8='n Sevillelemoen, ook bekend as 'n bitterlemoen.
+ast.utf8=Agua tónica de naranxa
+ca.utf8=Una taronja agra (o amargant).
+da.utf8=En pomerans.
+de.utf8=Eine Bitterorange, auch Sevilla-Orange und Saure Orange genannt.
+el.utf8=Το πορτοκάλι της Σεβίλης ονομάζεται επίσης πικρό πορτοκάλι.
+en_GB.utf8=A Seville orange, also called a bitter orange.
+es.utf8=Una naranja de Sevilla, también conocida como naranja amarga.
+eu.utf8=Sevillako laranja, zapore mingotsa duena.
+fr.utf8=Une orange de Séville, appelée également orange amère.
+gu.utf8=સેવિલ્લે નારંગી, કડવી નારંગી પણ કહેવાય છે.
+he.utf8=סביליה כתום, נקרא גם מר כתום
+it.utf8=Un'arancia di Siviglia, detta anche arancia amara.
+ja.utf8=みかんの なかま 「ダイダイ」
+ka.utf8=სევილიური ფორთოხალი, იგივე - მწარე ფორთოხალი.
+nn.utf8=Ei Sevilla-appelsin, òg kalla bitterappelsin.
+pt_BR.utf8=Uma laranja pokan, também chamada laranja amarga.
+pt_PT.utf8=Uma laranja Sevilhana, também chamada de laranja amarga.
+ru.utf8=Севильский апельсин, он же горький апельсин.
+sk.utf8=Sevillský pomaranč.
+sv.utf8=En pomerans, även kallad bitterapelsin.
+uk.utf8=Севільський апельсин, також званий помаранча.
+zh_CN.utf8=塞维利亚柑橘，也叫苦橙。
+zh_TW.utf8=塞維利亞橙，又叫作苦橙。

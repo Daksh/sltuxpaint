@@ -1,0 +1,22 @@
+A marigold.
+ast.utf8=Una maraviyla.
+ca.utf8=Un clavell d'Índia.
+da.utf8=En morgenfrue.
+el.utf8=Κατιφές.
+en_GB.utf8=A marigold.
+es.utf8=Un clavel.
+eu.utf8=Urrebotoia
+fr.utf8=Un œillet d'Inde.
+gu.utf8=ગલગોટો.
+he.utf8=צפורני החתול
+it.utf8=Una calendula.
+ja.utf8=マリーゴールド
+ka.utf8=ასტრა.
+nn.utf8=Ein ringblomst.
+pt_BR.utf8=Uma marigold.
+pt_PT.utf8=Um cravo de defunto.
+ru.utf8=Календула (ноготок).
+sk.utf8=Okrúhly žltý kvet aksamietnica.
+sv.utf8=En tagetesblomma.
+uk.utf8=Календула (нігтики).
+zh_TW.utf8=金盞花。

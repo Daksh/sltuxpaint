@@ -1,0 +1,23 @@
+A big eared rabbit.
+ast.utf8=Un coneyu d'oreyes grandes.
+ca.utf8=Un conillet amb les orelles grans.
+da.utf8=En storøret kanin.
+el.utf8=Κουνέλι με μεγάλα αυτιά.
+en_GB.utf8=A big eared rabbit.
+es.utf8=Un conejo de grandes orejas.
+eu.utf8=Untxi belarri-luzea
+fr.utf8=Un lapin aux grandes oreilles.
+gu.utf8=મોટા કાનવાળું સસલું.
+he.utf8= שפן באוזן גדול
+it.utf8=Un coniglietto con le orecchie grandi.
+ja.utf8=おおきな　みみの　ウサギ
+ka.utf8=ყურცქვიტა.
+nn.utf8=Ein kanin med store øyre.
+pt_BR.utf8=Um coelhinho.
+pt_PT.utf8=Um coelho de orelhas grandes.
+ru.utf8=Большеухий кролик.
+sk.utf8=Zajac s veľkými ušami.
+sl.utf8=Zajec z velikimi ušesi
+sv.utf8=En storörad kanin.
+uk.utf8=Великий вухатий кролик.
+zh_TW.utf8=長耳兔。

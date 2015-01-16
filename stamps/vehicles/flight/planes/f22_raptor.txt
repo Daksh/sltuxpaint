@@ -1,0 +1,20 @@
+An F-22 Raptor.
+ast.utf8=Un F-22 Ferre.
+ca.utf8=Un caça F-22.
+da.utf8=En F-22 Raptor.
+el.utf8=Μαχητικό Αεροπλάνο  Ράπτορ (Raptor) F-22.
+en_GB.utf8=An F-22 Raptor.
+es.utf8=Un F-22 Raptor.
+eu.utf8=F-22a
+fr.utf8=Un avion F-22 Raptor.
+gu.utf8=F-22 રેપ્ટોર.
+it.utf8=Un F-22 Raptor.
+ja.utf8=アメリカの せんとうき 「F-22 ラプトル」
+ka.utf8=გამანადგურებელი F-22
+pt_BR.utf8=Um jato F-22 Raptor.
+pt_PT.utf8=Um Raptor F22.
+ru.utf8=Истребитель F-22 "Раптор"
+sk.utf8=Stíhačka F-22.
+sv.utf8=En F-22 Raptor.
+uk.utf8=Винищувач п’ятого покоління F-22 „Raptor“ (Хижак)
+zh_TW.utf8=F-22 戰鬥機。

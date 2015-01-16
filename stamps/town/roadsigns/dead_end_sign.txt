@@ -1,0 +1,27 @@
+Dead end ahead!
+af.utf8=Doodloopstraat voor!
+ast.utf8=¡Cai ensin salida!
+ca.utf8=Carrer sense sortida!
+da.utf8=Ensrettet!
+de.utf8=Eine Sackgasse!
+el.utf8=Αδιέξοδο μπροστά!
+en_GB.utf8=Dead end ahead!
+es.utf8=¡Calle cerrada!
+eu.utf8=Irteera gabeko norabidea!
+fr.utf8=Une impasse !
+gu.utf8=આગળ રસ્તાનો અંત છે!
+he.utf8=דרך ללא מוצא קדימה!
+it.utf8=Vicolo cieco !
+ja.utf8=「このさき いきどまり！」
+ka.utf8=წინ ჩიხია!
+km.utf8=ផ្លូវ​ទាល់ នៅ​ខាងមុខ!
+nb.utf8=Blindvei.
+nn.utf8=Blindveg.
+pt_BR.utf8=Uma placa de rua sem saída.
+pt_PT.utf8=Morte já em frente.
+ru.utf8=Впереди тупик!
+sk.utf8=Slepá ulička!
+sv.utf8=En återvändsgränd!
+uk.utf8=Попереду тупік!
+zh_CN.utf8=往死胡同里冲！
+zh_TW.utf8=此路不通!

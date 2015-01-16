@@ -1,0 +1,26 @@
+A toadstool.
+af.utf8='n paddastoel.
+ast.utf8=Una seta venenosa.
+ca.utf8=Un reig bord.
+da.utf8=En paddehat.
+de.utf8=Ein Fliegenpilz.
+el.utf8=Δηλητηριώδες μανιτάρι.
+en_GB.utf8=A toadstool.
+es.utf8=Un hongo venenoso.
+eu.utf8=Perretxikoa
+fr.utf8=Un champignon vénéneux.
+gu.utf8=સુગંધી છોડ.
+he.utf8=פטריות (שם מדעי: Fungi)
+it.utf8=Un fungo velenoso.
+ja.utf8=どくキノコ
+ka.utf8=შხამა სოკო.
+nn.utf8=Ein flugesopp.
+pt_BR.utf8=Um cogumelo venenoso.
+pt_PT.utf8=Um cogumelo.
+ru.utf8=Мухомор.
+sk.utf8=Muchotrávka.
+sl.utf8=Mušnica
+sv.utf8=En giftsvamp.
+uk.utf8=Поганка (гриб).
+zh_CN.utf8=伞菌。
+zh_TW.utf8=毒菌

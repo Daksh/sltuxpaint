@@ -1,0 +1,27 @@
+A mandarin orange.
+af.utf8='n mandarynlemoen
+ast.utf8=Una mandarina.
+ca.utf8=Una mandarina.
+da.utf8=En mandarinappelsin.
+de.utf8=Eine Mandarine.
+el.utf8=Μανταρίνι.
+en_GB.utf8=A mandarin orange.
+es.utf8=Una mandarina.
+eu.utf8=Mandarina
+fr.utf8=Une mandarine.
+gu.utf8=મેન્ડેરિન સંતરુ.
+he.utf8=מנדרינה
+it.utf8=Un mandarino.
+ja.utf8=マンダリン
+ka.utf8=მანდარინი.
+km.utf8=ក្រូច​ឃ្វិច
+nb.utf8=En mandarin.
+nn.utf8=Ei mandarin.
+pt_BR.utf8=Uma tangerina.
+pt_PT.utf8=Uma toranja.
+ru.utf8=Мандарин.
+sk.utf8=Mandarinka.
+sv.utf8=En klementin.
+uk.utf8=Оранжевий апельсин.
+zh_CN.utf8=一个橘子。
+zh_TW.utf8=中國柑桔

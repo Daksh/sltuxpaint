@@ -1,0 +1,22 @@
+A very poisonous lionfish!
+ast.utf8=¡Un pexe lleón mui venenosu!
+ca.utf8=Un peix escorpí molt verinós.
+da.utf8=En meget giftig »løvefisk«!
+el.utf8=Πολύ δηλητηριώδες ψάρι σκορπιός!
+en_GB.utf8=A very poisonous lionfish!
+es.utf8=¡Un pez-león muy venenoso!
+eu.utf8=Lehoi arrain pozoitsua!
+fr.utf8=Un poisson-lion très venimeux !
+gu.utf8=બહુ ઝેરી સિંહમાછલી!
+he.utf8= רעיל מאוד דגים האריה!
+it.utf8=Un velenosissimo pesce leone!
+ja.utf8=もうどくの ミノカサゴ！
+ka.utf8=ძალიან შხამიანი ლომთევზა!
+nn.utf8=Ein veldig giftig drakefisk!
+pt_BR.utf8=Um venenoso peixe leão!
+pt_PT.utf8=Um leão marinho venenoso!
+ru.utf8=Очень ядовитая рыба-лев!
+sk.utf8=Jedovatá ryba, ktorá sa volá nažka krídlatá.
+sv.utf8=En mycket giftig lejonfisk!
+uk.utf8=Дуже отруйна риба-лев!
+zh_TW.utf8=毒性很強的獅子魚

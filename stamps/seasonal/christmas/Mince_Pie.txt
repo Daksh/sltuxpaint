@@ -1,0 +1,24 @@
+A mince pie is a traditional Christmas food in the UK. It contains dried fruit not meat.
+af.utf8='n Vrugtepastei  is 'n tradisionele Kersete in die VK.  Dit bevat droë vrugte, nie vleis nie.
+ast.utf8=Un pastel de carne picao. Tradicional comida de Navidá nel Reinu Xuníu que tien fruta seco non carne.
+ca.utf8=Una magdalena farcida.
+da.utf8=En milliontærte er en traditionel julespise i Storbritannien. Den indeholder tørret frugt ikke kød.
+de.utf8=Ein Minzkuchen, ihn gibt es zu Weihnachten in Großbritannien.
+el.utf8=Τάρτα-παραδοσιακό Χριστουγεννιάτικο φαγητό στο ΗΒ. Περιέχει ξηρά φρούτα όχι κρέας.
+en_GB.utf8=A mince pie is a traditional Christmas food in the UK. It contains dried fruit not meat.
+es.utf8=El "pastel picado" es una comida tradicional de Navidad en el Reino Unido. Contiene frutas secas.
+eu.utf8=Fruitu lehorrez egindako Erresuma Batuko gabonetako pastela.
+fr.utf8=Au Royaume-Uni, on mange traditionnellement un gâteau aux fruits secs le jour de Noël. 
+gu.utf8=મિન્સ પાઇ એ યુકેમાં પરંપરાગત ક્રિસમસ ખાણું છે. તે માંસ નહી સૂકો મેવો ધરાવે છે.
+he.utf8=פשטידה היא לרכך את חג המולד המסורתי מזון בבריטניה. זה לא מכיל בשר, פירות יבשים.
+it.utf8=Una tortina ripiena di frutta secca, che è un cibo tradizionale di Natale in Inghilterra.
+ja.utf8=イギリスで むかしからの クリスマスの たべもの 「ミンス パイ」。 おにくの かわりに ほした くだものが はいっていて あまい。
+ka.utf8=ღვეზელი ჩირით ტრადიციული საშობაო ნუგბარია დიდ ბრიტანეთში.
+nn.utf8=Ein «mince pie» er ein tradisjonell julepai i England. Han inneheld tørka frukt og ikkje kjøt.
+pt_BR.utf8=Uma torta de Natal. É um alimento tradicional no Natal do Reino Unido.
+pt_PT.utf8=Uma tarte de fruta seca é uma comida tradicional de Natal no Reino Unido.
+ru.utf8=Пирог с перекрученными сухофруктами - традиционное рождественское блюдо в Великобритании.
+sv.utf8=En mince pie är traditionell julmat i England. Den innehåller torkad frukt men inte kött.
+uk.utf8=Фарширований пиріг — традиційна різдвяна їжа у Великобританії. Він містить висушені фрукти і без м’яса.
+zh_CN.utf8=一个肉馅饼，它是英国的一个传统的圣诞食品，包含干果没有肉。
+zh_TW.utf8=肉餡餅是英國傳統的聖誔節食物，裡面包的是水果乾不是肉。

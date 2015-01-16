@@ -1,0 +1,25 @@
+A forklift truck.
+af.utf8='n Vurkhyser.
+ast.utf8=Un camión ellevador.
+ca.utf8=Un toro.
+da.utf8=En gaffeltruck.
+de.utf8=Ein Gabelstapler.
+el.utf8=Ανυψωτικό όχημα με πιρούνια.
+en_GB.utf8=A forklift truck.
+es.utf8=Un montacargas.
+eu.utf8=Zamak altxatzekoa
+fr.utf8=Un chariot élévateur.
+gu.utf8=માલવાહક ટ્રક.
+he.utf8=מלגזה
+it.utf8=Un elevatore a forca.
+ja.utf8=フォークリフト
+ka.utf8=ამწე.
+nn.utf8=Ein gaffeltruck.
+pt_BR.utf8=Uma empilhadeira.
+pt_PT.utf8=Um camião com forquilha.
+ru.utf8=Подъёмник.
+sk.utf8=Vysokozdvižný vozík.
+sv.utf8=En gaffeltruck.
+uk.utf8=Вантажопідйомник.
+zh_CN.utf8=铲车。
+zh_TW.utf8=堆高機。

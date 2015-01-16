@@ -1,0 +1,23 @@
+A flower.
+ast.utf8=Un flor.
+ca.utf8=Una flor.
+da.utf8=En blomst.
+el.utf8=Λουλούδι.
+en_GB.utf8=A flower.
+es.utf8=Una flor.
+eu.utf8=Lorea
+fr.utf8=Une fleur.
+gu.utf8=ફૂલ.
+he.utf8=פרח
+it.utf8=Un fiore.
+ja.utf8=はな
+ka.utf8=ყვავილი.
+nn.utf8=Ein blome.
+pt_BR.utf8=Um flor.
+pt_PT.utf8=Uma flor.
+ru.utf8=Цветок.
+sk.utf8=Kvietok.
+sl.utf8=Roža
+sv.utf8=En blomma.
+uk.utf8=Квітка.
+zh_TW.utf8=花朵。

@@ -1,0 +1,26 @@
+A castle in ruins.
+af.utf8='n Kasteelruïne.
+ast.utf8=Un castiellu en ruines.
+ca.utf8=Un castell en ruïnes.
+da.utf8=Et slot i ruiner.
+de.utf8=Eine Burgruine.
+el.utf8=Τα ερείπια ενός κάστρου.
+en_GB.utf8=A castle in ruins.
+es.utf8=Un castillo en ruinas.
+eu.utf8=Gaztelu zaharra
+fr.utf8=Un château en ruine.
+gu.utf8=ખંડિત કિલ્લો.
+he.utf8=בתוך ההריסות של טירת
+it.utf8=Un castello diroccato.
+ja.utf8=しろあと
+ka.utf8=ციხის ნანგრევები.
+nn.utf8=Ruinane av eit slott.
+pt_BR.utf8=Um castelo em ruínas.
+pt_PT.utf8=Um castelo em ruínas.
+ru.utf8=Развалины замка.
+sk.utf8=Ruina hradu.
+sl.utf8=Porušena graščina
+sv.utf8=Ett slott i ruiner.
+uk.utf8=Замок в руїнах.
+zh_CN.utf8=废墟中的城堡。
+zh_TW.utf8=毀壞的城堡。

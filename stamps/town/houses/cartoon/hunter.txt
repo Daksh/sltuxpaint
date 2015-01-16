@@ -1,0 +1,26 @@
+The house of the hunter.
+af.utf8=Die huis van die jagter.
+ast.utf8=La casa del cazador.
+ca.utf8=La casa del caçador.
+da.utf8=Jægerens hytte.
+de.utf8=Eine Jagdhütte.
+el.utf8=Το σπίτι του κυνηγού.
+en_GB.utf8=The house of the hunter.
+es.utf8=La casa del cazador.
+eu.utf8=Ehiztariaren etxea
+fr.utf8=La maison du chasseur.
+gu.utf8=શિકારીનું ઘર.
+he.utf8=אוהל
+it.utf8=La casa del cacciatore.
+ja.utf8=りょうし の こや
+ka.utf8=მონადირის სახლი.
+nn.utf8=Ei jakthytte.
+pt_BR.utf8=Uma cabana de caça.
+pt_PT.utf8=A casa do caçador.
+ru.utf8=Охотничий домик.
+sk.utf8=Dom pre poľovníka.
+sl.utf8=Lovčeva hiša
+sv.utf8=En jaktstuga.
+uk.utf8=Хатинка мисливця.
+zh_CN.utf8=猎人的房子。
+zh_TW.utf8=獵戶。

@@ -1,0 +1,27 @@
+Rugby goal posts.
+af.utf8=rugbypale
+ast.utf8=Una portería de rugby.
+ca.utf8=Una porteria de rugbi.
+da.utf8=Rugby mål.
+de.utf8=Rugbytorpfosten.
+el.utf8=Θέσεις στόχου ράγκμπι.
+en_GB.utf8=Rugby goal posts.
+es.utf8=Un arco de rugby.
+eu.utf8=Rugbyko atea
+fr.utf8=Des buts de rugby.
+gu.utf8=રગ્બી ગોલ પોસ્ટસ.
+he.utf8=רוגבי המטרה הודעות
+it.utf8=Porte da rugby.
+ja.utf8=ラグビーのゴール
+ka.utf8=რაგბის კარის ძელები.
+km.utf8=បង្គោលទី​បាល់​ឱប
+nb.utf8=Rugbymål.
+nn.utf8=Rugbymål.
+pt_BR.utf8=Traves de gol de rugby.
+pt_PT.utf8=Postes da baliza de râguebi.
+ru.utf8=Ворота в регби.
+sk.utf8=Ihrisko na americký futbal.
+sv.utf8=Målstolpar för rugby.
+uk.utf8=Гольові палі у реґбі.
+zh_CN.utf8=橄榄球球门柱
+zh_TW.utf8=橄欖球的球門柱

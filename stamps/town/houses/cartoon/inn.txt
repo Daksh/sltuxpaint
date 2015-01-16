@@ -1,0 +1,25 @@
+An inn.
+af.utf8='n Hotel.
+ast.utf8=Una posada.
+ca.utf8=Una fonda.
+da.utf8=En kro.
+de.utf8=Ein Gasthof.
+el.utf8=Πανδοχείο.
+en_GB.utf8=An inn.
+es.utf8=Un hostal.
+eu.utf8=Etxea
+fr.utf8=Une auberge.
+gu.utf8=વીશી.
+it.utf8=Una taverna.
+ja.utf8=やどや
+ka.utf8=საგზაო სასტუმრო.
+nn.utf8=Ein gjestgjevargard.
+pt_BR.utf8=Uma estalagem.
+pt_PT.utf8=Uma pousada.
+ru.utf8=Постоялый двор.
+sk.utf8=Krčma.
+sl.utf8=Hotel
+sv.utf8=Ett värdshus.
+uk.utf8=Заїжджий двір.
+zh_CN.utf8=旅馆！
+zh_TW.utf8=小客棧。

@@ -1,0 +1,26 @@
+A doctor.
+af.utf8='n Dokter.
+ast.utf8=Un médicu.
+ca.utf8=Una metgessa.
+da.utf8=En læge.
+de.utf8=Eine Ärztin.
+el.utf8=Γιατρός.
+en_GB.utf8=A doctor.
+es.utf8=Un doctor.
+eu.utf8=Medikua
+fr.utf8=Une doctoresse.
+gu.utf8=ડોક્ટર.
+he.utf8=רופא
+it.utf8=Un dottore.
+ja.utf8=おいしゃさん
+ka.utf8=ექიმი.
+nn.utf8=Ein dokter.
+pt_BR.utf8=Uma médica.
+pt_PT.utf8=Um doutor.
+ru.utf8=Врач.
+sk.utf8=Lekár.
+sl.utf8=Doktor
+sv.utf8=En doktor.
+uk.utf8=Лікар.
+zh_CN.utf8=医生。
+zh_TW.utf8=女醫師。

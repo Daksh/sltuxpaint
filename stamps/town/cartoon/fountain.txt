@@ -1,0 +1,26 @@
+The fountain of youth.
+af.utf8=Die fontein van die lewe.
+ast.utf8=La fonte de la mocedá.
+ca.utf8=La font de la joventut.
+da.utf8=Ungdommens fontæne.
+de.utf8=Ein Springbrunnen.
+el.utf8=Το σιντριβάνι της νεότητας.
+en_GB.utf8=The fountain of youth.
+es.utf8=La fuente de la juventud.
+eu.utf8=Gaztetasunaren iturria
+fr.utf8=La fontaine de Jouvence.
+gu.utf8=યુવતાનો ફુવારો.
+he.utf8=את מבוע של הנוער
+it.utf8=La fontana della giovinezza.
+ja.utf8=わかさの いずみ
+ka.utf8=ახალგაზრდობის შადრევანი.
+nn.utf8=Ungdomskjelda.
+pt_BR.utf8=A fonte da juventude.
+pt_PT.utf8=A fonte da juventude.
+ru.utf8=Фонтан молодости.
+sk.utf8=Fontána večnej mladosti.
+sl.utf8=Vodnjak mladosti
+sv.utf8=Ungdomens källa.
+uk.utf8=Фонтан молодості.
+zh_CN.utf8=年轻人的源泉。
+zh_TW.utf8=噴水池。

@@ -1,0 +1,27 @@
+A Tamworth pig.
+af.utf8='n plaasvark
+ast.utf8=Un gochu Tamworth.
+ca.utf8=Un porc Tamworth.
+da.utf8=En gris.
+de.utf8=Ein Tamworth-Schwein.
+el.utf8=Oικόσιτο γουρούνι.
+en_GB.utf8=A Tamworth pig.
+es.utf8=Un cerdo Tamworth.
+eu.utf8=Tamworth txerria
+fr.utf8=Un cochon Tamworth.
+gu.utf8=ટેમવોર્થ ભૂંડ.
+he.utf8=Tamworth חזיר
+it.utf8=Un maiale di Tamworth.
+ja.utf8=タムワースブタ
+ka.utf8=შინაური ღორი.
+km.utf8=ជ្រូក​ក្រហម
+nb.utf8=En Tamworth-gris.
+nn.utf8=Ein Tamworth-gris.
+pt_BR.utf8=Um porco Tamworth
+pt_PT.utf8=Um porco Tamworth.
+ru.utf8=Домашняя свинья.
+sk.utf8=Zlaté prasiatko.
+sv.utf8=En Tamworth-gris.
+uk.utf8=Свиня породи Темворс.
+zh_CN.utf8=塔姆沃斯猪。
+zh_TW.utf8=湯渥斯豬

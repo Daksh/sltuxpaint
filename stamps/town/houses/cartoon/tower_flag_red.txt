@@ -1,0 +1,25 @@
+A tower with a red flag.
+af.utf8='n Toring met 'n rooi vlag.
+ast.utf8=Una torre con una bandera colorada.
+ca.utf8=Una torre amb una bandera vermella.
+da.utf8=Et tårn med et rødt flag.
+de.utf8=Ein Turm mit roter Flagge.
+el.utf8=Πύργος με κοκκινη σημαία.
+en_GB.utf8=A tower with a red flag.
+es.utf8=Una torre con una bandera roja.
+eu.utf8=Bandera zuria duen dorrea
+fr.utf8=Une tour avec un drapeau rouge.
+gu.utf8=લાલ ધ્વજ સાથેનો મિનારો.
+he.utf8=מגדל עם דגל אדום
+it.utf8=Una torre con una bandiera rossa.
+ja.utf8=あかい はた の とう
+ka.utf8=კოშკი წითელი დროშით.
+nn.utf8=Eit tårn med eit raudt flagg.
+pt_BR.utf8=Uma torre com uma bandeira vermelha.
+pt_PT.utf8=Uma torre com bandeira vermelha.
+ru.utf8=Башня с красным флагом.
+sk.utf8=Veža s červenou zástavou.
+sv.utf8=Ett torn med en röd flagga.
+uk.utf8=Башта з червоним прапором.
+zh_CN.utf8=插着红旗的城堡。
+zh_TW.utf8=插紅色旗子的塔樓。

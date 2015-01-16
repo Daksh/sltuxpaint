@@ -1,0 +1,26 @@
+A graveyard.
+af.utf8='n Begraafplaas.
+ast.utf8=Un cementeriu.
+ca.utf8=Un cementiri.
+da.utf8=En kirkegård.
+de.utf8=Ein Friedhof.
+el.utf8=Νεκροταφείο.
+en_GB.utf8=A graveyard.
+es.utf8=Un cementerio.
+eu.utf8=Hilerria
+fr.utf8=Un cimetière.
+gu.utf8=કબ્રસ્તાન.
+he.utf8=בית קברות
+it.utf8=Un cimitero.
+ja.utf8=はかば
+ka.utf8=სასაფლაო.
+nn.utf8=Ein gravstad.
+pt_BR.utf8=Um cemitério.
+pt_PT.utf8=Um cemitério.
+ru.utf8=Кладбище.
+sk.utf8=Cintorín.
+sl.utf8=Pokopališče
+sv.utf8=En gravplats.
+uk.utf8=Кладовище.
+zh_CN.utf8=墓地。
+zh_TW.utf8=墓園。

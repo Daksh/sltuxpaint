@@ -1,0 +1,27 @@
+A rhea.
+af.utf8='n rea (familie van emu en volstruis)
+ast.utf8=Un ñandú.
+ca.utf8=Un nyandú.
+da.utf8=En nandu.
+de.utf8=Ein Nandu.
+el.utf8=Στρουθοκάμηλος Νότιας Αμερικής.
+en_GB.utf8=A rhea.
+es.utf8=Un ñandú.
+eu.utf8=Ñandua
+fr.utf8=Un nandou.
+gu.utf8=રીહા પંખી.
+he.utf8=ריאה
+it.utf8=Un nandù.
+ja.utf8=みなみアメリカにすむ　ダチョウのなかま　「レア」
+ka.utf8=ნანდუ.
+km.utf8=ឆ្កែ​ចចក
+nb.utf8=En nandu – en type struts.
+nn.utf8=Ein nandu – ein type struts.
+pt_BR.utf8=Uma ema.
+pt_PT.utf8=Uma ema.
+ru.utf8=Нанду.
+sk.utf8=Nandu — juhoamický pštros.
+sv.utf8=En nandu.
+uk.utf8=Нанду (американський страус).
+zh_CN.utf8=一只鸵鸟
+zh_TW.utf8=美洲三趾駝鳥

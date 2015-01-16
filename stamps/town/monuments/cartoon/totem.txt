@@ -1,0 +1,25 @@
+A totem pole.
+af.utf8='n Totempaal.
+ast.utf8=Un tótem.
+ca.utf8=Un tòtem.
+da.utf8=En totempæl.
+de.utf8=Ein Totempfahl.
+el.utf8=Στύλος τοτέμ-παραδοσιακή τέχνη των ντόπιων Αμερικάνων.
+en_GB.utf8=A totem pole.
+es.utf8=Un tótem.
+eu.utf8=Totema
+fr.utf8=Un totem.
+gu.utf8=કુળપ્રતીકોવાળો વાંસ.
+he.utf8=עמוד טוֹטם (הוא עמוד עץ מגולף עצום ממדים)
+it.utf8=Un totem.
+ja.utf8=トーテムポール
+ka.utf8=ტოტემის სვეტი.
+nn.utf8=Ein totempåle.
+pt_BR.utf8=Um totem.
+pt_PT.utf8=Uma vara totem.
+ru.utf8=Тотемный столб.
+sk.utf8=Indiánsky stĺp totem.
+sv.utf8=En totempåle.
+uk.utf8=Тотемний стовп (у північноамериканських індійців).
+zh_CN.utf8=图腾柱。
+zh_TW.utf8=圖騰柱

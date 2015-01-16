@@ -1,0 +1,26 @@
+A pair of cherries.
+af.utf8='n Paar kersies.
+ast.utf8=Una pareya de zreces.
+ca.utf8=Dues cireres.
+da.utf8=Et par kirsebær.
+de.utf8=Ein Paar Kirschen.
+el.utf8=Δύο κεράσια.
+en_GB.utf8=A pair of cherries.
+es.utf8=Un par de cerezas.
+eu.utf8=Kereziak
+fr.utf8=Des cerises.
+gu.utf8=ચેરી.
+he.utf8=זוג דובדבנים
+it.utf8=Un paio di ciliegie.
+ja.utf8=さくらんぼ
+ka.utf8=ალუბლის კუნწულა.
+nn.utf8=To kirsebær.
+pt_BR.utf8=Um par de cerejas.
+pt_PT.utf8=Um par de amoras.
+ru.utf8=Пара вишенок.
+sk.utf8=Čerešne.
+sl.utf8=Češnjici
+sv.utf8=Ett par körsbär.
+uk.utf8=Пара вишень.
+zh_CN.utf8=一对樱桃。
+zh_TW.utf8=二顆櫻桃。

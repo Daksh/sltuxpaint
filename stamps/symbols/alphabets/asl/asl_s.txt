@@ -1,0 +1,27 @@
+The sign for the letter S in American Sign Language.
+af.utf8=Die letter S in Amerikaanse gebaretaal.
+ast.utf8=La lletra S nel llinguax de señes americanu.
+ca.utf8=El signe per la lletra S en el llenguatge de signes americà.
+da.utf8=Tegnet for bogstavet S i amerikansk tegnsprog.
+de.utf8=Der Buchstabe S in der Amerikanischen Gebärdensprache.
+el.utf8=Το σύμβολο για το γράμμα S  στην Αμερικάνικη νοηματική..
+en_GB.utf8=The sign for the letter S in American Sign Language.
+es.utf8=La letra S en el lenguaje de señas americano.
+eu.utf8=S letraren zeinua ameriketako gorren hizkuntan
+fr.utf8=La lettre S en langage des signes américain.
+gu.utf8=અમેરિકન સંજ્ઞા ભાષામાં અક્ષર S ની સંજ્ઞા.
+it.utf8=Il segno corrispondente alla lettera S nel linguaggio dei segni americano.
+ja.utf8=「S」の もじを あらわす アメリカの しゅわ
+ka.utf8=ნიშანი ასოსთვის S ამერიკულ ნიშნების ენაში.
+km.utf8=សញ្ញា​អក្សរ S ជា​ភាសា​សញ្ញា​អាមេរិក ។
+nb.utf8=Tegnet for bokstaven «S» i det amerikanske tegnspråket.
+nn.utf8=Teiknet for bokstaven «S» i det amerikanske teiknspråket.
+pt_BR.utf8=O gesto para a letra S na Linguagem Americana de Sinais.
+pt_PT.utf8=A marca para a letra S no idioma Americano.
+ru.utf8=Знак для буквы S в американском языке жестов.
+sk.utf8=Znak pre písmeno S v americkej znakovej reči.
+sl.utf8=Znak za črko S v znakovnem jeziku
+sv.utf8=Tecknet för bokstaven S i det amerikanska teckenspråket.
+uk.utf8=Знак для латинської літери S на американській мові знаків.
+zh_CN.utf8=美国手语中字母Ｓ的标示。
+zh_TW.utf8=美國手語的字母 S

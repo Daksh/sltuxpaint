@@ -1,0 +1,25 @@
+A wheelie bin! Give me your trash!
+af.utf8='n wieletjie-asblik! Gee my jou gemors!
+ast.utf8=¡Un contenedor de basoria con ruedes! ¡Dame la to basoria!
+ca.utf8=Un contenidor d'escombraries.
+da.utf8=En affaldspand på hjul! Giv mig dit affald!
+de.utf8=Ein Mülleimer! Wirf deinen Müll hier ein.
+el.utf8=Κάδος απορρυμάτων με ρόδες! Δώσε μου τα σκουπίδια σου!
+en_GB.utf8=A wheelie bin! Give me your rubbish!
+es.utf8=¡Un contenedor de basura con ruedas! ¡Dame tu basura!
+eu.utf8=Zarama ontzia. Eman iezadazu zure zaborra!
+fr.utf8=Une poubelle avec des roues ! Donne moi tes déchets !
+gu.utf8=વ્હીલી કચરાપેટી! મને તમારો કચરો આપો!
+it.utf8=Un bidone della spazzatura con le ruote! Dammi tutta la tua robaccia!
+ja.utf8=しゃりんがついた ごみばこ。ゴミをすててね！
+ka.utf8=ურნა ასაწევი სახურავით! ნაგავი აქ ჩაყარეთ!
+km.utf8=ធុង​សំរាម​មាន​កង់ ! សូម​ផ្ដល់​សំរាម​ឲ្យ​ខ្ញុំ
+nb.utf8=Et søppelspann på hjul.
+nn.utf8=Eit bosspann på hjul.
+pt_BR.utf8=Uma lixeira com rodinhas! Ponha o seu lixo nela!
+pt_PT.utf8=Um caixote de lixo com rodas. Dá-me o teu lixo!
+ru.utf8=Мусорная корзина с подъёмной крышкой! Бросай мусор сюда!
+sk.utf8=Smetný kôš na kolieskach. Odpadky dávajte sem!
+sv.utf8=En soptunna! Ge mig ditt skräp!
+uk.utf8=Урна з двома колесиками! Кинь у мене сміття!
+zh_TW.utf8=垃圾筒：把你的垃圾給我!

@@ -1,0 +1,22 @@
+George the blue groper.
+ast.utf8=Un pexe azul.
+ca.utf8=George, el nero blau.
+da.utf8=En blå læbefisk.
+el.utf8=Ο Γιώργος το μπλε γκρόπερ.
+en_GB.utf8=George the blue groper.
+es.utf8=Jorge el Groper Azul.
+eu.utf8=Arrain urdina
+fr.utf8=Jojo le mérou.
+gu.utf8=જ્યોર્જ વાદળી ગ્રોપર.
+it.utf8=Giorgio, la cernia blu.
+ja.utf8=オーストラリアにすむ ベラのなかま (ブルー・グルーパー)
+ka.utf8=ლურჯი თევზი სახელად ჯორჯი.
+nn.utf8=Ein «Achoerodus viridis» (ein slags leppefisk).
+pt_BR.utf8=George, o bodião azul.
+pt_PT.utf8=George o groper azul.
+ru.utf8=Джордж - голубой гропёр.
+sk.utf8=Modrá plyšová veľryba.
+sl.utf8=Tropska ribica Jure.
+sv.utf8=George, en blue groper.
+uk.utf8=Джордж — блакитний ґропер.
+zh_TW.utf8=藍色的鱸魚
